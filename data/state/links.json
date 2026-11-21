@@ -12,7 +12,9 @@
 "https://www.easa.europa.eu/en/newsroom-and-events/news/new-vacancies-published-air-operations-expert-air-operations-expert-rotorcraft-and-human-factors",
 "https://www.easa.europa.eu/en/newsroom-and-events/news/sunny-swift-threat-and-error-management-part-1",
 "https://www.easa.europa.eu/en/newsroom-and-events/news/updated-guidance-organisations-using-easa-organisation-approval-tool"
-]
+],
+"raw_links": 804,
+"matched": 11
 },
 "easa-press": {
 "seen": [
@@ -28,7 +30,9 @@
 "https://www.easa.europa.eu/en/newsroom-and-events/press-releases/helicopters-connect-protect-and-save-european-rotors-and",
 "https://www.easa.europa.eu/en/newsroom-and-events/press-releases/norways-civil-aviation-authority-and-european-union-aviation",
 "https://www.easa.europa.eu/en/newsroom-and-events/press-releases/thibauld-jongen-appointed-easa-certification-director"
-]
+],
+"raw_links": 805,
+"matched": 12
 },
 "easa-npa": {
 "seen": [
@@ -84,7 +88,9 @@
 "https://www.easa.europa.eu/en/document-library/notices-of-proposed-amendment/npa-2026-01",
 "https://www.easa.europa.eu/en/document-library/notices-of-proposed-amendment/npa-2026-02",
 "https://www.easa.europa.eu/en/document-library/notices-of-proposed-amendment/npa-2026-03"
-]
+],
+"raw_links": 1053,
+"matched": 50
 },
 "easa-decisions": {
 "seen": [
@@ -140,7 +146,9 @@
 "https://www.easa.europa.eu/en/document-library/agency-decisions/ed-decision-2026010r",
 "https://www.easa.europa.eu/en/document-library/agency-decisions/executive-activities",
 "https://www.easa.europa.eu/en/document-library/agency-decisions/finance-and-business-activities"
-]
+],
+"raw_links": 974,
+"matched": 49
 },
 "enisa-news": {
 "seen": [
@@ -158,7 +166,9 @@
 "https://www.enisa.europa.eu/news/sweden-sweeps-the-winning-title-of-the-european-cybersecurity-challenge ",
 "https://www.enisa.europa.eu/news/the-cra-single-reporting-platform-is-launched",
 "https://www.enisa.europa.eu/news/the-cra-single-reporting-platform-is-launched "
-]
+],
+"raw_links": 189,
+"matched": 14
 },
 "certeu-advisories": {
 "seen": [
@@ -184,7 +194,9 @@
 "https://cert.europa.eu/publications/security-advisories/2026-020/",
 "https://cert.europa.eu/publications/security-advisories/2026-021/",
 "https://cert.europa.eu/publications/security-advisories/2026-022/"
-]
+],
+"raw_links": 182,
+"matched": 22
 },
 "circl": {
 "seen": [
@@ -298,7 +310,9 @@
 "https://www.circl.lu/pub/tr-98",
 "https://www.circl.lu/pub/tr-99",
 "https://www.circl.lu/pub/traffic-light-protocol/"
-]
+],
+"raw_links": 221,
+"matched": 110
 },
 "cnpd": {
 "seen": [
@@ -322,6 +336,28 @@
 "https://cnpd.public.lu/fr/actualites/national/2026/11/renouvellement-partiel-du-college.html",
 "https://cnpd.public.lu/fr/actualites/national/2026/12/dpbasics-dec2026.html",
 "https://cnpd.public.lu/fr/actualites/national/2026/12/dpia-dec2026.html"
-]
+],
+"raw_links": 105,
+"matched": 20
+},
+"icao-news": {
+"seen": [],
+"raw_links": 243,
+"matched": 0
+},
+"dac-news": {
+"seen": [],
+"raw_links": 86,
+"matched": 0
+},
+"mmtp-news": {
+"seen": [],
+"raw_links": 63,
+"matched": 0
+},
+"govcert": {
+"seen": [],
+"raw_links": 0,
+"matched": 0
 }
 }
