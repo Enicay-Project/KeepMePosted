@@ -804,6 +804,18 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
+  "id": "aaa72d280bfea43a",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Un cambriolage dans les locaux de la police judiciaire au Findel - lequotidien",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWlRHQXI2bmR6TndCQUMyQ1pENGtqeUluUmZ2ZzJpM2JObEQtMFgxQXVvVmlnQUE4ZkVtbVNMbzFJY1M2NWNmdjkxUFJqejRILXV3VUpXN2kybHUwaFB1ZFdCN3phZUE1UFVLSFNSQ2xrUnFRbk9nX2Zwdk15NHZHZmNabWR4QXRtZ0tiUG11Q1E2cDBJY0QyRTh5YUFsY2tibGNaNV9jbDR3YnNzRktSdTlvLVE?oc=5",
+  "summary": "Un cambriolage dans les locaux de la police judiciaire au Findel lequotidien",
+  "published": "2026-11-19T09:31:54Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
   "id": "2356e8832e36b30b",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
@@ -828,6 +840,18 @@
   "collected": "2026-11-21T03:15:00Z"
  },
  {
+  "id": "34dedda0cf68775d",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Le Findel rejoint l'association Aéro Biodiversité - lequotidien",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVEtuVzEtS2R2bzlOLUpMeDY4SEhSUEl4T3c5eERZZGdjVERic0M1OEd2S3ZrZ0tVenV0ZHlUb1AzRWx0Mk8zRjZGcmJWWW81eFhFZWNGTVVBWUpycThIQnZLRE5mUk5JMzg1bXFidFdpZG9TUWdoVHdXZVRDWm0zd2pObk93VF9zb2ktY2ZlTTluaFdhai00UXRB?oc=5",
+  "summary": "Le Findel rejoint l'association Aéro Biodiversité lequotidien",
+  "published": "2026-11-18T15:14:15Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
   "id": "df415f2b4fa90d61",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
@@ -838,6 +862,18 @@
   "summary": "Caribbean Airlines confirms passenger booking data breach through Amadeus reservations provider WIC News",
   "published": "2026-11-18T05:01:44Z",
   "collected": "2026-11-21T03:13:53Z"
+ },
+ {
+  "id": "01793a8999b89232",
+  "source": "gn-supply",
+  "source_name": "Google News – Fournisseurs critiques de l'aviation",
+  "category": "Fournisseur",
+  "zone": "INT",
+  "title": "airBaltic Data Breach: 618,000 Bookings Exposed at an IT Supplier - MiGFlug",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeG5EbHVFMl83eXN2b0FFWUFzSUhuNjBkaTN5Yzl1LTV3NktVTU5zVHZKR0taZ1FxRWZ5QlZCZlQxWkhad2xpSm11Nk9JdFJZR2RESkdnRjJwYTBFdEJ4R3RoM3kzQ2tFRDlVbnB2Q1hSX3hacHR4X0hIcXRkd01TaEp4aGluaXlGNWZZU2o2STdnNWF3QUR5Q1dTb1g?oc=5",
+  "summary": "airBaltic Data Breach: 618,000 Bookings Exposed at an IT Supplier MiGFlug",
+  "published": "2026-11-17T15:44:36Z",
+  "collected": "2026-11-21T03:48:10Z"
  },
  {
   "id": "0ece1115f46f98fc",
@@ -984,6 +1020,18 @@
   "collected": "2026-11-21T03:15:00Z"
  },
  {
+  "id": "d5bdfd1d1db524a1",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Cargolux - MNAHA Art Shipment - Aerocontact.com",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55M3VuSjJnNThKcmNNaGNLem41dTlCWXVaS0NYUlVRR3l4cGVoTmRsU2xfYndYZWtXeTFGOHJXWkxXLWNhVE1rU3ZxOVRJZmxyc2tKODBYSVozTGRnOEFwWENjZ1NkX3NiU0o0cEdMVFR3cm0zNFRvOQ?oc=5",
+  "summary": "Cargolux - MNAHA Art Shipment Aerocontact.com",
+  "published": "2026-11-11T08:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
   "id": "f6ebeea84f18b41f",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
@@ -1032,6 +1080,18 @@
   "collected": "2026-11-21T03:15:00Z"
  },
  {
+  "id": "b20189f4539f03f2",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Contrôle aérien : la tour du Findel dans le rouge - lequotidien",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOckN1bU5NZjVRLXRrVHVRUmNaV182SlFBRWE2N2dCVE1RbTJVbGc0M0tFMXFVVFdxRnBTZ2FUMW5Wd1pnZFlid3J0eUFRZWJwbEd6eHNFYVMwUEFRa0JmdldIbW5JOGpvakFOMF9iZ2wwc1paOHpXNVpuVDBBQ2l5U0szUndMQXp6MzhsZHRBbWZ5TlM2cXc?oc=5",
+  "summary": "Contrôle aérien : la tour du Findel dans le rouge lequotidien",
+  "published": "2026-11-07T08:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
   "id": "86dfdfbb9022ddd4",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
@@ -1054,6 +1114,18 @@
   "summary": "Understanding New Information Security and Safety Requirements under Part-IS IATA",
   "published": "2026-11-06T08:00:00Z",
   "collected": "2026-11-21T03:15:00Z"
+ },
+ {
+  "id": "c594b4d843fd7665",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "« Debout », Spectacle de Linda Findel – du 12 novembre au 10 décembre 2026, Strasbourg | Coze - Coze Magazine",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92NXg3cHVPWWVSTEpQR1Y5d3NuTGQ3LW9CLWNqVE5FN0FiZ2lxZndRWExKaG1YNGJ0cVc0cnpQd3ZxVkYzdkZXQUE4ZUk1bTNuNmJSdzlCajMzZFpiM1lMOVVzRmRXclZYUU5nYQ?oc=5",
+  "summary": "« Debout », Spectacle de Linda Findel – du 12 novembre au 10 décembre 2026, Strasbourg | Coze Coze Magazine",
+  "published": "2026-11-05T12:57:55Z",
+  "collected": "2026-11-21T03:48:10Z"
  },
  {
   "id": "5b7506c4b95e2fe9",
@@ -1090,6 +1162,18 @@
   "summary": "Singapore Airlines reports 46,000 booking records accessed illegally in data breach affecting Amadeus FTN news",
   "published": "2026-11-04T08:00:00Z",
   "collected": "2026-11-21T03:13:53Z"
+ },
+ {
+  "id": "0f4475cdf56f078f",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Rush au Findel: 630 000 passagers vont passer par l'aéroport - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcFRYTENzNlVCUzZBVVE2ZzNOb1dyWk1sNmg5U3NBQ0hQRTd1cTYwdXNscFVZYl9za1ZZbnNxd3pOYlZ0RnpUNUttMGp5ZHNSUWNxeFpCWHp1VV9aclgwZHNMMVIwQ1VzOVZ1ZkZxQjQ1MjEtbkVEVFh3Mm9nc05oQjI4NHBweFh5VENzbjhoX1BwU0RLTVhES3laQXlhY2V5ZWF0TkVFZ1VUQUJGNUwzVFVmWUZ6d0xLR0E?oc=5",
+  "summary": "Rush au Findel: 630 000 passagers vont passer par l'aéroport L'essentiel",
+  "published": "2026-11-04T08:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
  },
  {
   "id": "03fc827fbfecf71a",
@@ -1332,6 +1416,18 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
+  "id": "991c759282ce4199",
+  "source": "gn-supply",
+  "source_name": "Google News – Fournisseurs critiques de l'aviation",
+  "category": "Fournisseur",
+  "zone": "INT",
+  "title": "Malaysia Airlines warns customers of possible data exposure in Amadeus cyber breach - Newswav",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT244REVTT0Vha3k3OFRoNkZnQk5MNGprZHBjaG04NWxmVEtDR2xoeFJqUF9LZ2Y5OGxMUlRISktwN3RNd290NHJlR0l4b21nNTBqcTlTME5HVTJQWmY4dEo0Xzc1VlR4NlIyUEJVNWNCRFJiN05LVHBzeWtia1VTWGM4UUFoZGM0MVRha3l5ZVNTcHFKVmhseXA2ZkNSSF9QS3NUZzQ2WExGaVV1V1Z1ZjVlemplU2s?oc=5",
+  "summary": "Malaysia Airlines warns customers of possible data exposure in Amadeus cyber breach Newswav",
+  "published": "2026-11-01T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
   "id": "25011f2daee52442",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
@@ -1452,6 +1548,42 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
+  "id": "2dc805a0ec942273",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "«Une mesure de précaution»: pourquoi Luxair va faire voler deux avions Airbus cet hiver - Virgule.lu",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOTNCQnVWVzdoVkJWVlFfVUxXWlNFbmpTbjA2c1JMb2NncnVWMHpIS0FFN0JRWklsLTE5SHdnN0JOaWJWckRCb29UR0pRMUdRaFdfcWJ2RWMyZHZDN20xRmo3bTFYbm1aVzhXUWhIYk0yOE5adFFEa2dPX0JfUWY1QUM4Q3lPV3F1LVIwYlBrVkV5QU8zWGJDNnppd3NIeEJlRTByd2RPLW9CcHVWYkdFSVd2Q29uLXBVdEtEWDJnS2VDY1JIbmM4SUdfZDkxUQ?oc=5",
+  "summary": "«Une mesure de précaution»: pourquoi Luxair va faire voler deux avions Airbus cet hiver Virgule.lu",
+  "published": "2026-10-27T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "48e1909d4c653d9a",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Un Boeing 747-8F de Cargolux trahi par son train d’atterrissage principal - Aerobuzz",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTdiSWlZUFVxWVZWcVloQ3FhbW93elRIeGFReHNRM2Z0N2xlNjdHeDA5OUpxUlJfemhvbEVGdEprZ25Dd1pxd0NOUXd1cHdXTlAxdi1HNzVMbC1SQWJBTWpIbVlGN0h3cHM2WnZja0llbXNidElqRFlaSk1uN1NFZ0JETmVsRVdRZWJUa01HSWlrMU9VTHYzU045T09RUDh6VlVVNHRLYWtjMm84Mm5Fc0xXbnAxZnhKOGlDZjhR?oc=5",
+  "summary": "Un Boeing 747-8F de Cargolux trahi par son train d’atterrissage principal Aerobuzz",
+  "published": "2026-10-27T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "67f331bdf25d96e6",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Luxembourg. À l’aéroport de Findel, une nouvelle destination sans escale vers le Moyen-Orient - La Semaine",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV1l0Z01EWlhBRjhYYzRISFR2OU05dldPbzZOTnh0TG5kd3JOWWhxQURrNmluYUxyVkJkYnZCQkZkWko0YmhIY0pUekJaOHRHTWp4TDFfc0RieW1kdWJ5dDBKSERHdURXeTEyeHVPcGY3cF9FR3JzUXhWTURpUWRIQUx1M0JrUnkyWnE3REJLMnRqOGRXb29zYm9VLXFDVC1NREhMWnR6QWtQeFBRMzBaQnp4aWlQOHM5eFZzell4STZmYkE?oc=5",
+  "summary": "Luxembourg. À l’aéroport de Findel, une nouvelle destination sans escale vers le Moyen-Orient La Semaine",
+  "published": "2026-10-27T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
   "id": "760613e1faa54b5e",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
@@ -1462,6 +1594,42 @@
   "summary": "Amadeus Account Breach Exposes Korean Air, Asiana Booking Data; Scope of Damage Unknown finance.biggo.com",
   "published": "2026-10-23T13:29:26Z",
   "collected": "2026-11-21T03:13:53Z"
+ },
+ {
+  "id": "8c2a8c05910a74e0",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Un incident avec un avion Cargolux signalé au Findel - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU09XajUtU0VlYmFlLWd6R0l1NWlZRFJ6dm5kT25LU1RWMVJyckVZOF82OFdKaVk4SEx2UlFSRWlmNC1ZTFZEU2hMVHppaHVtNTNGUmg2RjhiTy03OGNNa3ktMnpiNzZZM0o2d0x5NnBpckoxTkV5VzFKLXN3ZldvNEVHRlozem1Wa3B2bVVIX3ZwUVRzMjZFWUdMQXF6a2g1VV9ZeG1kUjFLV21w?oc=5",
+  "summary": "Un incident avec un avion Cargolux signalé au Findel L'essentiel",
+  "published": "2026-10-23T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "5a892e5aa7c0f794",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Un Boeing de Cargolux s’affaisse au Findel, des contrôles lancés sur toute la flotte - Virgule.lu",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZGk3cWhsY2V1Wkl3NnJHQjNtRkVNZXY0WWxYNzVXOWdOVEFHRnItWEk4RWIxRzNiRTBGcEswM1d0UzVzREpaZWp3N3h3LXlHSU1yeUV0TzJxbFV4enlvTkFvRGFoQzFHeGNCZDJQeHh6SEpMXzRYaHcxejNqaUNLQk1PenNyMWduTHVZSE41d0txZHB0Q29kOTFCYzBUZk5fWk5RZHQtNV9Gc1VJcFNpMzk3YXNpeXlVaUVnNjBaVzUtWER1eWFCSHNWYw?oc=5",
+  "summary": "Un Boeing de Cargolux s’affaisse au Findel, des contrôles lancés sur toute la flotte Virgule.lu",
+  "published": "2026-10-23T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "dbae2c28e27fabb9",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Incident au Findel: Le train d’atterrissage d’un Boeing Cargolux s’effondre à l’arrêt - RTL Lëtzebuerg",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa1d3cVc4QzNkR2dmOFV0cVRRUzhCY3hobEhOcG1kYmw1SXduS2VMOEI0U1dBMG40UnlXcFV6dldRRmVFU3VTejRSVUZQaERsc25relRMd1ljZWloRmFGc3JRN1hTYWJnN2JWSVMzak1wMG5xNmt6ZV80SFFOSVpfMnhjRWJ3R0dMaVZVdDFERTlSNXEtRTh3Y2FBYl9udW1HQUJuVUY1VkVueXk0LVE?oc=5",
+  "summary": "Incident au Findel: Le train d’atterrissage d’un Boeing Cargolux s’effondre à l’arrêt RTL Lëtzebuerg",
+  "published": "2026-10-23T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
  },
  {
   "id": "2f720b27e4efb6a2",
@@ -1476,6 +1644,30 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
+  "id": "e011bcf1127ef100",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "QUICHE DES CHAMPIONS – Gagnez un bon de 400 € pour vos prochaines vacances avec Luxair - ici.fr",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaEdDbFp3YjlSVVJJSkdKUDF6OHFmc1VZck5obXp0dDlYdlRpNDA2anBFYXR4LXVscFFuckNuMzVLZDVub3ZCdmtFSXlQSmdVbGhaYWg0TkEySW1JYzBVRFJleU15RUxXaTA1X2cyS3BZbllGWkN3TDJvSkY0a1pnV2JDM3FUVjYtSTdycGZBbTBlcWtTMjVtcW1adUMzLTdZYjBNel81d0pUckNDREM3VndoemlJN280VXotR2FoNHNlWmdoaXRLc25pOGk1OHFhRVRXYldPQTY?oc=5",
+  "summary": "QUICHE DES CHAMPIONS – Gagnez un bon de 400 € pour vos prochaines vacances avec Luxair ici.fr",
+  "published": "2026-10-19T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "58c73d5847386f03",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Une famille de pilotes: père et fille chez Cargolux, mère et fils chez Luxair - Virgule.lu",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOODJRTlpuOGJnSTRuaWpmV2RkUjJGRXIzbzRHbF9IV1ZEMHRrTF9MRTRBQzhfMkp5QXRoNkg4ZTF4SENhSjc1Z0FBbkUtWkJuVVd6S1RxMVA1N3ZlOUxIdVJ0LVA1V19kSUhQNHlEQ3NrWXdLMU50M2xfcHN6MHpJNGRvTDlyanVTMWV3bVE0RTNLbURYWDZ3TVRXWjZaMU5IdC01aFhYRFBoTWVLWlQ5Unh5SlljQUxjYXRBUF9kOGdTdw?oc=5",
+  "summary": "Une famille de pilotes: père et fille chez Cargolux, mère et fils chez Luxair Virgule.lu",
+  "published": "2026-10-17T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
   "id": "39c87a1864108da1",
   "source": "gn-gnss",
   "source_name": "Google News – Brouillage et spoofing GNSS",
@@ -1486,6 +1678,18 @@
   "summary": "Skyband Puts Numbers To GPS Jamming Faced By Business Aviation Aviation Week",
   "published": "2026-10-15T07:00:00Z",
   "collected": "2026-11-21T03:13:53Z"
+ },
+ {
+  "id": "f3f689f7eb37aac6",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Luxair déploie son nouvel avion sur la ligne reliant Luxembourg à Londres - Virgule.lu",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXR4WlpwM3Z3ZVBJX3lkVVVucEdJRjdXRFloSTRuNVB3MDVLcEZydmNoMHFwa0pmRzU2a2EzWlpLYnpCWnRMZzhKSHdYYWVxMDV0ejJubUxUWVhaNGE0Nm1md3FzdmpSaWhDMUJGWENaSVFURnFFeGY0VXZqdERrLWxsUnozMHRWOE5xSjlDZ1l2NmVjRHBHTldhMTk1NTZuUUhOWnUxWVBuWHgwT2NSTlYwZEZ5dENwaURpQ1RJbw?oc=5",
+  "summary": "Luxair déploie son nouvel avion sur la ligne reliant Luxembourg à Londres Virgule.lu",
+  "published": "2026-10-13T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
  },
  {
   "id": "0b107edaafe3afd1",
@@ -1524,6 +1728,18 @@
   "collected": "2026-11-21T03:15:00Z"
  },
  {
+  "id": "1f9966b9dc55576c",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "\"Good morning down there\": Un échange radio entre Cargolux et Cathay fait fondre les réseaux - RTL Lëtzebuerg",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkhrekRsc1BqMXpoaTB0Q3gxWEVRaEMxc0dDcU5GQUc4WVpNYTNQb2pXMEtXWjFDT0RXYVo4Wld6cldvT3NjNzZYZEx1RXVxeDhjTDdEdXFBR1NvdXBGZWJ0UVg5MDlPTC03MjQ2dE1HNDVIRUZRTk56bGY4YXRGYy1XR01ESmNGRXh2cGxrX0tWLTB6TnFLOGpNWm9uaVFsQ2pXeXc2TThTTXZNMXRJczRWTTdzSkk?oc=5",
+  "summary": "\"Good morning down there\": Un échange radio entre Cargolux et Cathay fait fondre les réseaux RTL Lëtzebuerg",
+  "published": "2026-09-29T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
   "id": "c31d3ff2d7bd94c3",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
@@ -1536,6 +1752,30 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
+  "id": "ad61adf503f79cc1",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Des drones qui volent près du Findel, c'est assez fréquent - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR01xLXloaVo1Sk5PTzI1d01Ld2dhb2Rsd1NLVmlzRFJzakp3TEtrNnJjUDIyOFRGM2c2VGNhT0lkNldQWDhqNUM2Yy03d3JyMnc5b1BUc0FQN2xSRlBVWDF0OEZ5MDBzelpUcDNRcHF0Rzg3Y2tyT0VHU2YyTkhOZlhBcjU0eVVwZW1YM2p0dzBjM3g2R0MzR0ZaREJNSFRkTWxXaElvN1BXUUNBcE1VbndKYUN6UDg?oc=5",
+  "summary": "Des drones qui volent près du Findel, c'est assez fréquent L'essentiel",
+  "published": "2026-09-24T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "ba1c0886e4f6ead6",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "«Les drones? Il serait naïf d'exclure une ingérence russe» - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRWxsdXQ1TjRzR2Q1SjlJVkRjcm5tMzhzWnFIdkltM19SSlhkWmU4cGRaRDJBVXg0NHUxMmVYRkpNeXFSYmRWNzQ5dlV0bTNlS0M0ZDFTVHVlNHRBa3NGNXRTSUk2UTU3MmlDaWhWbDhDbU5pb1pUbUdZcjJCd1R0Y2N1TFVBbTRHX3hFc0oycWVma2ZnUWRMRVNZaVBuZkN2TkE1eWt2amw3Z1RhMkotQzFJU08wN2FU?oc=5",
+  "summary": "«Les drones? Il serait naïf d'exclure une ingérence russe» L'essentiel",
+  "published": "2026-09-22T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
   "id": "367385b73617535e",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
@@ -1546,6 +1786,42 @@
   "summary": "Le Findel à nouveau fermé après des signalements de drones Paperjam News",
   "published": "2026-09-21T07:00:00Z",
   "collected": "2026-11-21T03:13:53Z"
+ },
+ {
+  "id": "88e8cf1fca8ab3cf",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Au moins 3 drones détectés: Le point sur la nouvelle interruption du trafic aérien au Findel - RTL Lëtzebuerg",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejRQdjlYY2tKbmNGNnN4djcycmR1OHV6S09VRm1ZNnFiX3dmM1g2MmxkYXNHSHh3WG83dU1nQk1HdksxWnNGY19qY2x6N1NzcXBINWNzQlVfOHFUam9yNHlmSy16LVBsYkFnZmh4eWZpMWljUU1jSUk0Rjl5ZlN1b1VPOWZRbXB5Q0kyR1VDSF9LSnFyaURUXzExanNNcXNPTmVn?oc=5",
+  "summary": "Au moins 3 drones détectés: Le point sur la nouvelle interruption du trafic aérien au Findel RTL Lëtzebuerg",
+  "published": "2026-09-21T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "507e7c5e158f0540",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Nouvelle détection de drones : le Findel temporairement fermé ce lundi soir - lequotidien",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSUFPQnFvVm1nSGhGanE0ZW9fZ2U1bzFDbFlGYzE1VjVnLTJtMXVubHVOWGlwYTc3enBIYm9VMEowbWVuMjhzQnFNSkxfdkR3YUs4ZTVwczBtUnNKUGh0WUhIS3RsNmlPbTlOcjNzLTdGa282ZzQ4ZExxdldHcnQ3OWtNOUxRSXlXWGxFcXp5WHFjcnNyd2FxZU5uUmtSckt4ZWFCQ0NBQWxrUkc1T0UydmNnM3VIQXY3dllzM0lRa2hrWUg2?oc=5",
+  "summary": "Nouvelle détection de drones : le Findel temporairement fermé ce lundi soir lequotidien",
+  "published": "2026-09-21T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "b1a7c85582cefe0a",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Abattre un drone: «le risque au sol peut être important» - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYi1BT0dZVFo3Um1ITVJ2ZUV3amp4SkladXhyd3ZUNDdtcnh0UzhNQ2ZUVVZxU01hMWZYbnVtZjVBNDdkOEY2blBnU3dMdnJPWGlodUtkWHQ5VUlLSnJDMFVRakFTdzM5M0d2TkFUN2JmcmpTTzBXOWhsWDFSdFpNRHlUSVZsWUE4T0U4UFFBU3F1bHBQNWh2RnBfSDQ1UEZjNTBYLUdBWlROeE9DMHc?oc=5",
+  "summary": "Abattre un drone: «le risque au sol peut être important» L'essentiel",
+  "published": "2026-09-21T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
  },
  {
   "id": "a2da055edd0a3d0e",
@@ -1570,6 +1846,54 @@
   "summary": "Les vols suspendus à l’aéroport de Luxembourg vendredi soir à cause de drones Virgule.lu",
   "published": "2026-09-19T07:00:00Z",
   "collected": "2026-11-21T03:13:53Z"
+ },
+ {
+  "id": "b8b983e742cb6411",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Luxembourg. Le trafic interrompu pendant des heures à l'aéroport du Findel à cause de drones non identifiés - Le Dauphiné Libéré",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkhpZF9MUmtCX05NVlg3MEhDQ3NxejhPdWlTSDJvX0xZWUlIb3c1dUotcU5QenVZaDB0RWxjV3RYdTVlMTZ4dUc2bTdJVGQ5R1ppanVYdkU0el91Z0lYaUJsTmg0aE9zdVJVSkZRNXpkVFBxX3RVd2VKY0lzQ3ZhTThvMV9GZ0FUVF9hcUxtMXUyZm9EWU04aUYyenNvZjBDWmdlSTQxU2s?oc=5",
+  "summary": "Luxembourg. Le trafic interrompu pendant des heures à l'aéroport du Findel à cause de drones non identifiés Le Dauphiné Libéré",
+  "published": "2026-09-19T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "65c40a98bae92580",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "17 vols Luxair déroutés, plus de 1 800 passagers concernés - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbVJ4Y0pDajJSMUt5QUxFZnZXek9qWDlvM2FFbXE3YkpHZGtZV2ZMVzNIckFCSHB4MEZ1OG54cmJ3Y0xadjM0dmtrVGYwR1FDMlhFVVVYZzdOOUNGRHdZc1JSWllsTWJzNFdiNmo1VXRvTkQwSExiWWVPTC1BMkcwX3J3ZEUyZEYtQXNrU0RUMUtoTzNtMVphdS05b3FkcG5fMVk5dUZZU1RJUkU2WHBjNjZ4OGt1XzRKQk9BbXpYem9hUQ?oc=5",
+  "summary": "17 vols Luxair déroutés, plus de 1 800 passagers concernés L'essentiel",
+  "published": "2026-09-19T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "01cdc02e415348cf",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Le Findel à l'arrêt vendredi soir, des drones en cause? - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN2ZvT1dfUXpteW16M1NHMVZkRVkwejZuNUNsRkpSQnowWDVYM2Q3cmlqNFBEWVFKckdKR3JEd0NRVnhqc1FIU0JVaUpaMjcxQmN1VXItYTlTQzVtaHI3MnNDclNDM2t5RVhNVmUtU0lXWWNPaVQ2NFVFWnBqY096Q25JaHprVGh3NUR3VXY0UlBiM181eG0tcUJwMUh3bklWc3pMX0dERUhTTVpGUXZVSWF3?oc=5",
+  "summary": "Le Findel à l'arrêt vendredi soir, des drones en cause? L'essentiel",
+  "published": "2026-09-19T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "239cc5510738337e",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Des drones non identifiés ont mis le Findel à l'arrêt - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTBlcV9Ba0JTVVNrOW92N0ZYQm1oeUxVY3Vtb1lCTEk0dk5PQjJPT2lJVXJNYzdUU0I1dE4xQ1ZrRm5meDlUX0Z2RThZTDdPNG8tWUF1di03Wkx5QmlJUTlPM2ZqZDBlVXhncXJva2RGQWtTMzE3Uk5xNUx0LVJYSUdiWlZIV1k0RFV0OS05a3RrVXoyNEJhQ3dwVFlCS3BqYVZNa2RqSnA5ekctSUE?oc=5",
+  "summary": "Des drones non identifiés ont mis le Findel à l'arrêt L'essentiel",
+  "published": "2026-09-19T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
  },
  {
   "id": "461435916e442310",
@@ -1608,6 +1932,102 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
+  "id": "1eba85ce43515f8c",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Vols de nuit à Findel: AéroRiverains réclame le silence nocturne - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQlEtRFhiMC1qcTRjdUdKcHpTVWFJakZwbVFKZkhoaGZpakwtcG9Fc2lEeVhnWE1DOTJzSmN4SDNYdXhRRmRnazRKZGxDbXIzckhiNzNpWkpPNVpJeVo5by1IWUUwRi1uY2FRQXZ0UWMtdDdSZFlUcURWN0JyRmQ5Y3BxbHRVdG1YQ3FzV0tWZ0oydDNqSnFWSlJmaDQ3ZmRGSGZBcHlEdXdHYk02bloxdUVoT0RjSlQ5?oc=5",
+  "summary": "Vols de nuit à Findel: AéroRiverains réclame le silence nocturne L'essentiel",
+  "published": "2026-09-14T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "fd3c3856f7523cc3",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Une nouvelle destination vers les Balkans au départ du Luxembourg - Moselle TV",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOFNEdFluTDlvMzRZLXpVaEMtRnFZWGhJZUNhYWlZMGhIUDcyZURXUWJpRXVSSjVDQlBVTlUtUkJrRFczVzFLRUFtOGtXVVdic2tYZnJTaHBQa01KZHFoT294MjZiTU9vVFNVck5LYXdKWHdWMGtMMjduM3c4QWdBTnpTUExRSFVNaVFicWx3?oc=5",
+  "summary": "Une nouvelle destination vers les Balkans au départ du Luxembourg Moselle TV",
+  "published": "2026-09-11T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "bbf0269440c16663",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Luxair lance sa première liaison directe vers l’Albanie - lequotidien",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNenNFMHRmaU1NWDQ2OEZZOUplbVVDNng5cXBuWkc5RmpQZVhQMDQtNUFZQUxCRXRjZi1IcmlCMVEzVWd3VXBRdDVRMHRET2tlZExzZmFGa19ENHVhYVJqTEtYdlpZZG9LRW1wNmR6ekpMZjJQSTlGR3pvcXBwczllUGlUTEVtSjNLQjgwTnpiSHhmMVB1YVdMcUwwRUdBeFk?oc=5",
+  "summary": "Luxair lance sa première liaison directe vers l’Albanie lequotidien",
+  "published": "2026-09-10T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "5e50d24dedc3f361",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Luxair annonce une nouvelle liaison pour l’été 2027 - Virgule.lu",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzNQcVBrRFVPdzJDOHdvb1VvWGZYQ2RTVXU2V1dTNTQyaE9qbU4zVVJ6R29udnU2QnJSX1VMV1lJWmNiWnRsbVZTZHE2ZzZoMlNhcHY0N1Y5VGdjaHJadlhHSU5mUTA5aTBVTERNR3FBUmYyenJsTG5QODQ1VUpZTXdKMjktUV9ZY1pYd2wzTjQ3LW9QdjZaTndac19Iak9U?oc=5",
+  "summary": "Luxair annonce une nouvelle liaison pour l’été 2027 Virgule.lu",
+  "published": "2026-09-10T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "e0e425464c6b76cc",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Luxair investit plus d’un milliard d’euros dans sa flotte mais laisse sa stratégie dans le flou - Virgule.lu",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVXdRT18ySHEyVjl5dkRSVDQxa28tU01TdGRvdVJzR0VrZFVjenpMOVFQNEFJVGJvamQ3NFdWaU9hUzduU3hoOGMwNVZmcmFKcFMxWGFTSWRoZUw2VFhfdkJNNlFsT1g2Ykw5bmJDMmd5SEpKRW5yc2JLX0w1SDRKN1c2WTZXWVBwNzJob1BNT2Z5NnFxcWlNUjRabWloSWQzSHB4WTJrVzF5RjFDejNNMWJwMHhmcG5GcUszVnByS2pKWnZOdEZON2l2bi1YNmZwQm9HVHgzRElKUQ?oc=5",
+  "summary": "Luxair investit plus d’un milliard d’euros dans sa flotte mais laisse sa stratégie dans le flou Virgule.lu",
+  "published": "2026-09-05T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "0477313524f4866f",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Luxembourg. Luxair annonce reporter le lancement de ses vols vers Abou Dhabi prévus pour octobre : voici pourquoi - Actu.fr",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWEZOTHExZjRUWXlncjJ2TFdZQ0ZkM2dRQXJmZ3FFWXRhNzlQY3FfRGRyZEhVM3hMLUxkSjlhc2cxUW5KOUV1ZzY2RHYxYkJLX3VOdWZLbVpxdFlGb3lWTTR6RWVhSmFncUlZNG5wVmg5UDRhb0UtYnBZSFNUYWJfazVjaXAxVlNQRlkzZGp0V21jUmkwMHA3LVd3REpESnZqYVNFQ0RXWXdRWmhzc3RwTG95X1FsSTdHa2NvVDlITXVLaUR1OWpDeXV5d0FfX0FKY2ptMmJzS1ZiZUQxNmFqdE1n?oc=5",
+  "summary": "Luxembourg. Luxair annonce reporter le lancement de ses vols vers Abou Dhabi prévus pour octobre : voici pourquoi Actu.fr",
+  "published": "2026-09-03T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "2cc271a9db8cd8a6",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Vu du ciel : Delta Air Lines, Aeromexico, Luxair, Alaska Airlines, United, American Airlines, Ryanair, Lufthansa, etc. - LaQuotidienne.fr",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQblJnN0dYMjlzMDBrQ3hwVVVZV3oyNGRDMUFfY3NaQWh1alZta0t6OGxhaG9Vci14VUM4cThWT0Q3WU91TExncVZfcHVVYkdPMmdQS1AzVXVtd2tKRnJmWmlMaVFSQk5ZMXotRHhOWUIzbG9ra2EtVFBEeUFXNUZ4MUpFdDI0QTJ1aVNiY1dJanZGVGNjR1FQT3ktTkNIdUd5ODB3NU9pQk9rZFd5bi1PNXktbGRPbjJSa216R3JOTl9pNnJIZ2ppdkRUa0k1NW45cjAw?oc=5",
+  "summary": "Vu du ciel : Delta Air Lines, Aeromexico, Luxair, Alaska Airlines, United, American Airlines, Ryanair, Lufthansa, etc. LaQuotidienne.fr",
+  "published": "2026-08-31T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "7122a9e8b6faa889",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Luxair va investir plus d’un milliard d’euros pour renouveler intégralement sa flotte - Virgule.lu",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUFFFT2VTbEN6SDdTWDZLTXZYTHRSZGpWYy1iVWlfT0IyaFQ0a0poMkNzQVQ4WENPUVR1WTBZVTB1U2ZlVUxaY25wQTJvdHM4YnIzTWZjSUlZTi1vbjUwLUs2eWR4ZHdvc2JVaE9XWndiWUM0ZXpCZTVpdFJoYzRUMzl0WXVQV1NjR0R2V0FkMjZQS2xiTkNlZVJ6UlJ3OUI2QWxLQWlkVDBOZUZTcjBReHBYSkZtSTU2Z0l1Y0xiSDdaMjJMSEhuQkF0anc?oc=5",
+  "summary": "Luxair va investir plus d’un milliard d’euros pour renouveler intégralement sa flotte Virgule.lu",
+  "published": "2026-08-28T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
   "id": "ddae01e26f652083",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
@@ -1618,6 +2038,18 @@
   "summary": "Aéroport du Findel au Luxembourg : à quels prix seront les billets vers New York ? La Semaine",
   "published": "2026-08-26T07:00:00Z",
   "collected": "2026-11-21T03:13:53Z"
+ },
+ {
+  "id": "d2b5bf03f228ea35",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Les bombardiers d'eau de Cargolux crispent en Belgique - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdC0yTTNDQTRJMnBxM1RkdkxkWGRySGxrd2VidW9aaHozampPVjl4MzNDV1JrZUItOW5FYTlSSmVrOS11MzVaMm43ODk0cVlLVHZuZzlxeE9paFQzcmlub2VYQmd5VWwzZ0RDOXJiSHhMaU0ya0lUWFg1dTZEX3VxbHpDRUZVUFdMMFVvZ21uT2N2cWFfbTRxc1ZMMU9IZnluWXIwR2dsNWRmUk84aUE?oc=5",
+  "summary": "Les bombardiers d'eau de Cargolux crispent en Belgique L'essentiel",
+  "published": "2026-08-18T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
  },
  {
   "id": "6ef07647170dceac",
@@ -1632,6 +2064,30 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
+  "id": "f238acdaed0c991f",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "L'Etna contraint Luxair à réorganiser ses vols - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMUxIa010Q1drOFhLYXhsVGIwbFlxRDFoT3hvYUxHRGZWWllmZDE3ZVQ0bmhwRFZaQlZGaFNvUEpjTlJpV3F6V2pTX2FNNmZzczhzZkQ0UkZxNk9UUWdOYjRxVVEteEdhWk4yVlFLbEd2REVCSGExeV9WUlBFcEdJU1dfRGJFdmxWVjJvbGkweEJaMVNJcm1JbzdOaUJnRnR5TUJnQzlFazMtT25aUEZZcnlBLTFZRlla?oc=5",
+  "summary": "L'Etna contraint Luxair à réorganiser ses vols L'essentiel",
+  "published": "2026-08-13T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "8bb73f5e0a6ecb42",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Luxair annonce des retards éventuels sur les vols vers Barcelone - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUXJGUHlLeWJRX2huc01ycGlqQ3N4WThoUTZPaVIwZDhFNk9BNE1QZ3ZFck04MGkxNlJRcDEycXpNcnpBYWRhUEhLWFhBNVNkeW81VWhLQnBTYzBoTV8ta0xpY3RWU1gyZGpPdjE5eHp2dEJMd09vSXN2d0NiUUNqOW1mSWRKSlk5N1NTVV9XN3ZIa0FMQ0dfRV9QOGpJTnVGOWlEU1o1RGhFd3lBWDFJaXNCRjJqTVZNYnpYTUNWWUY1OTg?oc=5",
+  "summary": "Luxair annonce des retards éventuels sur les vols vers Barcelone L'essentiel",
+  "published": "2026-08-07T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
   "id": "4d7057de24f9c6c5",
   "source": "gn-gnss",
   "source_name": "Google News – Brouillage et spoofing GNSS",
@@ -1642,5 +2098,41 @@
   "summary": "New Mexico congressional delegation members demand info on military GPS jamming before fatal crash Source New Mexico",
   "published": "2026-08-06T07:00:00Z",
   "collected": "2026-11-21T03:13:53Z"
+ },
+ {
+  "id": "d96e541b9d36844e",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Votum Klima détourne le tableau des départs du Findel à la veille du Jour du dépassement - Greenpeace",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3ZEZzlYS0UyLVFFRXRvdVU1RlVUYW5NNUJFdDdiODJGcGxhYjBhQjF3VFhBQ0Zuc0tmcDZSNDhQTkhOWXg0NXZyZUJoWTY5WU5LR1N4Y3pJT0dYdE9kcGxmVXRoaTJJVmtkNHBRZV9idDR0QjlESGRfR2ZTaGllY18zRWR2al9MZXd1Z1ltQmUtenhTS1NjZm52Rl8waFViVmEtdnlZS2RCUkNrWVhtcg?oc=5",
+  "summary": "Votum Klima détourne le tableau des départs du Findel à la veille du Jour du dépassement Greenpeace",
+  "published": "2026-07-29T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "80e04df2e9caf5f5",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Luxembourg. Deux avions contraints à des atterrissages d’urgence en une semaine au Findel… pour la même raison - Le Republicain Lorrain",
+  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUjk4NDlHdVBwRXFJWVlDeVJTdmRuU3hVeDdZOTR6OXhjNm5ZMFJIbmJkSnNiMU5OLXA4QzlGZDE1dzdFVllqdU0zclE0ZVQ5anR1Vi1xd0w1M1RwOUYwQ095MUgyWlh0LVFfcVdna21aRDZmTkVUbEhZcGI0NWxnWGlwbDBwRTdSUFc1WFRHVEJhLUVFUThZTUdCWVFiUEUyY2ZtQTJ2cXRaZzZ4YldVSFlOWXNfZVprRGJpNWFra2RqVFBGMFJ5Y1hJZjhRVndaMGpiQ1p4TXQtUkdWRU02dG5ndzFGSEFl?oc=5",
+  "summary": "Luxembourg. Deux avions contraints à des atterrissages d’urgence en une semaine au Findel… pour la même raison Le Republicain Lorrain",
+  "published": "2026-07-26T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "5091be44979d4d27",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Un avion EasyJet contraint d’atterrir d’urgence au Findel - Virgule.lu",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcW5qTURsN1YyZlNXalVEeUZHMDh2ODF4N2kzME44UTBON2ZPWDNqSDhaWDh5R0lLSlM3NVFtZnlDLVFCLXA5SXNGMWNBZ1FBSkppc1Z4WEFEVzhqM09vb3V2T3lfbVQ5aHdYTm50NjhyU1BNN0lJLTdSWmt5QmpYaUFEYm5keGFJcUtURTYwRVRuTVI5RU5QWWZUaGU5MmszS055UVZDWQ?oc=5",
+  "summary": "Un avion EasyJet contraint d’atterrir d’urgence au Findel Virgule.lu",
+  "published": "2026-07-24T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
  }
 ]
