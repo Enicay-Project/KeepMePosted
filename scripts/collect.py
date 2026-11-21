@@ -162,6 +162,10 @@ def collect_links(src: dict, state: dict) -> list[dict]:
     new = [f for f in found if f["link"] not in known]
     state["seen"] = sorted(known | seen_now)[-3000:]
     state["raw_links"], state["matched"] = len(p.links), len(found)
+    if not found:  # échantillon pour corriger le motif "match" dans sources.yaml
+        state["sample"] = [urllib.parse.urljoin(base, h) + "  |  " + t[:60] for h, t in p.links if h][:60]
+    else:
+        state.pop("sample", None)
     if first_run:
         new = new[:FIRST_RUN_LIMIT]
     return new

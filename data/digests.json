@@ -1,1 +1,40 @@
-{}
+{
+ "2026-11-21": {
+  "date": "2026-11-21",
+  "synthese": "Sujet principal : la fuite de données chez Amadeus, qui touche une dizaine de compagnies depuis fin octobre. C'est un cas concret de risque fournisseur pour Part-IS (IS.I.OR.235), à rapprocher des entités luxembourgeoises. L'EASA et EUROCONTROL publient un plan d'action commun contre les interférences GNSS, à lire et à transmettre au CISO. Côté vulnérabilités, Ivanti EPMM est activement exploité et Citrix NetScaler et NGINX ont reçu des correctifs critiques. Première édition : les éléments issus des pages EASA, ENISA, CERT-EU, CIRCL et CNPD sont datés du jour de leur première collecte.",
+  "une": [
+   {
+    "id": "281915022ccafb48",
+    "note": "À lire en priorité et à transmettre au CISO : c'est le texte de référence européen contre le brouillage GNSS."
+   },
+   {
+    "id": "5b7506c4b95e2fe9",
+    "note": "Lister les entités luxembourgeoises qui utilisent Amadeus, puis vérifier évaluation et notification (IS.I.OR.235, IS.I.OR.230)."
+   },
+   {
+    "id": "5158f992c19fe04d",
+    "note": "Argument pour le CISO : superviser la gouvernance et la culture, pas seulement la technique."
+   },
+   {
+    "id": "0ece1115f46f98fc",
+    "note": "Identifier le prestataire en cause et vérifier s'il travaille aussi pour des entités luxembourgeoises."
+   },
+   {
+    "id": "d325f31f18816b0d",
+    "note": "Exploitation active : vérifier avec l'équipe IT si la DAC utilise Ivanti EPMM."
+   },
+   {
+    "id": "ceffbb8fa3b3f0c0",
+    "note": "Noter la nouvelle plateforme pour articuler les obligations CRA des fournisseurs avec le signalement Part-IS."
+   },
+   {
+    "id": "7bd9a899f5023334",
+    "note": "Exemple de formation d'inspecteurs Part-IS à reprendre pour la DAC."
+   },
+   {
+    "id": "c31d3ff2d7bd94c3",
+    "note": "Demander le retour d'expérience de lux-Airport et de l'ANA sur les survols de drones de septembre."
+   }
+  ]
+ }
+}

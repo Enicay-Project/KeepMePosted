@@ -43,7 +43,7 @@ def main():
         a = analyses.get(i["id"])
         row = dict(i)
         if a:
-            row["a"] = {k: a.get(k) for k in ("resume", "tags", "exigences", "perimetre", "score", "action", "pourquoi")}
+            row["a"] = {k: a.get(k) for k in ("resume", "tags", "exigences", "perimetre", "score", "action", "pourquoi", "doublon_de")}
         else:
             row["p"] = provisional_score(i)
         row.pop("collected", None)

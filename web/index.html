@@ -1,3 +1,4 @@
+<meta charset="utf-8">
 <title>KeepMePosted</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -103,6 +104,10 @@ section > header h2 { font-size: 24px; }
 .pin[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); background: var(--accent-soft); }
 .new-badge { font-family: var(--f-mono); font-size: 10.5px; color: var(--accent); font-weight: 500; letter-spacing: .06em; }
 .strip.une { border-color: var(--accent); }
+.dups { margin-top: 8px; font-size: 13px; }
+.dups summary { cursor: pointer; color: var(--accent); font-family: var(--f-body); font-size: 13px; font-weight: 500; }
+.dups ul { margin: 6px 0 0; padding-left: 18px; display: flex; flex-direction: column; gap: 3px; }
+.dups .mono { color: var(--muted); font-size: 11.5px; }
 @media (max-width: 640px) {
   .strip { grid-template-columns: minmax(0, 1fr); }
   .s-meta { border-right: 0; border-bottom: 1px dashed var(--line); flex-direction: row; flex-wrap: wrap; gap: 4px 12px; }
@@ -235,7 +240,7 @@ details summary { cursor: pointer; font-family: var(--f-display); font-size: 20p
   const fmtDate = (iso) => { const d = new Date(iso); return isNaN(d) ? "" : `${String(d.getDate()).padStart(2, "0")} ${MONTHS[d.getMonth()]}`; };
   const fmtTime = (iso) => { const d = new Date(iso); return isNaN(d) ? "" : d.toLocaleTimeString("fr-LU", { hour: "2-digit", minute: "2-digit", timeZone: "Europe/Luxembourg" }); };
 
-  let DATA = null, shown = 40;
+  let DATA = null, shown = 40, KIDS = {}, BYID = {};
   const lastVisit = store.get("lastVisit", null);
   const state = Object.assign({ q: "", period: "7", zone: "", perim: "", action: "", source: "", sort: "score", tags: [] }, store.get("filters", {}));
   let pins = store.get("pins", []);
@@ -248,6 +253,8 @@ details summary { cursor: pointer; font-family: var(--f-display); font-size: 20p
     const isNew = lastVisit && i.published > lastVisit;
     const pinned = pins.includes(i.id);
     const sc = score(i);
+    const kids = KIDS[i.id] || [];
+    const dup = kids.length ? `<details class="dups"><summary>${kids.length} autre${kids.length > 1 ? "s" : ""} article${kids.length > 1 ? "s" : ""} sur le même sujet</summary><ul>${kids.map((k) => `<li><a href="${esc(k.link)}" target="_blank" rel="noopener">${esc(k.title)}</a> <span class="mono">${fmtDate(k.published)}</span></li>`).join("")}</ul></details>` : "";
     const chips = tagsOf(i).map((t) => `<span class="chip">${esc(t)}</span>`).join("") +
       (a && a.exigences ? a.exigences.map((r) => `<span class="chip req">${esc(r)}</span>`).join("") : "");
     return `<article class="strip${note ? " une" : ""}">
@@ -264,6 +271,7 @@ details summary { cursor: pointer; font-family: var(--f-display); font-size: 20p
         <p>${esc(a ? a.resume : i.summary || "Pas de résumé fourni par la source.")}</p>
         ${a && a.pourquoi ? `<div class="s-why">${esc(a.pourquoi)}</div>` : ""}
         <div class="chips">${chips}</div>
+        ${dup}
       </div>
       <div class="s-side">
         <div class="score${a ? "" : " prov"}" title="${a ? "Score de pertinence DAC" : "Score provisoire, en attente d'analyse"}">${sc}<small>${a ? "/100" : "prov."}</small></div>
@@ -278,6 +286,7 @@ details summary { cursor: pointer; font-family: var(--f-display); font-size: 20p
     const terms = state.q.toLowerCase().split(/\s+/).filter(Boolean);
     const since = Number(state.period) ? Date.now() - Number(state.period) * 864e5 : 0;
     const out = DATA.items.filter((i) => {
+      if (i.a && i.a.doublon_de && BYID[i.a.doublon_de]) return false;
       if (since && new Date(i.published).getTime() < since) return false;
       if (state.zone && i.zone !== state.zone) return false;
       if (state.source && i.source !== state.source) return false;
@@ -313,7 +322,7 @@ details summary { cursor: pointer; font-family: var(--f-display); font-size: 20p
     } else {
       $("#synthese").textContent = "La synthèse du jour apparaîtra après la première analyse. En attendant, voici les éléments les mieux classés des 3 derniers jours.";
       const since = Date.now() - 3 * 864e5;
-      $("#une").innerHTML = DATA.items.filter((i) => new Date(i.published) > since).sort((x, y) => score(y) - score(x)).slice(0, 6).map((i) => strip(i)).join("");
+      $("#une").innerHTML = DATA.items.filter((i) => new Date(i.published) > since && !(i.a && i.a.doublon_de)).sort((x, y) => score(y) - score(x)).slice(0, 6).map((i) => strip(i)).join("");
     }
   }
 
@@ -408,11 +417,14 @@ details summary { cursor: pointer; font-family: var(--f-display); font-size: 20p
 
   fetch("data.json").then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); }).then((d) => {
     DATA = d;
+    d.items.forEach((i) => (BYID[i.id] = i));
+    d.items.forEach((i) => { const p = i.a && i.a.doublon_de; if (p && BYID[p]) (KIDS[p] = KIDS[p] || []).push(i); });
     const bad = renderSources();
     const analysed = d.items.filter((i) => i.a).length;
+    const visible = d.items.filter((i) => !(i.a && i.a.doublon_de && BYID[i.a.doublon_de])).length;
     $("#edition").innerHTML =
       `<span>Mise à jour <b>${fmtDate(d.generated)} ${fmtTime(d.generated)}</b></span>` +
-      `<span><b>${d.items.length}</b> éléments · <b>${analysed}</b> analysés</span>` +
+      `<span><b>${visible}</b> sujets · <b>${d.items.length}</b> articles · <b>${analysed}</b> analysés</span>` +
       `<span><i class="dot${bad ? " bad" : ""}"></i>${d.sources.length - bad}/${d.sources.length} sources OK</span>`;
     renderTags(); renderCal(); bind(); rerenderStrips();
     store.set("lastVisit", d.generated);
