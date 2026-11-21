@@ -1,0 +1,423 @@
+<title>KeepMePosted</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout : tableau de bord d'un poste de veille. Bandeau d'édition, « À la une » en
+   bandes de progression de vol (strips), flux filtrable, calendrier et sources en colonne. */
+:root {
+  --bg: #eef1f4;
+  --panel: #ffffff;
+  --ink: #15212c;
+  --muted: #5b6874;
+  --line: #d3dae1;
+  --accent: #1f5fbf;      /* bleu des feux de bord de taxiway */
+  --accent-soft: #e3ecf9;
+  --crit: #b42318; --crit-soft: #fde8e6;
+  --warn: #a15c00; --warn-soft: #fdf0dc;
+  --ok: #1b7a43;   --ok-soft: #e2f4e9;
+  --chip: #e7ebef;
+  --f-display: "Barlow Condensed", "Arial Narrow", system-ui, sans-serif;
+  --f-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0c131a; --panel: #131c25; --ink: #e3e9ef; --muted: #93a1ae; --line: #26333f;
+    --accent: #6ea3f0; --accent-soft: #172a44;
+    --crit: #f08b80; --crit-soft: #3a1915; --warn: #f0b45c; --warn-soft: #36270f;
+    --ok: #6fcf97; --ok-soft: #12301f; --chip: #1d2833;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0c131a; --panel: #131c25; --ink: #e3e9ef; --muted: #93a1ae; --line: #26333f;
+  --accent: #6ea3f0; --accent-soft: #172a44;
+  --crit: #f08b80; --crit-soft: #3a1915; --warn: #f0b45c; --warn-soft: #36270f;
+  --ok: #6fcf97; --ok-soft: #12301f; --chip: #1d2833;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 15px; line-height: 1.5;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 0 48px;
+}
+a { color: var(--accent); }
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.wrap { max-width: 1240px; margin: 0 auto; }
+.mono { font-family: var(--f-mono); font-variant-numeric: tabular-nums; }
+h1, h2, h3 { font-family: var(--f-display); font-weight: 600; letter-spacing: .01em; text-wrap: balance; margin: 0; }
+.eyebrow { font-family: var(--f-mono); font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+
+/* Bandeau */
+.masthead { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 12px 24px; padding-block: 22px 16px; border-bottom: 2px solid var(--ink); }
+.masthead h1 { font-size: 40px; line-height: 1; font-weight: 700; }
+.masthead h1 span { color: var(--accent); }
+.edition { display: flex; flex-wrap: wrap; gap: 6px 18px; font-family: var(--f-mono); font-size: 12.5px; color: var(--muted); }
+.edition b { color: var(--ink); font-weight: 500; }
+.dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; vertical-align: 1px; background: var(--ok); }
+.dot.bad { background: var(--warn); }
+
+/* Grille */
+.grid { display: grid; grid-template-columns: minmax(0, 1fr) 330px; gap: 28px; margin-top: 22px; }
+@media (max-width: 960px) { .grid { grid-template-columns: minmax(0, 1fr); } }
+section > header { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 10px; }
+section > header h2 { font-size: 24px; }
+.stack { display: flex; flex-direction: column; gap: 28px; min-width: 0; }
+
+/* Synthèse */
+.brief { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 16px 18px; }
+.brief p { margin: 0; max-width: 72ch; }
+.brief .eyebrow { margin-bottom: 6px; }
+
+/* Strip (bande de progression de vol) */
+.strips { display: flex; flex-direction: column; gap: 8px; }
+.strip { display: grid; grid-template-columns: 92px minmax(0, 1fr) 132px; background: var(--panel); border: 1px solid var(--line); border-radius: 4px; overflow: hidden; }
+.strip > div { padding: 10px 12px; min-width: 0; }
+.s-meta { border-right: 1px dashed var(--line); display: flex; flex-direction: column; gap: 4px; font-family: var(--f-mono); font-size: 12px; color: var(--muted); }
+.s-meta .zone { font-weight: 500; color: var(--ink); font-size: 13px; }
+.s-body h3 { font-family: var(--f-body); font-size: 15.5px; font-weight: 600; line-height: 1.35; margin: 0 0 4px; }
+.s-body h3 a { color: var(--ink); text-decoration: none; }
+.s-body h3 a:hover { color: var(--accent); text-decoration: underline; }
+.s-src { font-size: 12.5px; color: var(--muted); margin-bottom: 6px; }
+.s-body p { margin: 0 0 8px; font-size: 14px; max-width: 80ch; }
+.s-why { font-size: 13px; color: var(--muted); }
+.s-note { font-size: 13.5px; font-weight: 500; background: var(--accent-soft); border-radius: 3px; padding: 6px 8px; margin-bottom: 8px; }
+.chips { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
+.chip { font-size: 11.5px; padding: 1px 7px; border-radius: 3px; background: var(--chip); color: var(--ink); white-space: nowrap; }
+.chip.req { font-family: var(--f-mono); background: var(--accent-soft); color: var(--accent); }
+.s-side { border-left: 1px dashed var(--line); display: flex; flex-direction: column; gap: 8px; align-items: flex-start; }
+.score { font-family: var(--f-display); font-size: 30px; font-weight: 600; line-height: 1; font-variant-numeric: tabular-nums; }
+.score small { font-family: var(--f-mono); font-size: 11px; color: var(--muted); font-weight: 400; margin-left: 2px; }
+.score.prov { color: var(--muted); }
+.bar { width: 100%; height: 4px; background: var(--chip); border-radius: 2px; overflow: hidden; }
+.bar i { display: block; height: 100%; background: var(--accent); }
+.act { font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 3px; background: var(--chip); }
+.act.a-crit { background: var(--crit-soft); color: var(--crit); }
+.act.a-warn { background: var(--warn-soft); color: var(--warn); }
+.act.a-info { background: var(--accent-soft); color: var(--accent); }
+.perim { font-size: 12px; color: var(--muted); }
+.pin { font: inherit; font-size: 12px; background: none; border: 1px solid var(--line); color: var(--muted); border-radius: 3px; padding: 2px 8px; cursor: pointer; }
+.pin[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); background: var(--accent-soft); }
+.new-badge { font-family: var(--f-mono); font-size: 10.5px; color: var(--accent); font-weight: 500; letter-spacing: .06em; }
+.strip.une { border-color: var(--accent); }
+@media (max-width: 640px) {
+  .strip { grid-template-columns: minmax(0, 1fr); }
+  .s-meta { border-right: 0; border-bottom: 1px dashed var(--line); flex-direction: row; flex-wrap: wrap; gap: 4px 12px; }
+  .s-side { border-left: 0; border-top: 1px dashed var(--line); flex-direction: row; flex-wrap: wrap; align-items: center; }
+  .s-side .bar { display: none; }
+  .score { font-size: 22px; }
+}
+
+/* Filtres */
+.tools { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 12px; display: flex; flex-direction: column; gap: 10px; margin-bottom: 12px; }
+.tools .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.tools input[type=search] { flex: 1 1 260px; min-width: 0; font: inherit; padding: 8px 10px; border: 1px solid var(--line); border-radius: 4px; background: var(--bg); color: var(--ink); }
+.tools select { font: inherit; font-size: 13.5px; padding: 6px 8px; border: 1px solid var(--line); border-radius: 4px; background: var(--bg); color: var(--ink); max-width: 100%; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 4px; overflow: hidden; }
+.seg button { font: inherit; font-size: 13px; border: 0; background: var(--bg); color: var(--muted); padding: 6px 10px; cursor: pointer; }
+.seg button + button { border-left: 1px solid var(--line); }
+.seg button[aria-pressed="true"] { background: var(--ink); color: var(--panel); }
+.fchips { display: flex; flex-wrap: wrap; gap: 6px; }
+.fchips button { font: inherit; font-size: 12.5px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); border-radius: 3px; padding: 3px 9px; cursor: pointer; }
+.fchips button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--panel); }
+.count { font-family: var(--f-mono); font-size: 12.5px; color: var(--muted); }
+.more { font: inherit; display: block; margin: 14px auto 0; padding: 8px 18px; border: 1px solid var(--line); background: var(--panel); color: var(--ink); border-radius: 4px; cursor: pointer; }
+.empty { padding: 24px; text-align: center; color: var(--muted); background: var(--panel); border: 1px dashed var(--line); border-radius: 6px; }
+
+/* Colonne */
+.side-card { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 14px 16px; }
+.cal { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; }
+.cal li { display: grid; grid-template-columns: 74px minmax(0, 1fr); gap: 10px; padding: 9px 0; border-top: 1px solid var(--line); }
+.cal li:first-child { border-top: 0; }
+.cal .d { font-family: var(--f-mono); font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.cal .d b { display: block; font-family: var(--f-display); font-size: 19px; color: var(--ink); font-weight: 600; }
+.cal .t { font-size: 13.5px; font-weight: 500; line-height: 1.35; }
+.cal .x { font-size: 12px; color: var(--muted); margin-top: 2px; }
+.cal li.past { opacity: .6; }
+.cal li.soon .d b { color: var(--warn); }
+.tag-v { font-size: 10.5px; font-family: var(--f-mono); color: var(--warn); letter-spacing: .04em; }
+.toggle-past { font: inherit; font-size: 12.5px; background: none; border: 0; color: var(--accent); cursor: pointer; padding: 6px 0 0; }
+.src-list { list-style: none; margin: 0; padding: 0; font-size: 13px; }
+.src-list li { display: flex; gap: 8px; justify-content: space-between; padding: 5px 0; border-top: 1px solid var(--line); }
+.src-list li:first-child { border-top: 0; }
+.src-list .n { font-family: var(--f-mono); color: var(--muted); white-space: nowrap; }
+.src-list .err { color: var(--warn); font-size: 12px; display: block; overflow-wrap: anywhere; }
+.selection textarea { width: 100%; min-height: 120px; font-family: var(--f-mono); font-size: 12px; background: var(--bg); color: var(--ink); border: 1px solid var(--line); border-radius: 4px; padding: 8px; }
+.btn { font: inherit; font-size: 13px; padding: 6px 12px; border-radius: 4px; border: 1px solid var(--accent); background: var(--accent); color: var(--panel); cursor: pointer; }
+.btn.ghost { background: none; color: var(--accent); }
+.muted { color: var(--muted); font-size: 13px; }
+details summary { cursor: pointer; font-family: var(--f-display); font-size: 20px; font-weight: 600; }
+@media (prefers-reduced-motion: no-preference) { .strip { transition: border-color .15s; } }
+</style>
+
+<div class="wrap">
+  <header class="masthead">
+    <div>
+      <div class="eyebrow">Veille cyber-aviation · Part-IS · NIS2 · Luxembourg</div>
+      <h1>Keep<span>Me</span>Posted</h1>
+    </div>
+    <div class="edition" id="edition"><span>Chargement des données…</span></div>
+  </header>
+
+  <div class="grid">
+    <div class="stack">
+      <section id="une-section">
+        <header><h2>À la une</h2><span class="eyebrow" id="une-date"></span></header>
+        <div class="brief" id="brief"><div class="eyebrow">Synthèse du jour</div><p id="synthese">Chargement…</p></div>
+        <div class="strips" id="une" style="margin-top:10px"></div>
+      </section>
+
+      <section id="flux">
+        <header><h2>Flux</h2><span class="count" id="count"></span></header>
+        <div class="tools">
+          <div class="row">
+            <input type="search" id="q" placeholder="Rechercher : cargolux ransomware, IS.I.OR.230, GNSS…" aria-label="Rechercher">
+            <div class="seg" id="period" role="group" aria-label="Période">
+              <button data-v="1">24 h</button><button data-v="7" aria-pressed="true">7 j</button><button data-v="30">30 j</button><button data-v="0">Tout</button>
+            </div>
+          </div>
+          <div class="row">
+            <select id="f-zone" aria-label="Zone"><option value="">Toutes zones</option><option value="LU">Luxembourg</option><option value="EU">Europe</option><option value="INT">International</option></select>
+            <select id="f-perim" aria-label="Périmètre"><option value="">Tous périmètres</option><option>DAC</option><option>Entités</option><option>Les deux</option><option>Contexte</option></select>
+            <select id="f-action" aria-label="Action"><option value="">Toutes actions</option><option>Ajuster la supervision</option><option>Alerter une entité</option><option>Informer le CISO</option><option>Suivre</option><option>Lire</option><option>Rien</option></select>
+            <select id="f-source" aria-label="Source"><option value="">Toutes sources</option></select>
+            <select id="f-sort" aria-label="Tri"><option value="score">Tri : pertinence</option><option value="date">Tri : date</option></select>
+          </div>
+          <div class="fchips" id="f-tags" aria-label="Thèmes"></div>
+        </div>
+        <div class="strips" id="list"></div>
+        <button class="more" id="more" hidden>Afficher 40 de plus</button>
+      </section>
+    </div>
+
+    <aside class="stack">
+      <section class="side-card">
+        <header><h2>Calendrier</h2><span class="eyebrow">Réglementaire</span></header>
+        <ul class="cal" id="cal"></ul>
+        <button class="toggle-past" id="toggle-past">Afficher les échéances passées</button>
+      </section>
+
+      <section class="side-card selection">
+        <header><h2>Sélection</h2><span class="count" id="sel-count">0</span></header>
+        <p class="muted" id="sel-help">Épingle des éléments avec « Épingler », puis copie la sélection pour une note au CISO.</p>
+        <textarea id="sel-text" readonly hidden aria-label="Texte de la sélection"></textarea>
+        <div class="row" style="display:flex;gap:8px;margin-top:8px;flex-wrap:wrap">
+          <button class="btn" id="sel-copy" disabled>Copier la sélection</button>
+          <button class="btn ghost" id="sel-clear" disabled>Vider</button>
+        </div>
+        <p class="muted" id="sel-msg" role="status"></p>
+      </section>
+
+      <section class="side-card">
+        <details id="src-details">
+          <summary>Sources <span class="count" id="src-sum"></span></summary>
+          <ul class="src-list" id="sources" style="margin-top:8px"></ul>
+        </details>
+      </section>
+    </aside>
+  </div>
+</div>
+
+<script>
+(function () {
+  const $ = (s) => document.querySelector(s);
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem("kmp:" + k); return v === null ? d : JSON.parse(v); } catch (e) { return d; } },
+    set(k, v) { try { localStorage.setItem("kmp:" + k, JSON.stringify(v)); } catch (e) {} },
+  };
+  const ACTION_CLASS = { "Ajuster la supervision": "a-crit", "Alerter une entité": "a-crit", "Informer le CISO": "a-warn", "Suivre": "a-info" };
+  const ZONE = { LU: "LU", EU: "UE", INT: "INT" };
+  const MONTHS = ["JAN", "FÉV", "MAR", "AVR", "MAI", "JUN", "JUL", "AOÛ", "SEP", "OCT", "NOV", "DÉC"];
+  const fmtDate = (iso) => { const d = new Date(iso); return isNaN(d) ? "" : `${String(d.getDate()).padStart(2, "0")} ${MONTHS[d.getMonth()]}`; };
+  const fmtTime = (iso) => { const d = new Date(iso); return isNaN(d) ? "" : d.toLocaleTimeString("fr-LU", { hour: "2-digit", minute: "2-digit", timeZone: "Europe/Luxembourg" }); };
+
+  let DATA = null, shown = 40;
+  const lastVisit = store.get("lastVisit", null);
+  const state = Object.assign({ q: "", period: "7", zone: "", perim: "", action: "", source: "", sort: "score", tags: [] }, store.get("filters", {}));
+  let pins = store.get("pins", []);
+
+  const score = (i) => (i.a ? i.a.score : i.p) ?? 0;
+  const tagsOf = (i) => (i.a && i.a.tags && i.a.tags.length ? i.a.tags : [i.category].filter(Boolean));
+
+  function strip(i, note) {
+    const a = i.a;
+    const isNew = lastVisit && i.published > lastVisit;
+    const pinned = pins.includes(i.id);
+    const sc = score(i);
+    const chips = tagsOf(i).map((t) => `<span class="chip">${esc(t)}</span>`).join("") +
+      (a && a.exigences ? a.exigences.map((r) => `<span class="chip req">${esc(r)}</span>`).join("") : "");
+    return `<article class="strip${note ? " une" : ""}">
+      <div class="s-meta">
+        <span class="zone">${esc(ZONE[i.zone] || i.zone)}</span>
+        <span>${fmtDate(i.published)}</span>
+        <span>${fmtTime(i.published)}</span>
+        ${isNew ? '<span class="new-badge">NOUVEAU</span>' : ""}
+      </div>
+      <div class="s-body">
+        <h3><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
+        <div class="s-src">${esc(i.source_name)}</div>
+        ${note ? `<div class="s-note">${esc(note)}</div>` : ""}
+        <p>${esc(a ? a.resume : i.summary || "Pas de résumé fourni par la source.")}</p>
+        ${a && a.pourquoi ? `<div class="s-why">${esc(a.pourquoi)}</div>` : ""}
+        <div class="chips">${chips}</div>
+      </div>
+      <div class="s-side">
+        <div class="score${a ? "" : " prov"}" title="${a ? "Score de pertinence DAC" : "Score provisoire, en attente d'analyse"}">${sc}<small>${a ? "/100" : "prov."}</small></div>
+        <div class="bar"><i style="width:${sc}%"></i></div>
+        ${a ? `<span class="act ${ACTION_CLASS[a.action] || ""}">${esc(a.action)}</span><span class="perim">${esc(a.perimetre)}</span>` : '<span class="perim">À analyser</span>'}
+        <button class="pin" data-pin="${esc(i.id)}" aria-pressed="${pinned}">${pinned ? "Épinglé" : "Épingler"}</button>
+      </div>
+    </article>`;
+  }
+
+  function filtered() {
+    const terms = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+    const since = Number(state.period) ? Date.now() - Number(state.period) * 864e5 : 0;
+    const out = DATA.items.filter((i) => {
+      if (since && new Date(i.published).getTime() < since) return false;
+      if (state.zone && i.zone !== state.zone) return false;
+      if (state.source && i.source !== state.source) return false;
+      if (state.perim && (!i.a || i.a.perimetre !== state.perim)) return false;
+      if (state.action && (!i.a || i.a.action !== state.action)) return false;
+      if (state.tags.length && !state.tags.every((t) => tagsOf(i).includes(t))) return false;
+      if (terms.length) {
+        const hay = [i.title, i.summary, i.source_name, i.a && i.a.resume, i.a && i.a.pourquoi, tagsOf(i).join(" "), i.a && (i.a.exigences || []).join(" ")].join(" ").toLowerCase();
+        if (!terms.every((t) => hay.includes(t))) return false;
+      }
+      return true;
+    });
+    out.sort(state.sort === "date" ? (x, y) => (y.published > x.published ? 1 : -1) : (x, y) => score(y) - score(x) || (y.published > x.published ? 1 : -1));
+    return out;
+  }
+
+  function renderList() {
+    const rows = filtered();
+    $("#count").textContent = `${rows.length} élément${rows.length > 1 ? "s" : ""}`;
+    $("#list").innerHTML = rows.length ? rows.slice(0, shown).map((i) => strip(i)).join("") :
+      '<div class="empty">Aucun élément ne correspond. Élargis la période ou retire un filtre.</div>';
+    $("#more").hidden = rows.length <= shown;
+    store.set("filters", state);
+  }
+
+  function renderUne() {
+    const d = DATA.digest;
+    const byId = Object.fromEntries(DATA.items.map((i) => [i.id, i]));
+    if (d) {
+      $("#une-date").textContent = "Édition du " + d.date;
+      $("#synthese").textContent = d.synthese;
+      $("#une").innerHTML = (d.une || []).filter((u) => byId[u.id]).map((u) => strip(byId[u.id], u.note)).join("");
+    } else {
+      $("#synthese").textContent = "La synthèse du jour apparaîtra après la première analyse. En attendant, voici les éléments les mieux classés des 3 derniers jours.";
+      const since = Date.now() - 3 * 864e5;
+      $("#une").innerHTML = DATA.items.filter((i) => new Date(i.published) > since).sort((x, y) => score(y) - score(x)).slice(0, 6).map((i) => strip(i)).join("");
+    }
+  }
+
+  let showPast = false;
+  function renderCal() {
+    const today = new Date().toISOString().slice(0, 10);
+    const dated = DATA.calendar.filter((c) => c.date).sort((x, y) => (x.date > y.date ? 1 : -1));
+    const open = DATA.calendar.filter((c) => !c.date);
+    const rows = dated.filter((c) => showPast || c.date >= today);
+    const li = (c) => {
+      const past = c.date && c.date < today;
+      const days = c.date ? Math.round((new Date(c.date) - new Date(today)) / 864e5) : null;
+      const d = c.date ? new Date(c.date) : null;
+      const left = d ? `<b>${String(d.getDate()).padStart(2, "0")} ${MONTHS[d.getMonth()]}</b>${d.getFullYear()}` : "<b>—</b>à suivre";
+      const cd = days === null ? "" : past ? "passé" : days === 0 ? "aujourd'hui" : `J-${days}`;
+      return `<li class="${past ? "past" : days !== null && days <= 120 ? "soon" : ""}">
+        <div class="d">${left}</div>
+        <div><div class="t">${esc(c.titre)}</div>
+        <div class="x">${esc(c.domaine)} · ${esc(c.texte)}${cd ? ` · <span class="mono">${cd}</span>` : ""}</div>
+        ${c.statut === "a_verifier" ? '<div class="tag-v">À VÉRIFIER</div>' : ""}</div></li>`;
+    };
+    $("#cal").innerHTML = rows.map(li).join("") + open.map(li).join("");
+    $("#toggle-past").textContent = showPast ? "Masquer les échéances passées" : "Afficher les échéances passées";
+  }
+
+  function renderSources() {
+    const s = DATA.sources;
+    const bad = s.filter((x) => !x.ok);
+    $("#src-sum").textContent = `${s.length - bad.length}/${s.length} OK`;
+    $("#sources").innerHTML = s.sort((a, b) => a.ok - b.ok || a.name.localeCompare(b.name)).map((x) =>
+      `<li><span><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>${x.ok ? "" : `<span class="err">${esc(x.error)}</span>`}</span>
+       <span class="n">${x.ok ? "+" + x.new : "erreur"}</span></li>`).join("");
+    const sel = $("#f-source");
+    s.slice().sort((a, b) => a.name.localeCompare(b.name)).forEach((x) => { const o = document.createElement("option"); o.value = x.id; o.textContent = x.name; sel.appendChild(o); });
+    return bad.length;
+  }
+
+  function renderTags() {
+    const counts = {};
+    DATA.items.forEach((i) => tagsOf(i).forEach((t) => (counts[t] = (counts[t] || 0) + 1)));
+    const top = Object.entries(counts).sort((a, b) => b[1] - a[1]).slice(0, 16).map(([t]) => t);
+    $("#f-tags").innerHTML = top.map((t) => `<button data-tag="${esc(t)}" aria-pressed="${state.tags.includes(t)}">${esc(t)}</button>`).join("");
+  }
+
+  function renderSelection() {
+    const byId = Object.fromEntries(DATA.items.map((i) => [i.id, i]));
+    pins = pins.filter((id) => byId[id]);
+    $("#sel-count").textContent = pins.length;
+    const ta = $("#sel-text");
+    ta.hidden = !pins.length;
+    $("#sel-help").hidden = !!pins.length;
+    $("#sel-copy").disabled = $("#sel-clear").disabled = !pins.length;
+    ta.value = pins.map((id) => {
+      const i = byId[id], a = i.a;
+      return `• ${i.title} (${i.source_name}, ${fmtDate(i.published)})\n  ${a ? a.resume : i.summary}\n` +
+        (a ? `  Impact : ${a.pourquoi} [${(a.exigences || []).join(", ") || "—"}] → ${a.action}\n` : "") + `  ${i.link}`;
+    }).join("\n\n");
+    store.set("pins", pins);
+  }
+
+  function rerenderStrips() { renderUne(); renderList(); renderSelection(); }
+
+  function bind() {
+    const q = $("#q"); q.value = state.q;
+    let t; q.addEventListener("input", () => { clearTimeout(t); t = setTimeout(() => { state.q = q.value; shown = 40; renderList(); }, 150); });
+    document.querySelectorAll("#period button").forEach((b) => {
+      b.setAttribute("aria-pressed", b.dataset.v === state.period);
+      b.addEventListener("click", () => { state.period = b.dataset.v; document.querySelectorAll("#period button").forEach((x) => x.setAttribute("aria-pressed", x === b)); shown = 40; renderList(); });
+    });
+    [["#f-zone", "zone"], ["#f-perim", "perim"], ["#f-action", "action"], ["#f-source", "source"], ["#f-sort", "sort"]].forEach(([sel, k]) => {
+      const el = $(sel); el.value = state[k]; el.addEventListener("change", () => { state[k] = el.value; shown = 40; renderList(); });
+    });
+    $("#f-tags").addEventListener("click", (e) => {
+      const b = e.target.closest("button[data-tag]"); if (!b) return;
+      const tg = b.dataset.tag; state.tags = state.tags.includes(tg) ? state.tags.filter((x) => x !== tg) : [...state.tags, tg];
+      b.setAttribute("aria-pressed", state.tags.includes(tg)); shown = 40; renderList();
+    });
+    $("#more").addEventListener("click", () => { shown += 40; renderList(); });
+    document.addEventListener("click", (e) => {
+      const b = e.target.closest("button[data-pin]"); if (!b) return;
+      const id = b.dataset.pin; pins = pins.includes(id) ? pins.filter((x) => x !== id) : [...pins, id]; rerenderStrips();
+    });
+    $("#toggle-past").addEventListener("click", () => { showPast = !showPast; renderCal(); });
+    $("#sel-copy").addEventListener("click", () => {
+      const ta = $("#sel-text");
+      const done = () => ($("#sel-msg").textContent = "Sélection copiée.");
+      const fallback = () => { ta.focus(); ta.select(); $("#sel-msg").textContent = "Texte sélectionné : copie-le avec Ctrl+C."; };
+      try { navigator.clipboard.writeText(ta.value).then(done, fallback); } catch (e) { fallback(); }
+    });
+    $("#sel-clear").addEventListener("click", () => { pins = []; rerenderStrips(); $("#sel-msg").textContent = ""; });
+  }
+
+  fetch("data.json").then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); }).then((d) => {
+    DATA = d;
+    const bad = renderSources();
+    const analysed = d.items.filter((i) => i.a).length;
+    $("#edition").innerHTML =
+      `<span>Mise à jour <b>${fmtDate(d.generated)} ${fmtTime(d.generated)}</b></span>` +
+      `<span><b>${d.items.length}</b> éléments · <b>${analysed}</b> analysés</span>` +
+      `<span><i class="dot${bad ? " bad" : ""}"></i>${d.sources.length - bad}/${d.sources.length} sources OK</span>`;
+    renderTags(); renderCal(); bind(); rerenderStrips();
+    store.set("lastVisit", d.generated);
+  }).catch((e) => {
+    $("#synthese").textContent = "Les données n'ont pas pu être chargées (" + e.message + "). Elles seront republiées à la prochaine mise à jour.";
+  });
+})();
+</script>

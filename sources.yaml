@@ -1,0 +1,234 @@
+# Registre des sources de veille KeepMePosted
+#
+# Types :
+#   rss    flux RSS ou Atom
+#   links  page HTML : chaque nouveau lien qui apparaît devient un élément
+#          (match = expression régulière sur l'URL du lien, optionnelle)
+#   page   page HTML surveillée : un élément est créé quand son texte change
+#
+# keywords : si présent, seuls les éléments dont le titre ou le résumé contient
+#            un de ces mots (insensible à la casse) sont gardés.
+# zone     : LU, EU ou INT (sert aux filtres et au score).
+#
+# Le statut de chaque source (OK / erreur) est visible en bas de la page.
+# Une source en erreur se corrige ici, puis à la collecte suivante.
+
+aviation_keywords: &aviation
+  [aviation, airport, aéroport, flughafen, airline, aircraft, avion, avionic, airspace,
+   "air traffic", "air navigation", ATM, ANSP, EASA, ICAO, OACI, EUROCONTROL, GNSS,
+   GPS, ADS-B, ACARS, drone, UAS, "U-space", SITA, Amadeus, Collins, Thales, Honeywell,
+   Frequentis, Indra, Boeing, Airbus, Luxair, Cargolux, Findel, Luxembourg]
+
+sources:
+  # ---------- Réglementaire aviation (UE / international) ----------
+  - id: easa-news
+    name: EASA – Actualités
+    type: links
+    url: https://www.easa.europa.eu/en/newsroom-and-events/news
+    match: /newsroom-and-events/news/
+    category: Réglementation
+    zone: EU
+
+  - id: easa-press
+    name: EASA – Communiqués de presse
+    type: links
+    url: https://www.easa.europa.eu/en/newsroom-and-events/press-releases
+    match: /newsroom-and-events/press-releases/
+    category: Réglementation
+    zone: EU
+
+  - id: easa-npa
+    name: EASA – NPA (projets de modification)
+    type: links
+    url: https://www.easa.europa.eu/en/document-library/notices-of-proposed-amendment
+    match: /document-library/notices-of-proposed-amendment/
+    category: Réglementation
+    zone: EU
+
+  - id: easa-decisions
+    name: EASA – Décisions de l'Agence (AMC/GM)
+    type: links
+    url: https://www.easa.europa.eu/en/document-library/agency-decisions
+    match: /document-library/agency-decisions/
+    category: Réglementation
+    zone: EU
+
+  - id: easa-cyber
+    name: EASA – Page cybersécurité / Part-IS
+    type: page
+    url: https://www.easa.europa.eu/en/domains/cybersecurity
+    category: Réglementation
+    zone: EU
+
+  - id: icao-news
+    name: ICAO – Newsroom
+    type: links
+    url: https://www.icao.int/Newsroom/Pages/default.aspx
+    match: /Newsroom/Pages/
+    category: Réglementation
+    zone: INT
+
+  - id: eurocontrol-news
+    name: EUROCONTROL – Actualités
+    type: links
+    url: https://www.eurocontrol.int/news
+    match: /news/
+    category: Acteurs
+    zone: EU
+
+  # ---------- Cyber transverse (NIS2, CER, CRA…) ----------
+  - id: ec-nis2
+    name: Commission européenne – Page NIS2
+    type: page
+    url: https://digital-strategy.ec.europa.eu/en/policies/nis2-directive
+    category: Réglementation
+    zone: EU
+
+  - id: enisa-news
+    name: ENISA – Actualités
+    type: links
+    url: https://www.enisa.europa.eu/news
+    match: /news/
+    category: Réglementation
+    zone: EU
+
+  - id: certeu-advisories
+    name: CERT-EU – Avis de sécurité
+    type: links
+    url: https://cert.europa.eu/publications/security-advisories
+    match: /publications/security-advisories/
+    category: Vulnérabilité
+    zone: EU
+
+  # ---------- Luxembourg ----------
+  - id: dac-news
+    name: DAC Luxembourg – Actualités
+    type: links
+    url: https://dac.gouvernement.lu/fr/actualites.html
+    match: /actualites/
+    category: Acteurs
+    zone: LU
+
+  - id: mmtp-news
+    name: Ministère de la Mobilité – Actualités (aviation)
+    type: links
+    url: https://mmtp.gouvernement.lu/fr/actualites.html
+    match: /actualites/
+    keywords: [aviation, aéroport, aérien, aérienne, Findel, Luxair, Cargolux, DAC, ANA, drone]
+    category: Acteurs
+    zone: LU
+
+  - id: chd-8364
+    name: Chambre des Députés – Projet de loi 8364 (transposition NIS2)
+    type: page
+    url: https://www.chd.lu/fr/dossier/8364
+    category: Réglementation
+    zone: LU
+
+  - id: circl
+    name: CIRCL – Publications
+    type: links
+    url: https://www.circl.lu/pub/
+    match: /pub/
+    category: Menace
+    zone: LU
+
+  - id: govcert
+    name: GOVCERT.LU – Actualités
+    type: links
+    url: https://www.govcert.lu/en/
+    match: /en/
+    category: Menace
+    zone: LU
+
+  - id: cnpd
+    name: CNPD – Actualités
+    type: links
+    url: https://cnpd.public.lu/fr/actualites.html
+    match: /actualites/
+    category: Réglementation
+    zone: LU
+
+  - id: gn-lu-acteurs
+    name: Google News – Acteurs aviation luxembourgeois
+    type: rss
+    url: https://news.google.com/rss/search?q=Cargolux+OR+Luxair+OR+lux-Airport+OR+%22Findel%22+OR+Luxaviation+OR+Jetfly+OR+%22Global+Jet+Luxembourg%22&hl=fr&gl=LU&ceid=LU:fr
+    category: Acteurs
+    zone: LU
+
+  - id: gn-lu-ana-dac
+    name: Google News – ANA, DAC, aviation au Luxembourg
+    type: rss
+    url: https://news.google.com/rss/search?q=%22Direction+de+l%27aviation+civile%22+Luxembourg+OR+%22ANA+Luxembourg%22+OR+%22Luxembourg+Air+Rescue%22+OR+%22aviation+Luxembourg%22&hl=fr&gl=LU&ceid=LU:fr
+    category: Acteurs
+    zone: LU
+
+  - id: gn-nis2-lu
+    name: Google News – NIS2 au Luxembourg
+    type: rss
+    url: https://news.google.com/rss/search?q=NIS2+Luxembourg+OR+ILR+NIS2+OR+%22projet+de+loi+8364%22&hl=fr&gl=LU&ceid=LU:fr
+    category: Réglementation
+    zone: LU
+
+  # ---------- Veille thématique (Google News, EN) ----------
+  - id: gn-partis
+    name: Google News – Part-IS et cybersécurité aviation
+    type: rss
+    url: https://news.google.com/rss/search?q=%22Part-IS%22+EASA+OR+%22aviation+cybersecurity%22+OR+%22airport+cyberattack%22&hl=en&gl=US&ceid=US:en
+    category: Réglementation
+    zone: INT
+
+  - id: gn-gnss
+    name: Google News – Brouillage et spoofing GNSS
+    type: rss
+    url: https://news.google.com/rss/search?q=GNSS+OR+GPS+jamming+OR+spoofing+aviation+OR+flights&hl=en&gl=US&ceid=US:en
+    category: Menace
+    zone: INT
+
+  - id: gn-supply
+    name: Google News – Fournisseurs critiques de l'aviation
+    type: rss
+    url: https://news.google.com/rss/search?q=%28SITA+OR+%22Collins+Aerospace%22+OR+Amadeus+OR+Frequentis+OR+Thales%29+%28cyberattack+OR+ransomware+OR+breach+OR+vulnerability%29&hl=en&gl=US&ceid=US:en
+    category: Fournisseur
+    zone: INT
+
+  # ---------- Menaces et vulnérabilités (filtrées sur l'aviation) ----------
+  - id: cisa-ics
+    name: CISA – Avis ICS
+    type: rss
+    url: https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml
+    keywords: *aviation
+    category: Vulnérabilité
+    zone: INT
+
+  - id: cisa-all
+    name: CISA – Tous les avis
+    type: rss
+    url: https://www.cisa.gov/cybersecurity-advisories/all.xml
+    keywords: *aviation
+    category: Vulnérabilité
+    zone: INT
+
+  - id: therecord
+    name: The Record
+    type: rss
+    url: https://therecord.media/feed
+    keywords: *aviation
+    category: Menace
+    zone: INT
+
+  - id: bleeping
+    name: BleepingComputer
+    type: rss
+    url: https://www.bleepingcomputer.com/feed/
+    keywords: *aviation
+    category: Menace
+    zone: INT
+
+  - id: securityweek
+    name: SecurityWeek
+    type: rss
+    url: https://www.securityweek.com/feed/
+    keywords: *aviation
+    category: Menace
+    zone: INT

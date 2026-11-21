@@ -1,0 +1,63 @@
+# Référentiel utilisé par l'analyse quotidienne pour rattacher un élément aux exigences.
+# Les intitulés sont des résumés de travail. Avant tout usage officiel, les vérifier
+# dans les textes : règlement délégué (UE) 2022/1645 et règlement d'exécution (UE) 2023/203.
+
+part_is:
+  IS.I.OR:   # organisations : règlement (UE) 2023/203, annexe II
+    texte: Règlement d'exécution (UE) 2023/203, annexe II (Part-IS.I.OR)
+    applicable: 2026-02-22
+    exigences:
+      IS.I.OR.200: Système de management de la sécurité de l'information (SMSI)
+      IS.I.OR.205: Appréciation des risques de sécurité de l'information
+      IS.I.OR.210: Traitement des risques de sécurité de l'information
+      IS.I.OR.215: Système de signalement interne
+      IS.I.OR.220: Incidents – détection, réponse et rétablissement
+      IS.I.OR.225: Réponse aux constatations notifiées par l'autorité compétente
+      IS.I.OR.230: Système de signalement externe (notification à l'autorité)
+      IS.I.OR.235: Sous-traitance des activités de management de la sécurité de l'information
+      IS.I.OR.240: Exigences relatives au personnel
+      IS.I.OR.245: Conservation des enregistrements
+      IS.I.OR.250: Manuel de management de la sécurité de l'information (ISMM)
+      IS.I.OR.255: Modifications du SMSI
+      IS.I.OR.260: Amélioration continue
+  IS.D.OR:   # organismes de conception, de production, exploitants d'aérodromes : règlement (UE) 2022/1645
+    texte: Règlement délégué (UE) 2022/1645 (Part-IS.D.OR)
+    applicable: 2025-10-16
+    note: Même structure que IS.I.OR (IS.D.OR.200 à IS.D.OR.260).
+  IS.AR:     # autorités compétentes, dont la DAC : règlement (UE) 2023/203, annexe I
+    texte: Règlement d'exécution (UE) 2023/203, annexe I (Part-IS.AR)
+    applicable: 2026-02-22
+    exigences:
+      IS.AR.200: SMSI de l'autorité compétente
+      IS.AR.205: Appréciation des risques de sécurité de l'information
+      IS.AR.210: Traitement des risques de sécurité de l'information
+      IS.AR.215: Incidents – détection, réponse et rétablissement
+      IS.AR.220: Sous-traitance des activités de management de la sécurité de l'information
+      IS.AR.225: Exigences relatives au personnel
+      IS.AR.230: Conservation des enregistrements
+      IS.AR.235: Amélioration continue
+
+nis2:
+  texte: Directive (UE) 2022/2555 (NIS2)
+  articles:
+    "NIS2 art. 4": Actes juridiques sectoriels de l'Union (articulation avec Part-IS)
+    "NIS2 art. 20": Gouvernance, responsabilité des organes de direction
+    "NIS2 art. 21": Mesures de gestion des risques en matière de cybersécurité
+    "NIS2 art. 23": Obligations de signalement (24 h / 72 h / 1 mois)
+    "NIS2 art. 32-33": Supervision des entités essentielles et importantes
+
+autres:
+  "Règl. 2015/1998": Sûreté de l'aviation civile (AVSEC), dont mesures de cybersécurité 1.7
+  "Directive CER": Directive (UE) 2022/2557, résilience des entités critiques
+  "CRA": Règlement (UE) 2024/2847, Cyber Resilience Act
+  "RGPD": Règlement (UE) 2016/679
+
+# Périmètres
+perimetres:
+  DAC: la DAC en tant qu'autorité (IS.AR, et sa propre conformité NIS2 s'il y a lieu)
+  Entités: les organisations supervisées par la DAC (IS.I.OR, IS.D.OR)
+  Les deux: concerne à la fois la DAC et les entités supervisées
+  Contexte: culture générale utile, sans impact direct
+
+# Actions proposées (de la moins à la plus urgente)
+actions: [Rien, Lire, Suivre, Informer le CISO, Alerter une entité, Ajuster la supervision]

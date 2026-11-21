@@ -1,0 +1,69 @@
+# Calendrier réglementaire, tenu à la main.
+# statut : certain (date fixée par un texte), estime (date attendue), a_verifier
+# Une échéance sans date (date: null) s'affiche dans « À suivre ».
+
+- date: 2024-10-17
+  titre: Date limite de transposition de NIS2
+  texte: Directive (UE) 2022/2555, art. 41
+  domaine: NIS2
+  statut: certain
+
+- date: 2025-04-17
+  titre: Listes nationales des entités essentielles et importantes (NIS2)
+  texte: Directive (UE) 2022/2555, art. 3, § 3
+  domaine: NIS2
+  statut: certain
+
+- date: 2025-10-16
+  titre: Application de Part-IS.D.OR (conception, production, aérodromes)
+  texte: Règlement délégué (UE) 2022/1645
+  domaine: Part-IS
+  statut: certain
+
+- date: 2026-02-22
+  titre: Application de Part-IS.I.OR et Part-IS.AR (organisations et autorités, dont la DAC)
+  texte: Règlement d'exécution (UE) 2023/203
+  domaine: Part-IS
+  statut: certain
+
+- date: 2026-07-17
+  titre: Identification des entités critiques par les États membres
+  texte: Directive (UE) 2022/2557 (CER), art. 6
+  domaine: CER
+  statut: certain
+
+- date: 2026-08-02
+  titre: Application générale de l'AI Act
+  texte: Règlement (UE) 2024/1689. Des reports sont en discussion pour une partie des obligations.
+  domaine: AI Act
+  statut: a_verifier
+
+- date: 2026-09-11
+  titre: Cyber Resilience Act – début des obligations de signalement (vulnérabilités activement exploitées)
+  texte: Règlement (UE) 2024/2847, art. 14
+  domaine: CRA
+  statut: certain
+
+- date: 2027-10-17
+  titre: Premier réexamen de NIS2 par la Commission
+  texte: Directive (UE) 2022/2555, art. 40
+  domaine: NIS2
+  statut: certain
+
+- date: 2027-12-11
+  titre: Cyber Resilience Act – application complète
+  texte: Règlement (UE) 2024/2847
+  domaine: CRA
+  statut: certain
+
+- date: null
+  titre: Loi luxembourgeoise de transposition de NIS2 (projet de loi n° 8364)
+  texte: Suivre l'adoption, puis l'entrée en vigueur et le rôle de l'ILR et de la DAC. Statut à vérifier.
+  domaine: NIS2 LU
+  statut: a_verifier
+
+- date: null
+  titre: Articulation entre Part-IS et NIS2 pour les entités aéronautiques luxembourgeoises
+  texte: NIS2 art. 4 (actes sectoriels équivalents). Suivre les positions de la Commission, de l'EASA et des autorités nationales.
+  domaine: Part-IS / NIS2
+  statut: a_verifier

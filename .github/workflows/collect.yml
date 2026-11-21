@@ -1,0 +1,45 @@
+name: Collecte quotidienne
+
+on:
+  schedule:
+    # 02:30 UTC = 03:30 à Luxembourg en hiver, 04:30 en été :
+    # la collecte est toujours prête avant l'analyse de 5 h.
+    - cron: "30 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collecte
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dépendances
+        run: pip install pyyaml
+
+      - name: Collecte
+        run: python scripts/collect.py
+
+      - name: Enregistrer les données
+        run: |
+          git config user.name "keepmeposted-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Rien de nouveau."
+          else
+            git commit -m "Collecte du $(date -u +%Y-%m-%d)"
+            git pull --rebase
+            git push
+          fi
