@@ -13,7 +13,7 @@ entités supervisées ne doit entrer dans ce dépôt.
 | 03:30 (hiver) / 04:30 (été) | Collecte des sources → `data/items.json` | GitHub Action `collect.yml` |
 | 05:00 environ | Analyse (résumé FR, tags, exigences Part-IS, score, action), synthèse du jour, publication | Tâche Claude planifiée, sur l'abonnement, voir `ROUTINE.md` |
 
-La page se consulte dans un artifact claude.ai privé. Tu peux la partager quand tu le décides.
+La page se consulte dans un artifact claude.ai privé : https://claude.ai/artifact/Fi1qZJEUHgFhvZeyjppCSM Tu peux la partager quand tu le décides.
 
 ## Fichiers
 

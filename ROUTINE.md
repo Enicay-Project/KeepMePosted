@@ -82,7 +82,7 @@ git push -u origin claude/wizardly-bohr-o7znla
 ```
 
 Publier l'artifact privé : `file_path` = `dist/index.html`, `files` =
-`{"data.json": "dist/data.json"}`, avec l'URL de l'artifact existant (voir README).
+`{"data.json": "dist/data.json"}`, avec `url` = https://claude.ai/artifact/Fi1qZJEUHgFhvZeyjppCSM.
 
 ## 5. Sources en erreur
 
