@@ -32,6 +32,7 @@ Lire `referentiel/part-is.yaml`, puis, pour chaque élément, produire :
 | `score` | 0 à 100, voir le barème |
 | `action` | `Rien`, `Lire`, `Suivre`, `Informer le CISO`, `Alerter une entité`, `Ajuster la supervision` |
 | `pourquoi` | Une phrase : en quoi cela concerne (ou pas) la mission Part-IS de la DAC |
+| `doublon_de` | Facultatif : identifiant de l'élément principal quand plusieurs articles traitent du même sujet (la page les regroupe sous lui) |
 
 Barème du score :
 - 80 à 100 : touche directement une entité luxembourgeoise supervisée, la DAC, ou
