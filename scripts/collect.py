@@ -44,7 +44,9 @@ def iso(dt: datetime) -> str:
 
 
 def item_id(link: str, title: str = "") -> str:
-    return hashlib.sha1((link or title).encode("utf-8")).hexdigest()[:16]
+    # Les liens Google News changent à chaque requête : on identifie l'article par son titre.
+    key = title.strip().lower() if (link and "news.google.com" in link and title) else (link or title)
+    return hashlib.sha1(key.encode("utf-8")).hexdigest()[:16]
 
 
 def fetch(url: str) -> str:

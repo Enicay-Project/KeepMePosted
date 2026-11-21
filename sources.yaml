@@ -61,10 +61,10 @@ sources:
     zone: EU
 
   - id: icao-news
-    name: ICAO – Newsroom
+    name: ICAO – Actualités
     type: links
-    url: https://www.icao.int/Newsroom/Pages/default.aspx
-    match: /Newsroom/Pages/
+    url: https://www.icao.int/news
+    match: icao\.int/news/.+
     category: Réglementation
     zone: INT
 
@@ -100,20 +100,10 @@ sources:
     zone: EU
 
   # ---------- Luxembourg ----------
-  - id: dac-news
-    name: DAC Luxembourg – Actualités
-    type: links
-    url: https://dac.gouvernement.lu/fr/actualites.html
-    match: /actualites/
-    category: Acteurs
-    zone: LU
-
-  - id: mmtp-news
-    name: Ministère de la Mobilité – Actualités (aviation)
-    type: links
-    url: https://mmtp.gouvernement.lu/fr/actualites.html
-    match: /actualites/
-    keywords: [aviation, aéroport, aérien, aérienne, Findel, Luxair, Cargolux, DAC, ANA, drone]
+  - id: gn-gouv-lu-aviation
+    name: Google News – gouvernement.lu (DAC, aviation)
+    type: rss
+    url: https://news.google.com/rss/search?q=site:gouvernement.lu+%28aviation+OR+a%C3%A9roport+OR+Findel+OR+%22aviation+civile%22+OR+drone%29&hl=fr&gl=LU&ceid=LU:fr
     category: Acteurs
     zone: LU
 
@@ -132,11 +122,10 @@ sources:
     category: Menace
     zone: LU
 
-  - id: govcert
-    name: GOVCERT.LU – Actualités
-    type: links
-    url: https://www.govcert.lu/en/
-    match: /en/
+  - id: gn-govcert-circl
+    name: Google News – GOVCERT.LU, CIRCL, cybersécurité au Luxembourg
+    type: rss
+    url: https://news.google.com/rss/search?q=GOVCERT.LU+OR+CIRCL+OR+%22cybers%C3%A9curit%C3%A9+Luxembourg%22+OR+%22cyberattaque+Luxembourg%22&hl=fr&gl=LU&ceid=LU:fr
     category: Menace
     zone: LU
 

@@ -87,26 +87,6 @@
   "checked": "2026-11-21T03:48:10Z",
   "links": "22/182"
  },
- "dac-news": {
-  "name": "DAC Luxembourg – Actualités",
-  "url": "https://dac.gouvernement.lu/fr/actualites.html",
-  "ok": true,
-  "new": 0,
-  "error": null,
-  "last_ok": "2026-11-21T03:48:10Z",
-  "checked": "2026-11-21T03:48:10Z",
-  "links": "0/86"
- },
- "mmtp-news": {
-  "name": "Ministère de la Mobilité – Actualités (aviation)",
-  "url": "https://mmtp.gouvernement.lu/fr/actualites.html",
-  "ok": true,
-  "new": 0,
-  "error": null,
-  "last_ok": "2026-11-21T03:48:10Z",
-  "checked": "2026-11-21T03:48:10Z",
-  "links": "0/63"
- },
  "chd-8364": {
   "name": "Chambre des Députés – Projet de loi 8364 (transposition NIS2)",
   "url": "https://www.chd.lu/fr/dossier/8364",
@@ -125,16 +105,6 @@
   "last_ok": "2026-11-21T03:48:10Z",
   "checked": "2026-11-21T03:48:10Z",
   "links": "110/221"
- },
- "govcert": {
-  "name": "GOVCERT.LU – Actualités",
-  "url": "https://www.govcert.lu/en/",
-  "ok": true,
-  "new": 0,
-  "error": "Aucun lien trouvé : page probablement générée en JavaScript",
-  "last_ok": "2026-11-21T03:48:10Z",
-  "checked": "2026-11-21T03:48:10Z",
-  "links": "0/0"
  },
  "cnpd": {
   "name": "CNPD – Actualités",

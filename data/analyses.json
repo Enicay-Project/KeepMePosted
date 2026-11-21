@@ -1892,5 +1892,513 @@
   "action": "Rien",
   "pourquoi": "Navigabilité, hors sujet.",
   "analysed_at": "2026-11-21T03:17:41Z"
+ },
+ "88e8cf1fca8ab3cf": {
+  "resume": "Au moins trois drones détectés lors d'une nouvelle interruption du trafic au Findel.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 60,
+  "action": "Rien",
+  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
+  "doublon_de": "c31d3ff2d7bd94c3",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "507e7c5e158f0540": {
+  "resume": "Le Findel temporairement fermé un lundi soir après une nouvelle détection de drones.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 60,
+  "action": "Rien",
+  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
+  "doublon_de": "c31d3ff2d7bd94c3",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "b8b983e742cb6411": {
+  "resume": "Trafic interrompu pendant des heures au Findel à cause de drones non identifiés.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 60,
+  "action": "Rien",
+  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
+  "doublon_de": "c31d3ff2d7bd94c3",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "65c40a98bae92580": {
+  "resume": "17 vols Luxair déroutés et plus de 1 800 passagers touchés par la fermeture liée aux drones.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 60,
+  "action": "Rien",
+  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
+  "doublon_de": "c31d3ff2d7bd94c3",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "01cdc02e415348cf": {
+  "resume": "Le Findel à l'arrêt un vendredi soir, des drones soupçonnés.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 60,
+  "action": "Rien",
+  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
+  "doublon_de": "c31d3ff2d7bd94c3",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "239cc5510738337e": {
+  "resume": "Des drones non identifiés ont mis le Findel à l'arrêt.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 60,
+  "action": "Rien",
+  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
+  "doublon_de": "c31d3ff2d7bd94c3",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "ad61adf503f79cc1": {
+  "resume": "Selon L'essentiel, les survols de drones près du Findel sont assez fréquents.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 60,
+  "action": "Rien",
+  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
+  "doublon_de": "c31d3ff2d7bd94c3",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "ba1c0886e4f6ead6": {
+  "resume": "Un expert estime naïf d'exclure une ingérence russe derrière les survols de drones du Findel.",
+  "tags": [
+   "Drones",
+   "Menace",
+   "Acteur LU"
+  ],
+  "exigences": [
+   "IS.I.OR.205"
+  ],
+  "perimetre": "Les deux",
+  "score": 58,
+  "action": "Suivre",
+  "pourquoi": "La piste d'une menace étatique hybride relève aussi de l'appréciation des risques des entités (aéroport, ANA).",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "b1a7c85582cefe0a": {
+  "resume": "Abattre un drone au-dessus d'un aéroport présente un risque important au sol.",
+  "tags": [
+   "Drones"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 40,
+  "action": "Lire",
+  "pourquoi": "Éclaire les options de réponse aux drones, hors sécurité de l'information.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "b20189f4539f03f2": {
+  "resume": "Le Quotidien décrit une tour de contrôle du Findel « dans le rouge ».",
+  "tags": [
+   "Acteur LU",
+   "Gouvernance"
+  ],
+  "exigences": [],
+  "perimetre": "Entités",
+  "score": 45,
+  "action": "Suivre",
+  "pourquoi": "Si le sujet porte sur les effectifs ou les moyens de l'ANA, il peut peser sur sa capacité à mettre en œuvre Part-IS : à lire pour comprendre.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "5a892e5aa7c0f794": {
+  "resume": "Le train d'atterrissage d'un Boeing 747-8F de Cargolux s'est affaissé à l'arrêt au Findel ; des contrôles sont lancés sur toute la flotte.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Incident de navigabilité, sans dimension cyber.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "8c2a8c05910a74e0": {
+  "resume": "Incident de train d'atterrissage sur un Boeing Cargolux au Findel.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 25,
+  "action": "Rien",
+  "pourquoi": "Même incident.",
+  "doublon_de": "5a892e5aa7c0f794",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "dbae2c28e27fabb9": {
+  "resume": "Incident de train d'atterrissage sur un Boeing Cargolux au Findel.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 25,
+  "action": "Rien",
+  "pourquoi": "Même incident.",
+  "doublon_de": "5a892e5aa7c0f794",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "48e1909d4c653d9a": {
+  "resume": "Incident de train d'atterrissage sur un Boeing Cargolux au Findel.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 25,
+  "action": "Rien",
+  "pourquoi": "Même incident.",
+  "doublon_de": "5a892e5aa7c0f794",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "2dc805a0ec942273": {
+  "resume": "Luxair fera voler deux Airbus cet hiver par mesure de précaution.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 20,
+  "action": "Rien",
+  "pourquoi": "Exploitation, hors cyber.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "e0e425464c6b76cc": {
+  "resume": "Luxair investit plus d'un milliard d'euros dans sa flotte, sans stratégie claire selon Virgule.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 25,
+  "action": "Rien",
+  "pourquoi": "Contexte : une flotte neuve amène des avions plus connectés.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "7122a9e8b6faa889": {
+  "resume": "Luxair va renouveler entièrement sa flotte pour plus d'un milliard d'euros.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 20,
+  "action": "Rien",
+  "pourquoi": "Même annonce.",
+  "doublon_de": "e0e425464c6b76cc",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "991c759282ce4199": {
+  "resume": "Malaysia Airlines prévient d'une possible exposition de données liée à la fuite Amadeus.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus.",
+  "doublon_de": "5b7506c4b95e2fe9",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "aaa72d280bfea43a": {
+  "resume": "Cambriolage à la police judiciaire au Findel.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors aviation.",
+  "doublon_de": "f4ed5a956a82ed6a",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "34dedda0cf68775d": {
+  "resume": "Le Findel rejoint l'association Aéro Biodiversité.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "d5bdfd1d1db524a1": {
+  "resume": "Cargolux transporte des œuvres pour le MNAHA.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "c594b4d843fd7665": {
+  "resume": "Spectacle d'une artiste nommée Linda Findel à Strasbourg (faux positif).",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "0f4475cdf56f078f": {
+  "resume": "630 000 passagers attendus au Findel pendant la période de pointe.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "67f331bdf25d96e6": {
+  "resume": "Nouvelle destination sans escale vers le Moyen-Orient depuis le Findel.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "e011bcf1127ef100": {
+  "resume": "Jeu-concours avec des bons Luxair (faux positif).",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "58c73d5847386f03": {
+  "resume": "Portrait d'une famille de pilotes chez Cargolux et Luxair.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "f3f689f7eb37aac6": {
+  "resume": "Luxair met son nouvel avion sur la ligne Luxembourg–Londres.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "1f9966b9dc55576c": {
+  "resume": "Un échange radio entre Cargolux et Cathay amuse les réseaux sociaux.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "1eba85ce43515f8c": {
+  "resume": "L'association AéroRiverains réclame la fin des vols de nuit au Findel.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 15,
+  "action": "Rien",
+  "pourquoi": "Actualité de l'écosystème luxembourgeois, sans enjeu de sécurité de l'information.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "fd3c3856f7523cc3": {
+  "resume": "Nouvelle destination vers les Balkans au départ du Luxembourg.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "bbf0269440c16663": {
+  "resume": "Luxair lance une liaison directe vers l'Albanie.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "5e50d24dedc3f361": {
+  "resume": "Luxair annonce une nouvelle liaison pour l'été 2027.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "0477313524f4866f": {
+  "resume": "Luxair reporte ses vols vers Abou Dhabi prévus en octobre.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 15,
+  "action": "Rien",
+  "pourquoi": "Actualité de l'écosystème luxembourgeois, sans enjeu de sécurité de l'information.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "2cc271a9db8cd8a6": {
+  "resume": "Revue de presse sur plusieurs compagnies, dont Luxair.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "d2b5bf03f228ea35": {
+  "resume": "Des bombardiers d'eau transportés par Cargolux font polémique en Belgique.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "f238acdaed0c991f": {
+  "resume": "L'Etna oblige Luxair à réorganiser ses vols.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "8bb73f5e0a6ecb42": {
+  "resume": "Luxair annonce des retards possibles sur les vols vers Barcelone.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "d96e541b9d36844e": {
+  "resume": "Des militants détournent le tableau des départs du Findel pour une action climat.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 35,
+  "action": "Lire",
+  "pourquoi": "Action militante sur l'affichage : vérifier s'il s'agissait d'un détournement réel du système d'affichage ou d'une simple mise en scène.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "80e04df2e9caf5f5": {
+  "resume": "Deux atterrissages d'urgence en une semaine au Findel, pour la même raison.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 15,
+  "action": "Rien",
+  "pourquoi": "Actualité de l'écosystème luxembourgeois, sans enjeu de sécurité de l'information.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "5091be44979d4d27": {
+  "resume": "Un avion EasyJet contraint d'atterrir d'urgence au Findel.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 15,
+  "action": "Rien",
+  "pourquoi": "Actualité de l'écosystème luxembourgeois, sans enjeu de sécurité de l'information.",
+  "analysed_at": "2026-11-21T03:49:37Z"
  }
 }

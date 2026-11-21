@@ -1,7 +1,7 @@
 {
  "2026-11-21": {
   "date": "2026-11-21",
-  "synthese": "Sujet principal : la fuite de données chez Amadeus, qui touche une dizaine de compagnies depuis fin octobre. C'est un cas concret de risque fournisseur pour Part-IS (IS.I.OR.235), à rapprocher des entités luxembourgeoises. L'EASA et EUROCONTROL publient un plan d'action commun contre les interférences GNSS, à lire et à transmettre au CISO. Côté vulnérabilités, Ivanti EPMM est activement exploité et Citrix NetScaler et NGINX ont reçu des correctifs critiques. Première édition : les éléments issus des pages EASA, ENISA, CERT-EU, CIRCL et CNPD sont datés du jour de leur première collecte.",
+  "synthese": "Sujet principal : la fuite de données chez Amadeus, qui touche une dizaine de compagnies depuis fin octobre. C'est un cas concret de risque fournisseur pour Part-IS (IS.I.OR.235), à rapprocher des entités luxembourgeoises. L'EASA et EUROCONTROL publient un plan d'action commun contre les interférences GNSS, à lire et à transmettre au CISO. Côté vulnérabilités, Ivanti EPMM est activement exploité et Citrix NetScaler et NGINX ont reçu des correctifs critiques. Première édition : les éléments issus des pages EASA, ENISA, CERT-EU, CIRCL et CNPD sont datés du jour de leur première collecte. Mise à jour de 5 h : 40 articles plus anciens sur les acteurs luxembourgeois ont été ajoutés, surtout l'épisode des drones de septembre.",
   "une": [
    {
     "id": "281915022ccafb48",
@@ -34,6 +34,10 @@
    {
     "id": "c31d3ff2d7bd94c3",
     "note": "Demander le retour d'expérience de lux-Airport et de l'ANA sur les survols de drones de septembre."
+   },
+   {
+    "id": "ba1c0886e4f6ead6",
+    "note": "Piste d'ingérence étatique derrière les drones : à garder en tête pour l'appréciation des risques de lux-Airport et de l'ANA."
    }
   ]
  }
