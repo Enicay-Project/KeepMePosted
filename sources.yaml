@@ -41,7 +41,7 @@ sources:
     name: EASA – NPA (projets de modification)
     type: links
     url: https://www.easa.europa.eu/en/document-library/notices-of-proposed-amendment
-    match: /document-library/notices-of-proposed-amendment/
+    match: /notices-of-proposed-amendment/npa-
     category: Réglementation
     zone: EU
 
@@ -49,7 +49,7 @@ sources:
     name: EASA – Décisions de l'Agence (AMC/GM)
     type: links
     url: https://www.easa.europa.eu/en/document-library/agency-decisions
-    match: /document-library/agency-decisions/
+    match: /agency-decisions/ed-decision
     category: Réglementation
     zone: EU
 
@@ -68,11 +68,10 @@ sources:
     category: Réglementation
     zone: INT
 
-  - id: eurocontrol-news
-    name: EUROCONTROL – Actualités
-    type: links
-    url: https://www.eurocontrol.int/news
-    match: /news/
+  - id: gn-eurocontrol-icao
+    name: Google News – EUROCONTROL et ICAO (cybersécurité, ATM)
+    type: rss
+    url: https://news.google.com/rss/search?q=EUROCONTROL+OR+ICAO+%28cyber+OR+cybersecurity+OR+%22information+security%22+OR+GNSS%29&hl=en&gl=US&ceid=US:en
     category: Acteurs
     zone: EU
 

@@ -53,15 +53,6 @@
   "last_ok": "2026-11-21T03:13:53Z",
   "checked": "2026-11-21T03:13:53Z"
  },
- "eurocontrol-news": {
-  "name": "EUROCONTROL – Actualités",
-  "url": "https://www.eurocontrol.int/news",
-  "ok": false,
-  "new": 0,
-  "error": "HTTPError: HTTP Error 404: Not Found",
-  "last_ok": null,
-  "checked": "2026-11-21T03:13:53Z"
- },
  "ec-nis2": {
   "name": "Commission européenne – Page NIS2",
   "url": "https://digital-strategy.ec.europa.eu/en/policies/nis2-directive",

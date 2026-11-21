@@ -142,10 +142,6 @@
 "https://www.easa.europa.eu/en/document-library/agency-decisions/finance-and-business-activities"
 ]
 },
-"icao-news": {
-"seen": []
-},
-"eurocontrol-news": {},
 "enisa-news": {
 "seen": [
 "https://www.enisa.europa.eu/news/cybersecurity-month-work-employees-skills-under-the-looking-glass ",
@@ -189,12 +185,6 @@
 "https://cert.europa.eu/publications/security-advisories/2026-021/",
 "https://cert.europa.eu/publications/security-advisories/2026-022/"
 ]
-},
-"dac-news": {
-"seen": []
-},
-"mmtp-news": {
-"seen": []
 },
 "circl": {
 "seen": [
@@ -309,9 +299,6 @@
 "https://www.circl.lu/pub/tr-99",
 "https://www.circl.lu/pub/traffic-light-protocol/"
 ]
-},
-"govcert": {
-"seen": []
 },
 "cnpd": {
 "seen": [

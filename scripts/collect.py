@@ -161,6 +161,7 @@ def collect_links(src: dict, state: dict) -> list[dict]:
     first_run = not known
     new = [f for f in found if f["link"] not in known]
     state["seen"] = sorted(known | seen_now)[-3000:]
+    state["raw_links"], state["matched"] = len(p.links), len(found)
     if first_run:
         new = new[:FIRST_RUN_LIMIT]
     return new
@@ -272,6 +273,11 @@ def main() -> int:
             total_new += new
             status[sid] = {"name": src["name"], "url": src["url"], "ok": True, "new": new,
                            "error": None, "last_ok": iso(NOW), "checked": iso(NOW)}
+            if src["type"] == "links":
+                ls = links_state[sid]
+                status[sid]["links"] = f"{ls.get('matched', 0)}/{ls.get('raw_links', 0)}"
+                if not ls.get("raw_links"):
+                    status[sid]["error"] = "Aucun lien trouvé : page probablement générée en JavaScript"
             print(f"[ok]     {sid:20} +{new}")
         except Exception as exc:  # une source en panne ne bloque pas les autres
             msg = f"{type(exc).__name__}: {exc}"[:300]
@@ -284,7 +290,7 @@ def main() -> int:
     status = {k: v for k, v in status.items() if k in ids}
 
     cutoff = iso(NOW - timedelta(days=RETENTION_DAYS))
-    kept = [i for i in items.values() if (i.get("published") or "") >= cutoff or i["collected"] >= cutoff]
+    kept = [i for i in items.values() if (i.get("published") or i["collected"]) >= cutoff]
     kept.sort(key=lambda i: i.get("published") or "", reverse=True)
 
     ITEMS_FILE.write_text(json.dumps(kept, ensure_ascii=False, indent=1), "utf-8")
