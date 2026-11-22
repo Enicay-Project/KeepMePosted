@@ -1044,6 +1044,18 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
+  "id": "856ffb4a685630e7",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Cargolux Composite Shop - Aerocontact.com",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHRTF0RFJEOVp2TnRxeDVfalpvd2RwTmpHdm9tN0RqbHFTUkFYOG05Q2NHTGRKQ3VyejVoMXkxRUVUSHVVWWQ1YWduTE5jaC1jOTlRMm9uRGdxZElJZlN2cWlDOEEtZ2wxejZjbUh6RDRiX3M?oc=5",
+  "summary": "Cargolux Composite Shop Aerocontact.com",
+  "published": "2026-11-16T08:00:00Z",
+  "collected": "2026-11-22T10:08:41Z"
+ },
+ {
   "id": "c504a22d9d5d1f20",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
@@ -1426,6 +1438,18 @@
   "summary": "Malaysia Airlines says customer data may be hit in Amadeus breach The Bangladesh Monitor",
   "published": "2026-11-02T11:15:10Z",
   "collected": "2026-11-21T03:13:53Z"
+ },
+ {
+  "id": "91fb31b4ae952e09",
+  "source": "gn-supply",
+  "source_name": "Google News – Fournisseurs critiques de l'aviation",
+  "category": "Fournisseur",
+  "zone": "INT",
+  "title": "Amadeus Flaw Clouds 38 Months of Airline Data [2026] - shattered.io",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUE1fVmpWZ2h5T016REtBdVlGTWlrTTVQR3JtYmlVWV9kWkYtVDZVR3ZTdk9EOWhGcUJIbmlkX0NvSm5ta0pwQlNCS2VUT01sWWtzYTRGVmFFeWdNZ1hkNTNUTHZHVFRZY2F6cDVOZmtrUFVqQXR1R0tYNXJkazB5XzlHd3RNZ0JXMGRHMGdB?oc=5",
+  "summary": "Amadeus Flaw Clouds 38 Months of Airline Data [2026] shattered.io",
+  "published": "2026-11-02T08:44:57Z",
+  "collected": "2026-11-22T10:08:41Z"
  },
  {
   "id": "e4ca320b595721b4",
