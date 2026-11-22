@@ -13,7 +13,10 @@ git merge --ff-only FETCH_HEAD
 ```
 
 Ouvrir `data/status.json`. Si aucune source n'a été vérifiée dans les 20 dernières
-heures, la collecte n'a pas tourné : le dire en tête de la synthèse du jour.
+heures, la collecte planifiée n'a pas tourné (GitHub retarde ou saute parfois les
+déclenchements planifiés) : la lancer avec l'outil GitHub `actions_run_trigger`
+(`run_workflow`, `collect.yml`, ref `claude/wizardly-bohr-o7znla`), attendre le commit
+« Collecte du … » sur la branche, puis refaire la fusion ci-dessus.
 
 ## 2. Analyser les nouveaux éléments
 
