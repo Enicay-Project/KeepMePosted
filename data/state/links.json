@@ -339,5 +339,21 @@
 ],
 "raw_links": 105,
 "matched": 20
+},
+"icao-news": {
+"seen": [
+"https://www.icao.int/news/cop-31-icao-champions-global-approach-aviation-emissions",
+"https://www.icao.int/news/delegates-support-renewed-leadership-icao-drive-investment-aviation-and-air-connectivity",
+"https://www.icao.int/news/ethiopia-indonesia-oman-and-turkiye-elected-icao-council",
+"https://www.icao.int/news/global-economic-reform-essential-transformation-international-air-transport",
+"https://www.icao.int/news/global-summit-seeks-sustainable-economic-blueprint-aviation-growth",
+"https://www.icao.int/news/governments-seek-greater-economic-growth-through-reforms-global-air-transport",
+"https://www.icao.int/news/icao-member-states-identify-reforms-support-innovation-and-environmental-sustainability-civil",
+"https://www.icao.int/news/icao-talks-result-strengthened-cooperation-among-middle-eastern-states-aviation-issues",
+"https://www.icao.int/news/new-exhibition-highlights-progress-towards-eliminating-aviation-fatalities",
+"https://www.icao.int/news/stronger-regulatory-frameworks-will-strengthen-civil-aviation-worldwide"
+],
+"raw_links": 243,
+"matched": 10
 }
 }
