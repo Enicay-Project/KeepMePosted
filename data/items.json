@@ -804,7 +804,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "5158f992c19fe04d",
+  "id": "81a27cd81cb777e0",
   "source": "gn-partis",
   "source_name": "Google News – Part-IS et cybersécurité aviation",
   "category": "Réglementation",
@@ -828,18 +828,6 @@
   "collected": "2026-11-22T03:48:05Z"
  },
  {
-  "id": "5888a0de30e540f4",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "Le Rhin est au plus bas mais le Findel ne manque pas de kérosène - L'essentiel",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOEd5LUtDb3NIcW5VZ3RjWGU3M1RfSy1QZE1mTUs2eW55YXZMLUhkVE9DdzRiQ09sUVBNbmNPV3hUVHE1UE13Rm5qRzh2UFVOZU91NE9zWVJmOG9ZOEs1U1lwcUpIcDRSTHROa0NGS1Y4UldGR254bDQ2aWlrRUgydTA5RC1mS1N1YV9QMzBYNFNDVUNqVnlDWmFuOVdubW0yNktCVkE4VjhVbERpR3FvV1hQTFU2dGYtX0FBclJTNmM?oc=5",
-  "summary": "Le Rhin est au plus bas mais le Findel ne manque pas de kérosène L'essentiel",
-  "published": "2026-11-20T14:23:33Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
   "id": "0e8d4b576e3eb5a3",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
@@ -849,18 +837,6 @@
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOEd5LUtDb3NIcW5VZ3RjWGU3M1RfSy1QZE1mTUs2eW55YXZMLUhkVE9DdzRiQ09sUVBNbmNPV3hUVHE1UE13Rm5qRzh2UFVOZU91NE9zWVJmOG9ZOEs1U1lwcUpIcDRSTHROa0NGS1Y4UldGR254bDQ2aWlrRUgydTA5RC1mS1N1YV9QMzBYNFNDVUNqVnlDWmFuOVdubW0yNktCVkE4VjhVbERpR3FvV1hQTFU2dGYtX0FBclJTNmM?oc=5",
   "summary": "Le Rhin est au plus bas mais le Findel ne manque pas de kérosène L'essentiel",
   "published": "2026-11-20T14:23:33Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "ca58edf5cae7bea8",
-  "source": "gn-gnss",
-  "source_name": "Google News – Brouillage et spoofing GNSS",
-  "category": "Menace",
-  "zone": "INT",
-  "title": "GPS interference puts civilian flights, shipping at risk - Channel Africa",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGNoZVhuWHVvSkFxb1dkUWtBcmdFZEJzNk5nY1QweFNac2lwRDNlc0dKRC1VVVRodHhsX3d1eFZZaFZVSXZQYVotMzVIZWJaZ25XMTJJUWZtRGtPVnhyM0ZUMmZrOTdsaU1uY3NULVMtQWROT3RDMU80cXBQMVVtN0lWNFQ2MWdXWXE3MGVwN1ZuRDlha1B2SXpOSnBfYlkyN3JhODhQbENsNlU?oc=5",
-  "summary": "GPS interference puts civilian flights, shipping at risk Channel Africa",
-  "published": "2026-11-20T13:33:51Z",
   "collected": "2026-11-21T03:13:53Z"
  },
  {
@@ -873,18 +849,6 @@
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGNoZVhuWHVvSkFxb1dkUWtBcmdFZEJzNk5nY1QweFNac2lwRDNlc0dKRC1VVVRodHhsX3d1eFZZaFZVSXZQYVotMzVIZWJaZ25XMTJJUWZtRGtPVnhyM0ZUMmZrOTdsaU1uY3NULVMtQWROT3RDMU80cXBQMVVtN0lWNFQ2MWdXWXE3MGVwN1ZuRDlha1B2SXpOSnBfYlkyN3JhODhQbENsNlU?oc=5",
   "summary": "GPS interference puts civilian flights, shipping at risk Channel Africa",
   "published": "2026-11-20T13:33:51Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "165ad1fc7951c366",
-  "source": "gn-gnss",
-  "source_name": "Google News – Brouillage et spoofing GNSS",
-  "category": "Menace",
-  "zone": "INT",
-  "title": "UNIDIR Warns GPS and Radio Jamming and Spoofing Are Endangering Civilians, With Aviation Spoofing Up 500 Per Cent in 2024 - Avi-Go",
-  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtcHQ4YkhSbzBSdThxZlQxazYyb3oyVndYOWVJMXlBQV9Za3o0WkZKZ2Y4M0l1ZkVMWFg3cGxaWDJBakpJMjJuWUFMSWZtUEQybEI0ZEcwRXFlVGFTcWdMQ3Y4dWZPLVlsZkdxWVl3Zmt1QTA?oc=5",
-  "summary": "UNIDIR Warns GPS and Radio Jamming and Spoofing Are Endangering Civilians, With Aviation Spoofing Up 500 Per Cent in 2024 Avi-Go",
-  "published": "2026-11-20T05:09:22Z",
   "collected": "2026-11-21T03:13:53Z"
  },
  {
@@ -897,18 +861,6 @@
   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtcHQ4YkhSbzBSdThxZlQxazYyb3oyVndYOWVJMXlBQV9Za3o0WkZKZ2Y4M0l1ZkVMWFg3cGxaWDJBakpJMjJuWUFMSWZtUEQybEI0ZEcwRXFlVGFTcWdMQ3Y4dWZPLVlsZkdxWVl3Zmt1QTA?oc=5",
   "summary": "UNIDIR Warns GPS and Radio Jamming and Spoofing Are Endangering Civilians, With Aviation Spoofing Up 500 Per Cent in 2024 Avi-Go",
   "published": "2026-11-20T05:09:22Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "1d31a949ab21ea15",
-  "source": "gn-gnss",
-  "source_name": "Google News – Brouillage et spoofing GNSS",
-  "category": "Menace",
-  "zone": "INT",
-  "title": "GPS Spoofing Rises Sharply, Threatening Civil Aviation - Wisevoter",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVkY3QjVmYU5NSXRKcng0cGNIWThJb2NOY1l4Mzh5ZFprRjlVbzA3anplWklhd0U0Zk5RQXprMHJ1TDhFUEMtVl80b1ZWR2VhTmNpUTU5U3NqUHp4bG43MV9HM3VJcVJseEVCRGhGSnUyOEpvRHo1U3BGSVI5WGFndXJqVQ?oc=5",
-  "summary": "GPS Spoofing Rises Sharply, Threatening Civil Aviation Wisevoter",
-  "published": "2026-11-19T22:18:25Z",
   "collected": "2026-11-21T03:13:53Z"
  },
  {
@@ -921,7 +873,7 @@
   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVkY3QjVmYU5NSXRKcng0cGNIWThJb2NOY1l4Mzh5ZFprRjlVbzA3anplWklhd0U0Zk5RQXprMHJ1TDhFUEMtVl80b1ZWR2VhTmNpUTU5U3NqUHp4bG43MV9HM3VJcVJseEVCRGhGSnUyOEpvRHo1U3BGSVI5WGFndXJqVQ?oc=5",
   "summary": "GPS Spoofing Rises Sharply, Threatening Civil Aviation Wisevoter",
   "published": "2026-11-19T22:18:25Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
   "id": "e911fff3f5e4dfb5",
@@ -936,7 +888,7 @@
   "collected": "2026-11-22T03:48:05Z"
  },
  {
-  "id": "f4ed5a956a82ed6a",
+  "id": "e5e26a6dff27a735",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -945,18 +897,6 @@
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTWVrVjB0TFhZbE5NRDg3cHRHa2VCQ0NqN2xlYVhlRFFwNUhqczc0TGlqbFBBblJTLTBiSkFpWkp0NXY3NlplenJmdF8xQXR4WnBkVmlpVm9tREZWSXVuSmJDTk5QYmxSOVp1dXc2ZkdicENuaGtJMzRQNE9PTm9oZWh5WlVmUlJtVFBXZ3hUcmxsUV9wekpTQUs0SjJUVDdRckdvcExGa25FRUMtakdHLVgwZnBYNXJUOEdOVk5ZUjI?oc=5",
   "summary": "Un vol par effraction a été commis dans les locaux de la police judiciaire Virgule.lu",
   "published": "2026-11-19T10:33:48Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "40141b292ca33c8b",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "Skypark: les dessous du géant du Findel se dévoilent - Paperjam News",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50eXVtR0VRUlYtOTJTS0N3N1ZfRHdoMmtYVGwtdU9ud1BNei1kbUliRldua0REM2RFa3d5NDNsUm82Z1hOcTY4a05vek1nMW1oUF9xaWNOZmRUbUhSZF9HeGI0VGtPQzMzcXRmYzFEb0sxTlhITnoxaDBJeHhBSFk?oc=5",
-  "summary": "Skypark: les dessous du géant du Findel se dévoilent Paperjam News",
-  "published": "2026-11-19T10:10:21Z",
   "collected": "2026-11-21T03:13:53Z"
  },
  {
@@ -969,18 +909,6 @@
   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50eXVtR0VRUlYtOTJTS0N3N1ZfRHdoMmtYVGwtdU9ud1BNei1kbUliRldua0REM2RFa3d5NDNsUm82Z1hOcTY4a05vek1nMW1oUF9xaWNOZmRUbUhSZF9HeGI0VGtPQzMzcXRmYzFEb0sxTlhITnoxaDBJeHhBSFk?oc=5",
   "summary": "Skypark: les dessous du géant du Findel se dévoilent Paperjam News",
   "published": "2026-11-19T10:10:21Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "a6e1fc3e61188649",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "C'est un comble: La police luxembourgeoise a été victime d'un cambriolage - RTL Lëtzebuerg",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckIyZzN6bWlzTDluSlBYVFNUT045bmVBdDJ1YVhoU1B4MGs5RjlPcmhkeVB3RzVSelhBR3JOQThDVFhyTUpGWVA4V2MtcUl6U3N0Z1JxSDlVRmtwVERxMFJmajJXVHBvYlZNSWZMTlBsTDg1M0tEUVM1a3VGM2FQY1czelRHWmNOZm5JUXNndFNpWERJN3BBbHFwMjJmQk5WTjZjUmJ3?oc=5",
-  "summary": "C'est un comble: La police luxembourgeoise a été victime d'un cambriolage RTL Lëtzebuerg",
-  "published": "2026-11-19T09:49:00Z",
   "collected": "2026-11-21T03:13:53Z"
  },
  {
@@ -993,10 +921,10 @@
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckIyZzN6bWlzTDluSlBYVFNUT045bmVBdDJ1YVhoU1B4MGs5RjlPcmhkeVB3RzVSelhBR3JOQThDVFhyTUpGWVA4V2MtcUl6U3N0Z1JxSDlVRmtwVERxMFJmajJXVHBvYlZNSWZMTlBsTDg1M0tEUVM1a3VGM2FQY1czelRHWmNOZm5JUXNndFNpWERJN3BBbHFwMjJmQk5WTjZjUmJ3?oc=5",
   "summary": "C'est un comble: La police luxembourgeoise a été victime d'un cambriolage RTL Lëtzebuerg",
   "published": "2026-11-19T09:49:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "aaa72d280bfea43a",
+  "id": "f35749a4aa7bd0ec",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -1008,7 +936,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "2356e8832e36b30b",
+  "id": "9e64a79a750e5379",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -1020,7 +948,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "f841fe7c8c75c2f2",
+  "id": "64438601a0d6cae0",
   "source": "gn-partis",
   "source_name": "Google News – Part-IS et cybersécurité aviation",
   "category": "Réglementation",
@@ -1032,7 +960,7 @@
   "collected": "2026-11-21T03:15:00Z"
  },
  {
-  "id": "34dedda0cf68775d",
+  "id": "b635f19e0004107e",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -1044,18 +972,6 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "df415f2b4fa90d61",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Caribbean Airlines confirms passenger booking data breach through Amadeus reservations provider - WIC News",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZldMWjJvbm5vcG51dzRvUGFqSFhTWVZja2Fjb0NqZVJSSjlrd3ZfeXRaOW1zR0x2bno2eU5jRUVpNHpXZThndWFmVzB1SjVpM0ZnYVNiYXhJYVZTM3hLMWk5Y2ZSU2tWMHloQkk3QWtIbldfeWxHVkFBOGZiTUY3NUcyWGo4Ym5aUUJiTTk1Y2kyOXJFdUpnYWJ5MTZEQVVZaElZeE9HX0ZHbVVOT3FIbDNoVXJVaDVHZGo3MENaSERDZmM?oc=5",
-  "summary": "Caribbean Airlines confirms passenger booking data breach through Amadeus reservations provider WIC News",
-  "published": "2026-11-18T05:01:44Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
   "id": "e40a7b519ff40063",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
@@ -1065,10 +981,10 @@
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZldMWjJvbm5vcG51dzRvUGFqSFhTWVZja2Fjb0NqZVJSSjlrd3ZfeXRaOW1zR0x2bno2eU5jRUVpNHpXZThndWFmVzB1SjVpM0ZnYVNiYXhJYVZTM3hLMWk5Y2ZSU2tWMHloQkk3QWtIbldfeWxHVkFBOGZiTUY3NUcyWGo4Ym5aUUJiTTk1Y2kyOXJFdUpnYWJ5MTZEQVVZaElZeE9HX0ZHbVVOT3FIbDNoVXJVaDVHZGo3MENaSERDZmM?oc=5",
   "summary": "Caribbean Airlines confirms passenger booking data breach through Amadeus reservations provider WIC News",
   "published": "2026-11-18T05:01:44Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "0ece1115f46f98fc",
+  "id": "72d88cf42a36b244",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
   "category": "Fournisseur",
@@ -1077,18 +993,6 @@
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTDVydlJrV253Z0JfeHByaU9kWmVqbjdBcVNueW1DUGNDYzJqTVZtN3g5bHV0VzNjZmwxYkh2VDlqM2RkOXl6S2g2UHlnQk9yRTZ3eGFJcF9ZR3BkdDRMZ0xINjFLVjcxSGxNQ2cwbHZ5dzlralhmTUVXN1VYbkxJRkFuZTYzMC12elY1M1FYRlRqZFk2ZTYwVy1KdHVGdXF0?oc=5",
   "summary": "airBaltic Data Breach: 618,000 Bookings Exposed at an IT Supplier MiGFlug",
   "published": "2026-11-17T15:39:54Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "6c2f39f8a3e49a0f",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Caribbean Airlines Travelers: Check Email After Amadeus Breach - https://deeparrival.com/",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb19WOUJsc193MGh4d20wWVBJeGduaUcyRVVrWVo5dDZTdmtJTjFLMkVzZFJWWm42bFVYbmkxZEZpeDdET3ZLci1GWFphcHdkYTZvUGNfVWVlQU1odFpEeFpwVFZMWnEtQk40LTdPaXVTcjNpeWRfYkNKcHM3VGZkMG00eTB6ekUwQXJ5MjF3?oc=5",
-  "summary": "Caribbean Airlines Travelers: Check Email After Amadeus Breach https://deeparrival.com/",
-  "published": "2026-11-16T19:14:42Z",
   "collected": "2026-11-21T03:13:53Z"
  },
  {
@@ -1101,18 +1005,6 @@
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb19WOUJsc193MGh4d20wWVBJeGduaUcyRVVrWVo5dDZTdmtJTjFLMkVzZFJWWm42bFVYbmkxZEZpeDdET3ZLci1GWFphcHdkYTZvUGNfVWVlQU1odFpEeFpwVFZMWnEtQk40LTdPaXVTcjNpeWRfYkNKcHM3VGZkMG00eTB6ekUwQXJ5MjF3?oc=5",
   "summary": "Caribbean Airlines Travelers: Check Email After Amadeus Breach https://deeparrival.com/",
   "published": "2026-11-16T19:14:42Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "171e76fdfb9a5f73",
-  "source": "gn-gnss",
-  "source_name": "Google News – Brouillage et spoofing GNSS",
-  "category": "Menace",
-  "zone": "INT",
-  "title": "Researchers Test AI to Detect GPS Spoofing in Drones - Texas A&M University-Commerce",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3V1NGZiVThoSEpqWTM5VVdTZ3BCc1lGMm9aeUNiWE93UTM0WXduTmJjZmFlR1NWdVM3OGNUdVhfS2hEREZSZ1NlSUl5YjQ0M1hKXzREN0x2dW02TGdoQ1hwVHptWmo2RWlsLWZZMWM5cHVHWGI1NDhHcnhnWC02b2NWek5hTTg?oc=5",
-  "summary": "Researchers Test AI to Detect GPS Spoofing in Drones Texas A&M University-Commerce",
-  "published": "2026-11-16T16:45:39Z",
   "collected": "2026-11-21T03:13:53Z"
  },
  {
@@ -1125,18 +1017,6 @@
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3V1NGZiVThoSEpqWTM5VVdTZ3BCc1lGMm9aeUNiWE93UTM0WXduTmJjZmFlR1NWdVM3OGNUdVhfS2hEREZSZ1NlSUl5YjQ0M1hKXzREN0x2dW02TGdoQ1hwVHptWmo2RWlsLWZZMWM5cHVHWGI1NDhHcnhnWC02b2NWek5hTTg?oc=5",
   "summary": "Researchers Test AI to Detect GPS Spoofing in Drones Texas A&M University-Commerce",
   "published": "2026-11-16T16:45:39Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "7bd9a899f5023334",
-  "source": "gn-partis",
-  "source_name": "Google News – Part-IS et cybersécurité aviation",
-  "category": "Réglementation",
-  "zone": "INT",
-  "title": "Moldova Trains Civil Aviation Inspectors in EASA Part-IS Requirements - logos-pres.md",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSExDTUtYRUoxYmRSeWhiTkNBYTNETUpRWE1HUHJfQ0dyWUwwdi14VFloOVYtVXphcHNMNG5mdjFwRWduZl9idzM2X1dTeWdpd3Q0Uy11andkcXNLSnE0Q2FDcEtWNnBmaFpEdzg3ekVuMURGVEEtbDZrZTZxbG9McnkxUEpGdDNmQlE4c09zNm80eldyUDFhTXhuM25ZX3Y4RzZRZTl3Tk9tekFHUFE?oc=5",
-  "summary": "Moldova Trains Civil Aviation Inspectors in EASA Part-IS Requirements logos-pres.md",
-  "published": "2026-11-16T12:25:16Z",
   "collected": "2026-11-21T03:13:53Z"
  },
  {
@@ -1149,18 +1029,6 @@
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSExDTUtYRUoxYmRSeWhiTkNBYTNETUpRWE1HUHJfQ0dyWUwwdi14VFloOVYtVXphcHNMNG5mdjFwRWduZl9idzM2X1dTeWdpd3Q0Uy11andkcXNLSnE0Q2FDcEtWNnBmaFpEdzg3ekVuMURGVEEtbDZrZTZxbG9McnkxUEpGdDNmQlE4c09zNm80eldyUDFhTXhuM25ZX3Y4RzZRZTl3Tk9tekFHUFE?oc=5",
   "summary": "Moldova Trains Civil Aviation Inspectors in EASA Part-IS Requirements logos-pres.md",
   "published": "2026-11-16T12:25:16Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "f0d3102768a28ae4",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "CAL confirms customer data breach - Trinidad Express Newspapers",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaTNWRU5aTmExbE8wcFU3ZjdrUi03c1hyaVdQVUZQQ3BSckc0TV9WdENYaWhfMm15M25PMldmXzd5M1pSeEwxd3YybmZZYWxPWnpLNTVXdHc2R1JyZDdiU1ZvVjJoVHczZlZCR2ZQeHptZkJDeERlaHBFZjJQWmxhUFNGN2NzNHZoaFNjMkQ5ZFFJSDg3LVhTejFteUlyUHgwZldLZlpPd2RudnJrM0hyUWYwN0lJYVJKY2hDSWVIUdIBxAFBVV95cUxOVEhuekI5NzAtMnJHcjVCcjI2ODAydXJZTlVnb215Tzk0S0ZUOWhkSzB3TGdzZElkYlJFM19pWUNJaFVKTGNVRFp5MUxSX1k4U0lUVDhUOVBveHAyN3ZmZ3VUcElSY3IwYmI3VE1hWV92dFQ0Z1RyZWRWODdpanBrbXVpWlVvcVNUM3RlZE5TYXNOMUJfTjNMX29NS2FxN1hQa1JVMHRyRXRWZ09mNFNCVGRScEJkYnF1SVpMMWtZa3VQVUhj?oc=5",
-  "summary": "CAL confirms customer data breach Trinidad Express Newspapers",
-  "published": "2026-11-16T10:00:00Z",
   "collected": "2026-11-21T03:13:53Z"
  },
  {
@@ -1173,18 +1041,6 @@
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaTNWRU5aTmExbE8wcFU3ZjdrUi03c1hyaVdQVUZQQ3BSckc0TV9WdENYaWhfMm15M25PMldmXzd5M1pSeEwxd3YybmZZYWxPWnpLNTVXdHc2R1JyZDdiU1ZvVjJoVHczZlZCR2ZQeHptZkJDeERlaHBFZjJQWmxhUFNGN2NzNHZoaFNjMkQ5ZFFJSDg3LVhTejFteUlyUHgwZldLZlpPd2RudnJrM0hyUWYwN0lJYVJKY2hDSWVIUdIBxAFBVV95cUxOVEhuekI5NzAtMnJHcjVCcjI2ODAydXJZTlVnb215Tzk0S0ZUOWhkSzB3TGdzZElkYlJFM19pWUNJaFVKTGNVRFp5MUxSX1k4U0lUVDhUOVBveHAyN3ZmZ3VUcElSY3IwYmI3VE1hWV92dFQ0Z1RyZWRWODdpanBrbXVpWlVvcVNUM3RlZE5TYXNOMUJfTjNMX29NS2FxN1hQa1JVMHRyRXRWZ09mNFNCVGRScEJkYnF1SVpMMWtZa3VQVUhj?oc=5",
   "summary": "CAL confirms customer data breach Trinidad Express Newspapers",
   "published": "2026-11-16T10:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "1f5657a53f42168a",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Caribbean Airlines confirms data breach affecting passenger booking information - Caribbean National Weekly",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNamNEcHhzcE43OGtMQUhpR3VNMHdINEgxM1VVM3V0VWljZEdBV0xQcE5vN2t6UTV1Y01JRzJLM1NMOW9YRXdyXzFoUU1JN3VDZ2ljWExYNWl3WDM3Nnh4WWlXYUVGVWNSV2ZuLU9jNTZNSHpDbTBzcjd3QVhxN293UHctVnJWUFdXZUpfRm1qcEQ4eFl2QUNTOS1HQ18wNTZfSnRKTWlSSFU1dUhiLUxZbmdIWFI4Q0xBdkNzTUV2bEFRX28?oc=5",
-  "summary": "Caribbean Airlines confirms data breach affecting passenger booking information Caribbean National Weekly",
-  "published": "2026-11-16T03:36:00Z",
   "collected": "2026-11-21T03:13:53Z"
  },
  {
@@ -1197,18 +1053,6 @@
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNamNEcHhzcE43OGtMQUhpR3VNMHdINEgxM1VVM3V0VWljZEdBV0xQcE5vN2t6UTV1Y01JRzJLM1NMOW9YRXdyXzFoUU1JN3VDZ2ljWExYNWl3WDM3Nnh4WWlXYUVGVWNSV2ZuLU9jNTZNSHpDbTBzcjd3QVhxN293UHctVnJWUFdXZUpfRm1qcEQ4eFl2QUNTOS1HQ18wNTZfSnRKTWlSSFU1dUhiLUxZbmdIWFI4Q0xBdkNzTUV2bEFRX28?oc=5",
   "summary": "Caribbean Airlines confirms data breach affecting passenger booking information Caribbean National Weekly",
   "published": "2026-11-16T03:36:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "ff5323577d62133d",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "News - Thai Airways joins list of airlines impacted by Amadeus cybersecurity incident - teiss",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0VNMVRIQUtQZjJuNE1pUDVrOEtNYVRpMVEtQVpqaFExVDNyQ3UxSm9BWFhTZG9MWlM0ckxwMlptZGVSQXl1VzNaRjJKS1RiaXFvdmY3NHpNNHJ4amdCS0p6SEdaM2ZxSE55YWpYVVhLcWhhN05vckp1blpFNUNuYlhPTUk0dXFwNlYtdmVHUWNfUURRNnZFcFVCOEVRQlBYcFVwWmVHWTczNUlsblBGOVdtYw?oc=5",
-  "summary": "News - Thai Airways joins list of airlines impacted by Amadeus cybersecurity incident teiss",
-  "published": "2026-11-16T00:02:54Z",
   "collected": "2026-11-21T03:13:53Z"
  },
  {
@@ -1221,18 +1065,6 @@
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0VNMVRIQUtQZjJuNE1pUDVrOEtNYVRpMVEtQVpqaFExVDNyQ3UxSm9BWFhTZG9MWlM0ckxwMlptZGVSQXl1VzNaRjJKS1RiaXFvdmY3NHpNNHJ4amdCS0p6SEdaM2ZxSE55YWpYVVhLcWhhN05vckp1blpFNUNuYlhPTUk0dXFwNlYtdmVHUWNfUURRNnZFcFVCOEVRQlBYcFVwWmVHWTczNUlsblBGOVdtYw?oc=5",
   "summary": "News - Thai Airways joins list of airlines impacted by Amadeus cybersecurity incident teiss",
   "published": "2026-11-16T00:02:54Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "14de3696abdd939c",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Caribbean Airlines among at least 8 airlines affected in data breach - LiveNOW from FOX",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR1dNU1UxYktiSG8tWExiMy1jbUZkYm5QSUFFNTFIUi1YVWtZYlZ0RnlnamlncGJ2WG5rMmVGZ2M3QkNNX2M0VlN5UDNBX2R4bk5HOVB3c3UxWWlES3RNNXVGQmYtYktSQnVBS21ISUc3U2FYUzdqN1pRUWlTYUlJaW1laVU5Mk5kem13TV9kX1NwaUFMajl2RUxVcVdTUEE?oc=5",
-  "summary": "Caribbean Airlines among at least 8 airlines affected in data breach LiveNOW from FOX",
-  "published": "2026-11-15T23:56:42Z",
   "collected": "2026-11-21T03:13:53Z"
  },
  {
@@ -1245,18 +1077,6 @@
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR1dNU1UxYktiSG8tWExiMy1jbUZkYm5QSUFFNTFIUi1YVWtZYlZ0RnlnamlncGJ2WG5rMmVGZ2M3QkNNX2M0VlN5UDNBX2R4bk5HOVB3c3UxWWlES3RNNXVGQmYtYktSQnVBS21ISUc3U2FYUzdqN1pRUWlTYUlJaW1laVU5Mk5kem13TV9kX1NwaUFMajl2RUxVcVdTUEE?oc=5",
   "summary": "Caribbean Airlines among at least 8 airlines affected in data breach LiveNOW from FOX",
   "published": "2026-11-15T23:56:42Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "52486c39cdb8fc9f",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "[Exclusive] Amadeus data breach sparks widespread exposure of airline booking information - 머니투데이",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ENUV6cmV1eHFYVkNaMHB4a2U5OHVfc0pFWU5OVW9xRXBVbTk4MnBka2dOSy1TbzRYNlViZ3RFZHZFb0ZyOHR3OUhKUXRnM2U5dFJ6ZnluVk1qRDhva2ltWGlyUVFRTDZqOVlkbDNQelc?oc=5",
-  "summary": "[Exclusive] Amadeus data breach sparks widespread exposure of airline booking information 머니투데이",
-  "published": "2026-11-15T23:36:15Z",
   "collected": "2026-11-21T03:13:53Z"
  },
  {
@@ -1269,18 +1089,6 @@
   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ENUV6cmV1eHFYVkNaMHB4a2U5OHVfc0pFWU5OVW9xRXBVbTk4MnBka2dOSy1TbzRYNlViZ3RFZHZFb0ZyOHR3OUhKUXRnM2U5dFJ6ZnluVk1qRDhva2ltWGlyUVFRTDZqOVlkbDNQelc?oc=5",
   "summary": "[Exclusive] Amadeus data breach sparks widespread exposure of airline booking information 머니투데이",
   "published": "2026-11-15T23:36:15Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "502d293493f58e32",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "Cargolux Flight Crew - Aerocontact.com",
-  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTMVBsbVBWYmNfQXpUTjczMWZBV3R2ams3ZDByOUtIRlIxdzZ3YlU3UWVKTDhaNk5Fa1BKSDEybXBKSUViN0hyV2xiWWtuUzVRVWViZXA1SGl4VlpXRmR1WXREOFFLMjRfOG40bkZpdw?oc=5",
-  "summary": "Cargolux Flight Crew Aerocontact.com",
-  "published": "2026-11-15T08:00:00Z",
   "collected": "2026-11-21T03:13:53Z"
  },
  {
@@ -1293,7 +1101,7 @@
   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTMVBsbVBWYmNfQXpUTjczMWZBV3R2ams3ZDByOUtIRlIxdzZ3YlU3UWVKTDhaNk5Fa1BKSDEybXBKSUViN0hyV2xiWWtuUzVRVWViZXA1SGl4VlpXRmR1WXREOFFLMjRfOG40bkZpdw?oc=5",
   "summary": "Cargolux Flight Crew Aerocontact.com",
   "published": "2026-11-15T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
   "id": "95b1b58603bf0768",
@@ -1308,7 +1116,7 @@
   "collected": "2026-11-22T03:48:05Z"
  },
  {
-  "id": "c76d8b34554581bf",
+  "id": "f1a1f83fe0d1d730",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
   "category": "Fournisseur",
@@ -1320,19 +1128,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "f1a1f83fe0d1d730",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Worrying data breach at CAL - Trinidad Guardian",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzh4eGhtbVBOa0hGYW44TlRxOVhtMVBpYmpSNjF5U2tURnFfaTNLUnpvYzNFazdNM3BZVXpfVXRqMU8wRFNnZ1haWlJPZVpIRFo3d0ZveEJDTGRXMndDTVhiMXhEU0I3eFp4bTh5Y0hReHlUOFlQY29USktGSlRlMWI0QS1MMUU3?oc=5",
-  "summary": "Worrying data breach at CAL Trinidad Guardian",
-  "published": "2026-11-15T04:37:50Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "0aa70f36391f75f8",
+  "id": "1d2064f78899a993",
   "source": "gn-eurocontrol-icao",
   "source_name": "Google News – EUROCONTROL et ICAO (cybersécurité, ATM)",
   "category": "Acteurs",
@@ -1344,19 +1140,7 @@
   "collected": "2026-11-21T03:15:00Z"
  },
  {
-  "id": "1d2064f78899a993",
-  "source": "gn-eurocontrol-icao",
-  "source_name": "Google News – EUROCONTROL et ICAO (cybersécurité, ATM)",
-  "category": "Acteurs",
-  "zone": "EU",
-  "title": "EASA and EUROCONTROL Publish 22-Action Plan on GNSS Interference; IFALPA Urges Keeping VOR, DME and ILS - Avi-Go",
-  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSSjVha3o4MXpWb3Bwa2RvWXlvZUk0LTBnUkRUMU9uQVRPaVpmODdxNGgxZGZpUUotWWZMY1hOX21RdnY0TXFlekk5aFRaekxQclN4cW9ySFR6dU1pRDNNUlBROFo3QmxSSFFNZHFRd3NuY3c?oc=5",
-  "summary": "EASA and EUROCONTROL Publish 22-Action Plan on GNSS Interference; IFALPA Urges Keeping VOR, DME and ILS Avi-Go",
-  "published": "2026-11-14T12:50:57Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "d5bdfd1d1db524a1",
+  "id": "b46d726562e1dc21",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -1380,42 +1164,6 @@
   "collected": "2026-11-22T03:48:05Z"
  },
  {
-  "id": "f6ebeea84f18b41f",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "THAI passenger data compromised in Amadeus security breach - Bangkok Post",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGVSZUphTjhWWG50OVNBcURuV1RHVXk1b2UtYWpuQTRBclEzc25BUDEwRlBpQzNuVVNKN0ZUQnFwcmlLNkc4UDFtdl9odThKUDFIaktMdWpSLUpVNng4VEtiTHhuSlYtME9GNDVqNnUtZEM1VGtjb1Bwck5hUUhwckgxTHVYTWNRZTZVSHJfSS0weUFMRDV3TzhIUVczVzBfQ0pTcw?oc=5",
-  "summary": "THAI passenger data compromised in Amadeus security breach Bangkok Post",
-  "published": "2026-11-10T08:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "e4d653771fd90c66",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Thai Airways says 60,529 passenger booking records exposed in Amadeus breach - Khaosod English",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ0FMMUN1WHE5eGt6Z21MZTYyenFwR0NtYXpHM0Q4bjgwYmlTY2JxR0dFbG04WEU5bjZnNGFIbXV2aktRdm5CQkc3MEQ0SlJGRS0zVV9pcGtUQ0JPejV2eEg1ZGpSNHBXaGNocHJqN2wzWlRrZU12OEdKamV3T1FWMS15NjJodlhDNFk5WXBrNmZvN19sT1QwNmRGOGRQaUFNOXRKdmpmenhmTlR3eGROQTQ0LUY5MzFGQS1BdU5mTC1JQUpnQnc?oc=5",
-  "summary": "Thai Airways says 60,529 passenger booking records exposed in Amadeus breach Khaosod English",
-  "published": "2026-11-10T08:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "4688818fce72ea2d",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Amadeus Breach Hits 350,000 SAS Bookings: What Travelers Can Do - deeparrival.com",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT0VxVm1zVUkyeHlFZWtKcFQtdnFra0o0aUZ5ZXVzeHhRTERJMldhLU1SM2NTTmJsTTk0NUs0M2RwYl9OYU54UnBSSjluRF94bGhOc1hva1NDR05qTTVHZzNyNVZrTTBlcFJyWHI0Ul9ZMlRTa0VYc3dJYjZfcDBFRXpBZXBkTVhJdTJvUWVNT1c?oc=5",
-  "summary": "Amadeus Breach Hits 350,000 SAS Bookings: What Travelers Can Do deeparrival.com",
-  "published": "2026-11-10T08:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
   "id": "a708133557b30749",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
@@ -1425,7 +1173,7 @@
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGVSZUphTjhWWG50OVNBcURuV1RHVXk1b2UtYWpuQTRBclEzc25BUDEwRlBpQzNuVVNKN0ZUQnFwcmlLNkc4UDFtdl9odThKUDFIaktMdWpSLUpVNng4VEtiTHhuSlYtME9GNDVqNnUtZEM1VGtjb1Bwck5hUUhwckgxTHVYTWNRZTZVSHJfSS0weUFMRDV3TzhIUVczVzBfQ0pTcw?oc=5",
   "summary": "THAI passenger data compromised in Amadeus security breach Bangkok Post",
   "published": "2026-11-10T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
   "id": "e80ce4e783184113",
@@ -1437,7 +1185,7 @@
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ0FMMUN1WHE5eGt6Z21MZTYyenFwR0NtYXpHM0Q4bjgwYmlTY2JxR0dFbG04WEU5bjZnNGFIbXV2aktRdm5CQkc3MEQ0SlJGRS0zVV9pcGtUQ0JPejV2eEg1ZGpSNHBXaGNocHJqN2wzWlRrZU12OEdKamV3T1FWMS15NjJodlhDNFk5WXBrNmZvN19sT1QwNmRGOGRQaUFNOXRKdmpmenhmTlR3eGROQTQ0LUY5MzFGQS1BdU5mTC1JQUpnQnc?oc=5",
   "summary": "Thai Airways says 60,529 passenger booking records exposed in Amadeus breach Khaosod English",
   "published": "2026-11-10T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
   "id": "3e7ed519ba942c8a",
@@ -1449,10 +1197,10 @@
   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT0VxVm1zVUkyeHlFZWtKcFQtdnFra0o0aUZ5ZXVzeHhRTERJMldhLU1SM2NTTmJsTTk0NUs0M2RwYl9OYU54UnBSSjluRF94bGhOc1hva1NDR05qTTVHZzNyNVZrTTBlcFJyWHI0Ul9ZMlRTa0VYc3dJYjZfcDBFRXpBZXBkTVhJdTJvUWVNT1c?oc=5",
   "summary": "Amadeus Breach Hits 350,000 SAS Bookings: What Travelers Can Do deeparrival.com",
   "published": "2026-11-10T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "a943c32d7de7ca61",
+  "id": "2b70c07be3e033ac",
   "source": "gn-partis",
   "source_name": "Google News – Part-IS et cybersécurité aviation",
   "category": "Réglementation",
@@ -1476,7 +1224,7 @@
   "collected": "2026-11-22T03:48:05Z"
  },
  {
-  "id": "b20189f4539f03f2",
+  "id": "3e6846e76d493a64",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -1488,7 +1236,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "86dfdfbb9022ddd4",
+  "id": "d944d8636ac7cdc7",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -1500,7 +1248,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "eb269ce49e90d1cc",
+  "id": "bee57f18da12b48e",
   "source": "gn-partis",
   "source_name": "Google News – Part-IS et cybersécurité aviation",
   "category": "Réglementation",
@@ -1512,19 +1260,7 @@
   "collected": "2026-11-21T03:15:00Z"
  },
  {
-  "id": "d944d8636ac7cdc7",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "Lorsque l’aéroport du Findel n’était qu’une piste en herbe et un hangar en bois - Virgule.lu",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbU5LUkhmUkQ1M1p1b2pzeDllalhUVEVOdWlTVWZzaVg1Z3J5WlFrNDA2RjRMSURJTVdpRUY3Y1ZhSUptTEo4X2pMTWQ0ZFl5bEFSeTBQeWRsbmY5MTVYVFo3N2tldkQwbnFCekktR013bEdxeGk4U2xkeXZ3TUxQcHZyUXNlb3dyWGJZUERGOFFLLUhxVGhqeWRsOEluWUpKNnZsQ1lMVnhFMVk3M25GSlF0dEZZeWJ3NlI1bi1kd1lqbUk?oc=5",
-  "summary": "Lorsque l’aéroport du Findel n’était qu’une piste en herbe et un hangar en bois Virgule.lu",
-  "published": "2026-11-06T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "c594b4d843fd7665",
+  "id": "70c3f3960819c135",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -1536,7 +1272,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "5b7506c4b95e2fe9",
+  "id": "904dfc7e6eeb2285",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
   "category": "Fournisseur",
@@ -1548,7 +1284,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "0765b7e50a95c854",
+  "id": "34bd3b92b25b4b4a",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
   "category": "Fournisseur",
@@ -1560,7 +1296,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "cbf2a7eeb6ddc084",
+  "id": "9fa8469b152ca64b",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
   "category": "Fournisseur",
@@ -1572,7 +1308,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "0f4475cdf56f078f",
+  "id": "212a8018a12e9958",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -1596,43 +1332,7 @@
   "collected": "2026-11-22T03:48:05Z"
  },
  {
-  "id": "904dfc7e6eeb2285",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus - The Record from Recorded Future News",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdko2a1ZsZUxTMThtWTRCcGdzak1rR3ltRllIQUNIdVhoanJzVFVEVkVTc2dQYkxUTU9XdEc5Mk9OT0U4MU1MUHJwS2RfWWRTY2p3LWlNVExKVHREZjhQVDZCSGI2MVNDQ044cWdOTHhTa1BTV0pjWnpMNWd1aElzODFIdkg0R1U?oc=5",
-  "summary": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus The Record from Recorded Future News",
-  "published": "2026-11-04T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "34bd3b92b25b4b4a",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Singapore Airlines says 46,000 booking records hit following Amadeus breach - TechRadar",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNckU2cXBQSXNBMFRBZlVpVGxwNmFDa0g1WktoU1FEVlhrekpDT181Vlp0OTRPd1NYdThXejhxSzIzenpYWlpzT1BBQXhJRGlNZFpMb0Rlb3BuR3k2bENPMEtod19uWWN2WmFvWHpuMEdzTjZuaUpPM2t5VDhKcjVXWWVKOHJkYVFMcXkzT3ktMVR5NThPVHBGT1BOTkhSa1VweUl6YkNXTDZOTTloQ29Tc05OTFQ?oc=5",
-  "summary": "Singapore Airlines says 46,000 booking records hit following Amadeus breach TechRadar",
-  "published": "2026-11-04T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "9fa8469b152ca64b",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Singapore Airlines reports 46,000 booking records accessed illegally in data breach affecting Amadeus - FTN news",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUGVBandHTDM2UEsxMHk3NDJTbjVLNTNXYnpVNjBsTXh3NkJyaHQtQlVPYlM4dXJ4YWI0eHhpQjVpS21zSDNxNV9NX3Fsc3ZQM0VFdVJJd0FLUHlDZndXVDc2UGNXYzB4ZFk5WnNTX3k5aHhuUEFhYVZrV1NwZjgzbzNNZEhxMmc?oc=5",
-  "summary": "Singapore Airlines reports 46,000 booking records accessed illegally in data breach affecting Amadeus FTN news",
-  "published": "2026-11-04T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "03fc827fbfecf71a",
+  "id": "b3d603775be7f99c",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
   "category": "Fournisseur",
@@ -1644,19 +1344,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "b3d603775be7f99c",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Airline Cybersecurity Under Pressure as Amadeus Data Breach Affects Multiple Carriers - Analytics Insight",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWmhFeTk5X2xTRFBXS3lVcXFHd1BySmRfUnlpOXdRWk5PSWVsV0F5dmZKSzVnNlhKV2NSa0RkbkRndWdvVUszUEJHbGNLNXZNQjZTV0ZuU2pROXpkUS1oMTNQS29LeVJqWWNUOFg2d2lTV2wyU05TdTJ3bi1MNHI1dFZKaHVFSWJ5TGxCMzJ2VTJfTUJvRHp1MWt1MUd3dW1GZW5ZNTAtUmhDdTJNbGUzMTgzeDNjcXRfQnhLaktQRVTSAc4BQVVfeXFMT3RNY3VZNlhpb29QNHRTeEl5N25lcnRNVFRXTGYzRW5FREVPREstVjdXanFLWnZVOWJtLXhhOUJkRUdQbEkwcE1XUzlFRDR0TnljaFFYLXBSTERaZzV0bTZyeDc1ZTZjTWhMS0twY05UdTRmNExpQ2hiVy1WMU1MOE1HNUZMdWYtSU9BN3hDSENvcHp3UjY3eU50QjA0TEZqUjJCS3hrUmc4V3hlbVB6N2VGc2JZdzh6dzQ4czEzczNCVF9Xd0FBMW9iMGZIb2c?oc=5",
-  "summary": "Airline Cybersecurity Under Pressure as Amadeus Data Breach Affects Multiple Carriers Analytics Insight",
-  "published": "2026-11-04T07:56:57Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "8fb7bd120017eba6",
+  "id": "c31189f8e0c0f132",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
   "category": "Fournisseur",
@@ -1668,7 +1356,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "0af1ad16fb613613",
+  "id": "39af2d9d62bba0a0",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
   "category": "Fournisseur",
@@ -1680,7 +1368,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "7369650616278130",
+  "id": "19fdeeca24ebf15e",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
   "category": "Fournisseur",
@@ -1692,7 +1380,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "a94163a5014ab9ee",
+  "id": "7e4a3d25e25b39c2",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
   "category": "Fournisseur",
@@ -1704,7 +1392,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "14ea2a97ae6532b8",
+  "id": "06589806413586a6",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
   "category": "Fournisseur",
@@ -1728,66 +1416,6 @@
   "collected": "2026-11-22T03:48:05Z"
  },
  {
-  "id": "39af2d9d62bba0a0",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Amadeus Breach Hits Major Airlines — What To Do If You Were Impacted - Travel Noire",
-  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NdlRZbXJZUnFVTHAwZkh6M1pjdndmSDBfdFVwLTF1SWw2RXFsMjRaRFl4a1VnbmNBNzF3VndSNUtYcjQwckt1VmJLdzJyRjZqV0d4VmtmVnh5dDZNYXU3Ug?oc=5",
-  "summary": "Amadeus Breach Hits Major Airlines — What To Do If You Were Impacted Travel Noire",
-  "published": "2026-11-03T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "19fdeeca24ebf15e",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Singapore Airlines says 46,000 booking records affected by Amadeus breach - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNUM1TlpHSEpmcnRzS2ZwQ1R5SW1USUV6bVBtbk5tcXN1M1J6ZDc5YzF4ZEZLZ2tBc3NTVlVab2o2TlFvSjh2enFBMWNjdExUemNyYVJRSTgwZGxId2s1VHBxYW9mQVExYTRVVTltcUZfQWZ3bkRjbU1tRUd3VWZ5a2N4RHk4eTY5VVNycFdraTBPd0Nhd0hzNS03T1pSbk5iWENQNFVxM2pfcFhSUmV1eHhLeVRvUVFoY2k5UHBZRHVpdnVXSVA2MERrb2NHbGVLeVJPNV9ORWYwNHM?oc=5",
-  "summary": "Singapore Airlines says 46,000 booking records affected by Amadeus breach TradingView",
-  "published": "2026-11-03T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "7e4a3d25e25b39c2",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "46,000 SIA booking records accessed illegally in data breach affecting software provider Amadeus - The Business Times",
-  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUlN4dXd5bmZzTWlyQWJTeVB4RnVzNGhSMkcwekYyLXI1S3VqeWpRZnhIQkZib25DNlpMTGI0UnlNRjhFalhzODQ3dGdrdl9zSmF5X2lIVm9kSmpiTDNnbkdZUVNENFVxUDFfNC1WSW01ZTFzbEUySndnWjNMN1FSbzl3Vnd0M0hPc1JiZXhEM0o2WEN3RDh1UG53NngzYzlkQjRQbXV5UUVXX1VkZmZlYTU0Tzl4ZHpTaVU4R2xQZk9NcV9QMHpNdWMwX2REX2lOZVFWZVc4Q3ZRemM?oc=5",
-  "summary": "46,000 SIA booking records accessed illegally in data breach affecting software provider Amadeus The Business Times",
-  "published": "2026-11-03T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "06589806413586a6",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "SIA Data Breach: 46,000 Booking Records Accessed Through Amadeus, No Card Data Exposed. What to Do Now - misslobang.com",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOHlrazI0cjFsSHBsaHBHdHNZdlNFQTRLVUcwaVdHSk1OdGFPSFpGcDBtMXZjcjM5VkVMNDUzTkprNmRPaUFaUDN1cUQ4M215NmRiaktSTV9HcGhkblhVb0RtazVPUzhPUDdtX3hvQ3lxR01UMUIwN3JtZm5ueHNVTnppRmhlSkZDNUpPODg3cnhBNVU?oc=5",
-  "summary": "SIA Data Breach: 46,000 Booking Records Accessed Through Amadeus, No Card Data Exposed. What to Do Now misslobang.com",
-  "published": "2026-11-03T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "2984f451712a2db8",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Malaysia Airlines says customer data may be hit in Amadeus breach - The Bangladesh Monitor",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV2FmS190LWZqd0JFamdlYVRIdXd1RlBPR29kSk5Pc3EtM2N6ZUdnbEFObVZYWEpmamw2WDkwRE5qNzE5LWRCNU56d2E4Yzk3UkFEVWtUR3ZpTEQ1NEh5bTFQanZuTDhicXlaaVphR04tQ2hiemtKT0ZYYy1ValJpRVBfdWx1MmI3M0hYNmVDQXNqak1EN0JINzJRNnJqdnlJNnNNYzhqRm8?oc=5",
-  "summary": "Malaysia Airlines says customer data may be hit in Amadeus breach The Bangladesh Monitor",
-  "published": "2026-11-02T11:15:10Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
   "id": "f17ab9289758a5aa",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
@@ -1797,102 +1425,6 @@
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV2FmS190LWZqd0JFamdlYVRIdXd1RlBPR29kSk5Pc3EtM2N6ZUdnbEFObVZYWEpmamw2WDkwRE5qNzE5LWRCNU56d2E4Yzk3UkFEVWtUR3ZpTEQ1NEh5bTFQanZuTDhicXlaaVphR04tQ2hiemtKT0ZYYy1ValJpRVBfdWx1MmI3M0hYNmVDQXNqak1EN0JINzJRNnJqdnlJNnNNYzhqRm8?oc=5",
   "summary": "Malaysia Airlines says customer data may be hit in Amadeus breach The Bangladesh Monitor",
   "published": "2026-11-02T11:15:10Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "8bb48fbddcdd0560",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Amadeus data breach affects multiple airline partners - PhocusWire",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQalFuVGw0UUN5QlU4eWNzRjdnNkNpdDRvdEhSTEI5bG9YVkxidFNuMXJfTk5xcnc5azVaU2YtaHhWTHdzblQ1bFRLYm5UVzRmNDFjV0lGYXJPRGt1UTFqeml0WVR6c3FTMmFYLUpSemg1WThsd19BckVoUXNfZEVGV2NZOTZMWUQ5bFQ2UWZaSlFQSG9jZmt3?oc=5",
-  "summary": "Amadeus data breach affects multiple airline partners PhocusWire",
-  "published": "2026-11-02T08:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "484be06fb7bba1fe",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Did Hackers Access Your Flight Details? Major Airlines Report Amadeus Breach - Business Traveller",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ2l3aE5jNE84dnVxN0J1LVpheUYwcUtROUFHWkN0eVU2Tllpb3FWeDFIQ3E1UHZqMEg5WGduSndiZHNQM2ZlMUwwQVFVY2xxTzAxay1pWTBjOEY1SnNPZGNEM0tYN1oyZW05eG1sLUpNT2lGTW9DU0F0cFMtNC1ucXJoZ3FWU3dYaVRTVnl6SXk1ZkRkYU54RFFpRkFQMTA?oc=5",
-  "summary": "Did Hackers Access Your Flight Details? Major Airlines Report Amadeus Breach Business Traveller",
-  "published": "2026-11-02T08:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "a42202f6f923828c",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Vendor cyber risk in focus as Amadeus breach hits airlines globally - Insurance Business",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRVFyMWVLMm1aUjBTM004NVVPY2IycjNqQUh3MlFXSFUxUUZVS1RjU3lvdDBYZjJZR09MMzVpSVhhMzdwazVqYl96TXFLenlHZF9RTmtQeE9LZGtMbFltV1BPWjd2OTBSQUhiQ0JJSG5EVUptVEY1TUZnWGFOMXlYZzNnajNrd0l5cGl0TmFlWm5paHloYWZBaThnMXhtaFV1SldqWWN0d04yeUVYUEZyTHVadWd3dXVDMjVwMlUwVlhaLXp3b3BQU2NB?oc=5",
-  "summary": "Vendor cyber risk in focus as Amadeus breach hits airlines globally Insurance Business",
-  "published": "2026-11-02T08:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "eeb8409fa04314dc",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Cathay Pacific Joins Growing List of Airlines Hit by Data Breach - Insurance Journal",
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92NVZlWmdiRGladGJmS3pRMG9sUTVJTHBUc3BFRHJvbU9KVlVjdzE3bjktdHlHS2UzMmhtSE0ydUFwZWgycENPdWNlTHdFbEhMeXFoMC1kdGE0a05vdkt4dUtFbkFxTEVpN292cTlkUHQtdnJ2TEg5NzI4akdIZw?oc=5",
-  "summary": "Cathay Pacific Joins Growing List of Airlines Hit by Data Breach Insurance Journal",
-  "published": "2026-11-02T08:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "fa5fbdcf8c7a23b5",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Qantas, major airlines hit in cyber breach - News.com.au",
-  "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcl9tM2hKNzZjU1dmU0xra3BSaWgxaUNicWRpYlJRVEFQcHNOVVVUZUhnTUZ2MGN2UEpLWWZiQ1RSZlFibFNHRVJCb2VWc21QaWpQNl9XU2U0N1d0VjlxRzBTSjlmM1J6SnlnXy1vS3FTWUdWcjJJbnZDbE5TcVdoZU1feGxpLU5iM3JqV3FZR1RtRWlZeTNhRkg1aU13U2ZEOG9NSlc4NjZUbHFVLWNWS1BUU1pmaHI1NE8tYmtDVjZGVWFwdlFhS081LUlCSkcwdkd5eUEyOVBMaktCYURDTEVHSFJJX0FZSkhMYzREVXRvRlY5R3RvNVk5NDRIa0FwS2ZsTi1LVdIBjAJBVV95cUxPa2NlbEZmd25UZHNEVjgxV1pDRk5QYjVUX2Z5VTJ0QjJoR2RCeEs5RUdSSDRzdTZHZ1V4TnFQMGNFeFN0Wm12T3dRZnAzZVBXY3Q4LXVWeThqU3VPWWo5bU5YdHJBUDQxMS1fUXVnWEE3MU10cTRKOXU2Nk5QbUZWYVRUNkM2TldyN1N0aE1vb2p2QTh5VGN6UTJHQmcyVEtwLTNJZzJWTEtjTjdmZDQ5SUdobGdqQjBMdzJkRDZkdVRmTUVvQlpkN2tvdUlPUUhqN3JtcEZoNVlDNVpmX25pTWNzVTZhcTRuWjQxdWdYYTNfT296S0RYRlRKWndFb0JpX3A3U2hnSEt5U3FV?oc=5",
-  "summary": "Qantas, major airlines hit in cyber breach News.com.au",
-  "published": "2026-11-02T08:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "90ff0a3052bcf6e0",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Malaysia Airlines says customer data may be affected by Amadeus breach - The Star",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNlpHUmNCNktVRWgtQ0FKZm9JWTdZV1lUYTlHYkNwZkxOQm5nOUY0R1czUjd0bWxZUDhfNmhYUnJ1V3QwMWtDaW9MTWdUd1pSVmoybGVtNktrMklpQ0pCS2tRVEVHcHpvcjlBMjY4QmNCaHE0elNuQ2hRdzJWcmhjNFN2TXMwSnEzV3d2YUlpc0pIOHMzbUl1ZlBGNEJsbWh6Rzhmc0NybWk1LURpc2lMUGNJVHVIVGlMUzJwWWtMbTliaHl5bnlha2VUOA?oc=5",
-  "summary": "Malaysia Airlines says customer data may be affected by Amadeus breach The Star",
-  "published": "2026-11-02T08:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "2fbb031103b76502",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Amadeus breach hits Qantas, Cathay: the business travel risk - B2B News",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMXRUeFVjal9hX3Jwa3hDWHdwWU16aENjRHcyTFdZaUozZzRuSXdNaTBOWDEwc2sweHZPdzYwNDQ4R1ZNMVRVYVZQOU1RaFNmcHp5dGtYQlVJOEFrVlk4ZzVYT1NOdHdHOTA2ODNrYjhNRVNuQ0lEY3dESlYzT2I5MUFVV2JEUUNhdlVpM3NVMA?oc=5",
-  "summary": "Amadeus breach hits Qantas, Cathay: the business travel risk B2B News",
-  "published": "2026-11-02T08:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "288b29f45d2fd63b",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Malaysia Airlines says customer data may be affected by Amadeus breach - KLSE Screener",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1Q2dXI3VWxJVUN0Zy10WWgyUXFuRXM0UHlCUVpZbUs0Y2RucTNsdjVZMmpka3B6bWtYd2NnRHFPUTc1TVVpN0VtX0dia2doZmlmZ0Y2Y1JYSFZBeS1IaUJZS3JBTk9DTVFuRFR4UjdPUlY3QW9OMUF1eE1UQlhZemIxWVo0QlpmdFQ2M1hNc0x2djhrYzQzTnJQU29fbTgtaGpYR214UUI0TmEtelg4RnZxWFlfUnZHVWhZUQ?oc=5",
-  "summary": "Malaysia Airlines says customer data may be affected by Amadeus breach KLSE Screener",
-  "published": "2026-11-02T08:00:00Z",
   "collected": "2026-11-21T03:13:53Z"
  },
  {
@@ -1905,7 +1437,7 @@
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQalFuVGw0UUN5QlU4eWNzRjdnNkNpdDRvdEhSTEI5bG9YVkxidFNuMXJfTk5xcnc5azVaU2YtaHhWTHdzblQ1bFRLYm5UVzRmNDFjV0lGYXJPRGt1UTFqeml0WVR6c3FTMmFYLUpSemg1WThsd19BckVoUXNfZEVGV2NZOTZMWUQ5bFQ2UWZaSlFQSG9jZmt3?oc=5",
   "summary": "Amadeus data breach affects multiple airline partners PhocusWire",
   "published": "2026-11-02T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
   "id": "893469c526e9178b",
@@ -1917,7 +1449,7 @@
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ2l3aE5jNE84dnVxN0J1LVpheUYwcUtROUFHWkN0eVU2Tllpb3FWeDFIQ3E1UHZqMEg5WGduSndiZHNQM2ZlMUwwQVFVY2xxTzAxay1pWTBjOEY1SnNPZGNEM0tYN1oyZW05eG1sLUpNT2lGTW9DU0F0cFMtNC1ucXJoZ3FWU3dYaVRTVnl6SXk1ZkRkYU54RFFpRkFQMTA?oc=5",
   "summary": "Did Hackers Access Your Flight Details? Major Airlines Report Amadeus Breach Business Traveller",
   "published": "2026-11-02T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
   "id": "c423d43c9c4e73d0",
@@ -1929,7 +1461,7 @@
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRVFyMWVLMm1aUjBTM004NVVPY2IycjNqQUh3MlFXSFUxUUZVS1RjU3lvdDBYZjJZR09MMzVpSVhhMzdwazVqYl96TXFLenlHZF9RTmtQeE9LZGtMbFltV1BPWjd2OTBSQUhiQ0JJSG5EVUptVEY1TUZnWGFOMXlYZzNnajNrd0l5cGl0TmFlWm5paHloYWZBaThnMXhtaFV1SldqWWN0d04yeUVYUEZyTHVadWd3dXVDMjVwMlUwVlhaLXp3b3BQU2NB?oc=5",
   "summary": "Vendor cyber risk in focus as Amadeus breach hits airlines globally Insurance Business",
   "published": "2026-11-02T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
   "id": "609bacce7fd79898",
@@ -1941,7 +1473,7 @@
   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92NVZlWmdiRGladGJmS3pRMG9sUTVJTHBUc3BFRHJvbU9KVlVjdzE3bjktdHlHS2UzMmhtSE0ydUFwZWgycENPdWNlTHdFbEhMeXFoMC1kdGE0a05vdkt4dUtFbkFxTEVpN292cTlkUHQtdnJ2TEg5NzI4akdIZw?oc=5",
   "summary": "Cathay Pacific Joins Growing List of Airlines Hit by Data Breach Insurance Journal",
   "published": "2026-11-02T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
   "id": "b656e4a2c5a22808",
@@ -1953,7 +1485,7 @@
   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcl9tM2hKNzZjU1dmU0xra3BSaWgxaUNicWRpYlJRVEFQcHNOVVVUZUhnTUZ2MGN2UEpLWWZiQ1RSZlFibFNHRVJCb2VWc21QaWpQNl9XU2U0N1d0VjlxRzBTSjlmM1J6SnlnXy1vS3FTWUdWcjJJbnZDbE5TcVdoZU1feGxpLU5iM3JqV3FZR1RtRWlZeTNhRkg1aU13U2ZEOG9NSlc4NjZUbHFVLWNWS1BUU1pmaHI1NE8tYmtDVjZGVWFwdlFhS081LUlCSkcwdkd5eUEyOVBMaktCYURDTEVHSFJJX0FZSkhMYzREVXRvRlY5R3RvNVk5NDRIa0FwS2ZsTi1LVdIBjAJBVV95cUxPa2NlbEZmd25UZHNEVjgxV1pDRk5QYjVUX2Z5VTJ0QjJoR2RCeEs5RUdSSDRzdTZHZ1V4TnFQMGNFeFN0Wm12T3dRZnAzZVBXY3Q4LXVWeThqU3VPWWo5bU5YdHJBUDQxMS1fUXVnWEE3MU10cTRKOXU2Nk5QbUZWYVRUNkM2TldyN1N0aE1vb2p2QTh5VGN6UTJHQmcyVEtwLTNJZzJWTEtjTjdmZDQ5SUdobGdqQjBMdzJkRDZkdVRmTUVvQlpkN2tvdUlPUUhqN3JtcEZoNVlDNVpmX25pTWNzVTZhcTRuWjQxdWdYYTNfT296S0RYRlRKWndFb0JpX3A3U2hnSEt5U3FV?oc=5",
   "summary": "Qantas, major airlines hit in cyber breach News.com.au",
   "published": "2026-11-02T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
   "id": "65069275ad7a6b1d",
@@ -1965,7 +1497,7 @@
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNlpHUmNCNktVRWgtQ0FKZm9JWTdZV1lUYTlHYkNwZkxOQm5nOUY0R1czUjd0bWxZUDhfNmhYUnJ1V3QwMWtDaW9MTWdUd1pSVmoybGVtNktrMklpQ0pCS2tRVEVHcHpvcjlBMjY4QmNCaHE0elNuQ2hRdzJWcmhjNFN2TXMwSnEzV3d2YUlpc0pIOHMzbUl1ZlBGNEJsbWh6Rzhmc0NybWk1LURpc2lMUGNJVHVIVGlMUzJwWWtMbTliaHl5bnlha2VUOA?oc=5",
   "summary": "Malaysia Airlines says customer data may be affected by Amadeus breach The Star",
   "published": "2026-11-02T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
   "id": "47b744c668ada718",
@@ -1977,7 +1509,7 @@
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMXRUeFVjal9hX3Jwa3hDWHdwWU16aENjRHcyTFdZaUozZzRuSXdNaTBOWDEwc2sweHZPdzYwNDQ4R1ZNMVRVYVZQOU1RaFNmcHp5dGtYQlVJOEFrVlk4ZzVYT1NOdHdHOTA2ODNrYjhNRVNuQ0lEY3dESlYzT2I5MUFVV2JEUUNhdlVpM3NVMA?oc=5",
   "summary": "Amadeus breach hits Qantas, Cathay: the business travel risk B2B News",
   "published": "2026-11-02T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
   "id": "e875ad2492cbf85f",
@@ -1989,79 +1521,7 @@
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1Q2dXI3VWxJVUN0Zy10WWgyUXFuRXM0UHlCUVpZbUs0Y2RucTNsdjVZMmpka3B6bWtYd2NnRHFPUTc1TVVpN0VtX0dia2doZmlmZ0Y2Y1JYSFZBeS1IaUJZS3JBTk9DTVFuRFR4UjdPUlY3QW9OMUF1eE1UQlhZemIxWVo0QlpmdFQ2M1hNc0x2djhrYzQzTnJQU29fbTgtaGpYR214UUI0TmEtelg4RnZxWFlfUnZHVWhZUQ?oc=5",
   "summary": "Malaysia Airlines says customer data may be affected by Amadeus breach KLSE Screener",
   "published": "2026-11-02T08:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "21fdda2480a6fa58",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Malaysia Airlines warns customers of data exposure in Amadeus cybersecurity breach - Malay Mail",
-  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcDNJaTRaMXRNQUdnLTVRYmVLbkJPTkkwMkR2YWNOeTVTOVhfWDRVZGhoWWdzSmFvQXZ3ampudm8zRzloU3h4b0ROLS0tQmllb2lOVVZPQ2dNLWx4aUJSSWhSVVRQY2w4eEVfNWF3N3lPNmZaRWExdWo3bGUzNElBYndnTlBFR0hyalBzYm1xV3NrR1VYcmZLYkE5cFdKY3g3YmJaVUREdlh6Y2lxWUV1WExpXzhlemEzbGxLbHFJZU5BaC1pX3BadzJxdHFGX0tTTXpnd0xpWdIB3AFBVV95cUxQeDJ3YnlTbUZpRUJ4aG84N05GTXNISG0teWVGb2c1R0ExaHRzaXNycFptZVVhS05ndXZtRTVjT1pSdXhmYkJvN0Z1LWE4LU11MExHNm51SlFRcTEyUjM1aGlvalh5eTBSNUctNFJCVkdTdnJmQ1dtUTBwRElNdDJLQlM2MmNTWkxqOTZXTHVMcloyNXhpRnFxMHJWWG8xSUI4REhsUGM1NHNrclN2c2QwbnNETGFzeW93d0xmVkRFOGFoaGEwWWdLMnlsX1A5VjhaNHJoOE5vakl6T3RK?oc=5",
-  "summary": "Malaysia Airlines warns customers of data exposure in Amadeus cybersecurity breach Malay Mail",
-  "published": "2026-11-01T07:00:00Z",
   "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "32e6f719887ad42a",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Malaysia Airlines says customers may be affected by Amadeus breach - The Straits Times",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTWtCWEltck90b1RtYzVlUTU2QTRsRzdPWTJ3Umo2SmoxOXBWb0VxYWRTNF9ESGRaNGFyaHhyUDYyUkZGeGFNUk02LWpjdWpZLTJOUmtMTDFkc0M5TkhfSFIzYmZJeWpFYXZVNUFnRFZsbFRubFA0TkFScG4ySmZWUEpUTkVLTU1VN3E3Yk9YOXNkWUx1ZU9DVEIxQk1qMlVfWURmaWFJV3NRM2JH?oc=5",
-  "summary": "Malaysia Airlines says customers may be affected by Amadeus breach The Straits Times",
-  "published": "2026-11-01T07:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "90a2ae3d6891bf2e",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Amadeus Breach Exposes Airline Booking Data for 37 Months, Malaysia Airlines Warns of Fake Messages - BigGo Finance",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzU01iVE1XMW85Q3RqNllVSkEyb0Y5bTNMc29QRWhzbmdiX0M0b2FlLW53bHZXN0ZDdG5tRDVOM3BJeVJGWUpsb01SdzlFYXltVlRYak8xVlR2dXp4dlBSc084enl2RmFwazJhV1hFS1hrZl9keVE?oc=5",
-  "summary": "Amadeus Breach Exposes Airline Booking Data for 37 Months, Malaysia Airlines Warns of Fake Messages BigGo Finance",
-  "published": "2026-11-01T07:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "0eb6b4336e65dbd0",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Malaysia Airlines says customers may be affected by Amadeus breach - The Edge Malaysia",
-  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkNmx5LXFqb0JZaW9DOUJ0NmZPRF93cW0tVE9oNTBNcWlMUTMxLXBoY1RpSzBTVDFEdWh6MHpYNmhqckJlYjlhdl9EU2xROXNy?oc=5",
-  "summary": "Malaysia Airlines says customers may be affected by Amadeus breach The Edge Malaysia",
-  "published": "2026-11-01T07:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "b66f60e7ecb72b57",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Amadeus Breach Widens to Malaysia Airlines: Plan for Phishing - deeparrival.com",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXQ3eDI2cFR4ZXlPOFJuWmpySHNJYUNJcHpDNmFWUG85MDZ2OHZtM2FsSkpaa1E4amVNVWpBbEdvNUhFd0VJLXB3S2s5VTlsdkR5WjJqSWxwMGxXYnNKTmY0LXlUcGIyYjR4Y0FOTmJXUFVkWERfTXoxX2V3b1FUY0d4V21ZYlhVamdLeG14MnROczg?oc=5",
-  "summary": "Amadeus Breach Widens to Malaysia Airlines: Plan for Phishing deeparrival.com",
-  "published": "2026-11-01T07:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "991c759282ce4199",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Malaysia Airlines warns customers of possible data exposure in Amadeus cyber breach - Newswav",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT244REVTT0Vha3k3OFRoNkZnQk5MNGprZHBjaG04NWxmVEtDR2xoeFJqUF9LZ2Y5OGxMUlRISktwN3RNd290NHJlR0l4b21nNTBqcTlTME5HVTJQWmY4dEo0Xzc1VlR4NlIyUEJVNWNCRFJiN05LVHBzeWtia1VTWGM4UUFoZGM0MVRha3l5ZVNTcHFKVmhseXA2ZkNSSF9QS3NUZzQ2WExGaVV1V1Z1ZjVlemplU2s?oc=5",
-  "summary": "Malaysia Airlines warns customers of possible data exposure in Amadeus cyber breach Newswav",
-  "published": "2026-11-01T07:00:00Z",
-  "collected": "2026-11-21T03:48:10Z"
  },
  {
   "id": "b0e8eab4daf996a3",
@@ -2073,7 +1533,67 @@
   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcDNJaTRaMXRNQUdnLTVRYmVLbkJPTkkwMkR2YWNOeTVTOVhfWDRVZGhoWWdzSmFvQXZ3ampudm8zRzloU3h4b0ROLS0tQmllb2lOVVZPQ2dNLWx4aUJSSWhSVVRQY2w4eEVfNWF3N3lPNmZaRWExdWo3bGUzNElBYndnTlBFR0hyalBzYm1xV3NrR1VYcmZLYkE5cFdKY3g3YmJaVUREdlh6Y2lxWUV1WExpXzhlemEzbGxLbHFJZU5BaC1pX3BadzJxdHFGX0tTTXpnd0xpWdIB3AFBVV95cUxQeDJ3YnlTbUZpRUJ4aG84N05GTXNISG0teWVGb2c1R0ExaHRzaXNycFptZVVhS05ndXZtRTVjT1pSdXhmYkJvN0Z1LWE4LU11MExHNm51SlFRcTEyUjM1aGlvalh5eTBSNUctNFJCVkdTdnJmQ1dtUTBwRElNdDJLQlM2MmNTWkxqOTZXTHVMcloyNXhpRnFxMHJWWG8xSUI4REhsUGM1NHNrclN2c2QwbnNETGFzeW93d0xmVkRFOGFoaGEwWWdLMnlsX1A5VjhaNHJoOE5vakl6T3RK?oc=5",
   "summary": "Malaysia Airlines warns customers of data exposure in Amadeus cybersecurity breach Malay Mail",
   "published": "2026-11-01T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
+ },
+ {
+  "id": "03d9a7b7c867c244",
+  "source": "gn-supply",
+  "source_name": "Google News – Fournisseurs critiques de l'aviation",
+  "category": "Fournisseur",
+  "zone": "INT",
+  "title": "Malaysia Airlines says customers may be affected by Amadeus breach - The Straits Times",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTWtCWEltck90b1RtYzVlUTU2QTRsRzdPWTJ3Umo2SmoxOXBWb0VxYWRTNF9ESGRaNGFyaHhyUDYyUkZGeGFNUk02LWpjdWpZLTJOUmtMTDFkc0M5TkhfSFIzYmZJeWpFYXZVNUFnRFZsbFRubFA0TkFScG4ySmZWUEpUTkVLTU1VN3E3Yk9YOXNkWUx1ZU9DVEIxQk1qMlVfWURmaWFJV3NRM2JH?oc=5",
+  "summary": "Malaysia Airlines says customers may be affected by Amadeus breach The Straits Times",
+  "published": "2026-11-01T07:00:00Z",
+  "collected": "2026-11-21T03:13:53Z"
+ },
+ {
+  "id": "44fdcbf412b2352d",
+  "source": "gn-supply",
+  "source_name": "Google News – Fournisseurs critiques de l'aviation",
+  "category": "Fournisseur",
+  "zone": "INT",
+  "title": "Amadeus Breach Exposes Airline Booking Data for 37 Months, Malaysia Airlines Warns of Fake Messages - BigGo Finance",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzU01iVE1XMW85Q3RqNllVSkEyb0Y5bTNMc29QRWhzbmdiX0M0b2FlLW53bHZXN0ZDdG5tRDVOM3BJeVJGWUpsb01SdzlFYXltVlRYak8xVlR2dXp4dlBSc084enl2RmFwazJhV1hFS1hrZl9keVE?oc=5",
+  "summary": "Amadeus Breach Exposes Airline Booking Data for 37 Months, Malaysia Airlines Warns of Fake Messages BigGo Finance",
+  "published": "2026-11-01T07:00:00Z",
+  "collected": "2026-11-21T03:13:53Z"
+ },
+ {
+  "id": "47b2b936deb2036a",
+  "source": "gn-supply",
+  "source_name": "Google News – Fournisseurs critiques de l'aviation",
+  "category": "Fournisseur",
+  "zone": "INT",
+  "title": "Malaysia Airlines says customers may be affected by Amadeus breach - The Edge Malaysia",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkNmx5LXFqb0JZaW9DOUJ0NmZPRF93cW0tVE9oNTBNcWlMUTMxLXBoY1RpSzBTVDFEdWh6MHpYNmhqckJlYjlhdl9EU2xROXNy?oc=5",
+  "summary": "Malaysia Airlines says customers may be affected by Amadeus breach The Edge Malaysia",
+  "published": "2026-11-01T07:00:00Z",
+  "collected": "2026-11-21T03:13:53Z"
+ },
+ {
+  "id": "097fa04459b96c1b",
+  "source": "gn-supply",
+  "source_name": "Google News – Fournisseurs critiques de l'aviation",
+  "category": "Fournisseur",
+  "zone": "INT",
+  "title": "Amadeus Breach Widens to Malaysia Airlines: Plan for Phishing - deeparrival.com",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXQ3eDI2cFR4ZXlPOFJuWmpySHNJYUNJcHpDNmFWUG85MDZ2OHZtM2FsSkpaa1E4amVNVWpBbEdvNUhFd0VJLXB3S2s5VTlsdkR5WjJqSWxwMGxXYnNKTmY0LXlUcGIyYjR4Y0FOTmJXUFVkWERfTXoxX2V3b1FUY0d4V21ZYlhVamdLeG14MnROczg?oc=5",
+  "summary": "Amadeus Breach Widens to Malaysia Airlines: Plan for Phishing deeparrival.com",
+  "published": "2026-11-01T07:00:00Z",
+  "collected": "2026-11-21T03:13:53Z"
+ },
+ {
+  "id": "b49932ece1c5902e",
+  "source": "gn-supply",
+  "source_name": "Google News – Fournisseurs critiques de l'aviation",
+  "category": "Fournisseur",
+  "zone": "INT",
+  "title": "Malaysia Airlines warns customers of possible data exposure in Amadeus cyber breach - Newswav",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT244REVTT0Vha3k3OFRoNkZnQk5MNGprZHBjaG04NWxmVEtDR2xoeFJqUF9LZ2Y5OGxMUlRISktwN3RNd290NHJlR0l4b21nNTBqcTlTME5HVTJQWmY4dEo0Xzc1VlR4NlIyUEJVNWNCRFJiN05LVHBzeWtia1VTWGM4UUFoZGM0MVRha3l5ZVNTcHFKVmhseXA2ZkNSSF9QS3NUZzQ2WExGaVV1V1Z1ZjVlemplU2s?oc=5",
+  "summary": "Malaysia Airlines warns customers of possible data exposure in Amadeus cyber breach Newswav",
+  "published": "2026-11-01T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
  },
  {
   "id": "7beca0dea73a2f1d",
@@ -2088,55 +1608,7 @@
   "collected": "2026-11-22T03:48:05Z"
  },
  {
-  "id": "03d9a7b7c867c244",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Malaysia Airlines says customers may be affected by Amadeus breach - The Straits Times",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTWtCWEltck90b1RtYzVlUTU2QTRsRzdPWTJ3Umo2SmoxOXBWb0VxYWRTNF9ESGRaNGFyaHhyUDYyUkZGeGFNUk02LWpjdWpZLTJOUmtMTDFkc0M5TkhfSFIzYmZJeWpFYXZVNUFnRFZsbFRubFA0TkFScG4ySmZWUEpUTkVLTU1VN3E3Yk9YOXNkWUx1ZU9DVEIxQk1qMlVfWURmaWFJV3NRM2JH?oc=5",
-  "summary": "Malaysia Airlines says customers may be affected by Amadeus breach The Straits Times",
-  "published": "2026-11-01T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "44fdcbf412b2352d",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Amadeus Breach Exposes Airline Booking Data for 37 Months, Malaysia Airlines Warns of Fake Messages - BigGo Finance",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzU01iVE1XMW85Q3RqNllVSkEyb0Y5bTNMc29QRWhzbmdiX0M0b2FlLW53bHZXN0ZDdG5tRDVOM3BJeVJGWUpsb01SdzlFYXltVlRYak8xVlR2dXp4dlBSc084enl2RmFwazJhV1hFS1hrZl9keVE?oc=5",
-  "summary": "Amadeus Breach Exposes Airline Booking Data for 37 Months, Malaysia Airlines Warns of Fake Messages BigGo Finance",
-  "published": "2026-11-01T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "097fa04459b96c1b",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Amadeus Breach Widens to Malaysia Airlines: Plan for Phishing - deeparrival.com",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXQ3eDI2cFR4ZXlPOFJuWmpySHNJYUNJcHpDNmFWUG85MDZ2OHZtM2FsSkpaa1E4amVNVWpBbEdvNUhFd0VJLXB3S2s5VTlsdkR5WjJqSWxwMGxXYnNKTmY0LXlUcGIyYjR4Y0FOTmJXUFVkWERfTXoxX2V3b1FUY0d4V21ZYlhVamdLeG14MnROczg?oc=5",
-  "summary": "Amadeus Breach Widens to Malaysia Airlines: Plan for Phishing deeparrival.com",
-  "published": "2026-11-01T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "b49932ece1c5902e",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Malaysia Airlines warns customers of possible data exposure in Amadeus cyber breach - Newswav",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT244REVTT0Vha3k3OFRoNkZnQk5MNGprZHBjaG04NWxmVEtDR2xoeFJqUF9LZ2Y5OGxMUlRISktwN3RNd290NHJlR0l4b21nNTBqcTlTME5HVTJQWmY4dEo0Xzc1VlR4NlIyUEJVNWNCRFJiN05LVHBzeWtia1VTWGM4UUFoZGM0MVRha3l5ZVNTcHFKVmhseXA2ZkNSSF9QS3NUZzQ2WExGaVV1V1Z1ZjVlemplU2s?oc=5",
-  "summary": "Malaysia Airlines warns customers of possible data exposure in Amadeus cyber breach Newswav",
-  "published": "2026-11-01T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "25011f2daee52442",
+  "id": "1b7764ed9c5ae724",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
   "category": "Fournisseur",
@@ -2148,19 +1620,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "1b7764ed9c5ae724",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Malaysia Airlines says customers may be affected by Amadeus breach - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmJnZzF1bzhldXBrMWxya3R6dmpVUkFiLTQ5cVRYM0tmSlhGNUdaNU9xb3VlMDNRZUZ0aExyZDEtWW9oRmJ6dFF1QTVsOHpqSXBRbzBFWFFmMHNTT1NtTVJMWER6Vm1kelU3Wk5iZUlUZ255em9TbkdoZjJoM0NhekI0dnphT2pkSUx5ZFktc3dZcFN4NDNtS3ZrUzdqS2wtT05PSjFCUnl3d0NYUU52QzNjX2Q5QzNvQ3gw?oc=5",
-  "summary": "Malaysia Airlines says customers may be affected by Amadeus breach Reuters",
-  "published": "2026-10-31T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "139a86788fb2921c",
+  "id": "c5e67f7408c88e67",
   "source": "gn-partis",
   "source_name": "Google News – Part-IS et cybersécurité aviation",
   "category": "Réglementation",
@@ -2172,66 +1632,6 @@
   "collected": "2026-11-21T03:15:00Z"
  },
  {
-  "id": "400051a7274dc158",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Cathay Pacific says Amadeus breach affected 53,000 bookings - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY21ablZ6S0REUC1UdlFVR2ltTFRxMVV0V1o5N296TmZPSnRnOGpLMUQ2a1o3b0ZNWEVCanlkTWsta0VHYVJIcmxiUVNvZlpGSmkwNW5ndmZmaVdlLXFmd1QwQ01NQjVmamlJTXZfeTZkR1pDZkwtcS1nWTlTUXZoX2VYdm5tLW8zWlRIOXh2WGJZTW9XbmZvdXFyOUV6RExwam51dk0yWjlpVkluUjl3Rw?oc=5",
-  "summary": "Cathay Pacific says Amadeus breach affected 53,000 bookings Reuters",
-  "published": "2026-10-30T07:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "0c742714b643ed94",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Cathay Pacific says data from 53,000 bookings compromised in Amadeus cyberattack - South China Morning Post",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQnA3TjJIbHZhck1XNGRUNzc4dGE3QVlkSm90YlJBWjFuLXJwS3FjVy1qRXFfZ2l4Z2xDVzE5cW5xQkNkLVQyeDJqdEpheUdzMlZvbXdNNGoxYzRzYUctTzRtd3hRNG1ub2FJc0Y3YmFvN1ZaMG51b3FOel9qRVFEdDlRTzdyZ1FLMnFKSlEzR1ZrckpPNU5WYW5oMHVZdGRnbFpsSzdQVnh5MU9YNlBiNHRPV29nZ01oZzdVSllqWXR2V3piX0tKanhQelN5UdIBzgFBVV95cUxQbUpqMjlkQldzLVh1bnpxaUltclkwMldNMUpzMFhHcHRWV1M1akxkV0gtRkhMN1hPaWtxMDY0a1YzcktoQ2xKWC16Q1MzMjdsUkozYzltTE52a0dKSmJ1aDVYNjRHT1E5VmFzUDhCNVRsUzJmdlJJanZsNnhxS3hmMHBaUnFwOTQwNUJKdEctVTlRRlM0RWNQQ3F6S0NVNjlIY3dSSkx6bXVzZmFPamtiMExSTXEwUTk5RGIwUHFMVTQ2YTBqWG9BRGJocjMtUQ?oc=5",
-  "summary": "Cathay Pacific says data from 53,000 bookings compromised in Amadeus cyberattack South China Morning Post",
-  "published": "2026-10-30T07:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "b3649172fd33337e",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Cathay Pacific says Amadeus breach affected 53,000 bookings - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTRNVk9VVkFBWGp2X1NiWG03WDdCX0JxNThZSzYyR3A1TGpVdzZsd0M4UTBtR011cW5KWVJrRENCX0tpUHJQZmdIQlBTZU0xZURCaDZDdHhuTElaU0tvYUVtZF91VjRyZDZzODVTdkhubXpXcV85a2Y0SG40N0tvWkw5N1IzUkFUUVpuTFZPd0ZCalpwUzZyUGFJbk9Ybmo2UGJfYkV1R1kzcUh6aVV4RHRqSkUyUGhESjdqV18xZ2p3TjBGX0h1bQ?oc=5",
-  "summary": "Cathay Pacific says Amadeus breach affected 53,000 bookings TradingView",
-  "published": "2026-10-30T07:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "29118907634a7403",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Cathay Pacific joins growing list of airlines hit by data breach - The Straits Times",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVGl1OENaQjBoQmw2NEdCcVRiZXVPRjZoWHdMR1M3VWtpR2h4eUF1eFBxNGtrdHprcVVZLWVyYXRiOVRiLUNEeTQ3akxmM0pVMDJYYkJxSklIVzFSOXFoWHBHeGhVWmpCalZBVFRnbEJMbEFNQ3p5bk9lQ0lpZG4yOUxUTmVzbFh5UFkyeU9LQXdEaHJrMHpLOEpxbmV6bi02RU5aaVFfT2NkcUxF?oc=5",
-  "summary": "Cathay Pacific joins growing list of airlines hit by data breach The Straits Times",
-  "published": "2026-10-30T07:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "96cac80277056f7b",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Cathay Pacific flags Amadeus breach of 53,000 bookings - Dimsum Daily",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMEtkVnMxXzhhRUpveWtQYXlheVhDZnV5bGloQlZaVlZSQm9uU2RGeHo1cmkxWklpb1NZdzNzcHVIVGNXWEN4NFBWUTRKRGxVRlVaMC16aE02M3NrTHdNdkE0QjZtX3RHeFdkeUV1QjMxN0RDcC03T2VIMlBzQkJweXZSVHF4QmQx?oc=5",
-  "summary": "Cathay Pacific flags Amadeus breach of 53,000 bookings Dimsum Daily",
-  "published": "2026-10-30T07:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
   "id": "c59ddd5ec1ac5127",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
@@ -2241,7 +1641,7 @@
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY21ablZ6S0REUC1UdlFVR2ltTFRxMVV0V1o5N296TmZPSnRnOGpLMUQ2a1o3b0ZNWEVCanlkTWsta0VHYVJIcmxiUVNvZlpGSmkwNW5ndmZmaVdlLXFmd1QwQ01NQjVmamlJTXZfeTZkR1pDZkwtcS1nWTlTUXZoX2VYdm5tLW8zWlRIOXh2WGJZTW9XbmZvdXFyOUV6RExwam51dk0yWjlpVkluUjl3Rw?oc=5",
   "summary": "Cathay Pacific says Amadeus breach affected 53,000 bookings Reuters",
   "published": "2026-10-30T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
   "id": "df4df34152f3718f",
@@ -2253,7 +1653,7 @@
   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQnA3TjJIbHZhck1XNGRUNzc4dGE3QVlkSm90YlJBWjFuLXJwS3FjVy1qRXFfZ2l4Z2xDVzE5cW5xQkNkLVQyeDJqdEpheUdzMlZvbXdNNGoxYzRzYUctTzRtd3hRNG1ub2FJc0Y3YmFvN1ZaMG51b3FOel9qRVFEdDlRTzdyZ1FLMnFKSlEzR1ZrckpPNU5WYW5oMHVZdGRnbFpsSzdQVnh5MU9YNlBiNHRPV29nZ01oZzdVSllqWXR2V3piX0tKanhQelN5UdIBzgFBVV95cUxQbUpqMjlkQldzLVh1bnpxaUltclkwMldNMUpzMFhHcHRWV1M1akxkV0gtRkhMN1hPaWtxMDY0a1YzcktoQ2xKWC16Q1MzMjdsUkozYzltTE52a0dKSmJ1aDVYNjRHT1E5VmFzUDhCNVRsUzJmdlJJanZsNnhxS3hmMHBaUnFwOTQwNUJKdEctVTlRRlM0RWNQQ3F6S0NVNjlIY3dSSkx6bXVzZmFPamtiMExSTXEwUTk5RGIwUHFMVTQ2YTBqWG9BRGJocjMtUQ?oc=5",
   "summary": "Cathay Pacific says data from 53,000 bookings compromised in Amadeus cyberattack South China Morning Post",
   "published": "2026-10-30T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
   "id": "779e2e9cf8352a70",
@@ -2265,7 +1665,7 @@
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTRNVk9VVkFBWGp2X1NiWG03WDdCX0JxNThZSzYyR3A1TGpVdzZsd0M4UTBtR011cW5KWVJrRENCX0tpUHJQZmdIQlBTZU0xZURCaDZDdHhuTElaU0tvYUVtZF91VjRyZDZzODVTdkhubXpXcV85a2Y0SG40N0tvWkw5N1IzUkFUUVpuTFZPd0ZCalpwUzZyUGFJbk9Ybmo2UGJfYkV1R1kzcUh6aVV4RHRqSkUyUGhESjdqV18xZ2p3TjBGX0h1bQ?oc=5",
   "summary": "Cathay Pacific says Amadeus breach affected 53,000 bookings TradingView",
   "published": "2026-10-30T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
   "id": "7d134cbb35f48079",
@@ -2277,7 +1677,7 @@
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVGl1OENaQjBoQmw2NEdCcVRiZXVPRjZoWHdMR1M3VWtpR2h4eUF1eFBxNGtrdHprcVVZLWVyYXRiOVRiLUNEeTQ3akxmM0pVMDJYYkJxSklIVzFSOXFoWHBHeGhVWmpCalZBVFRnbEJMbEFNQ3p5bk9lQ0lpZG4yOUxUTmVzbFh5UFkyeU9LQXdEaHJrMHpLOEpxbmV6bi02RU5aaVFfT2NkcUxF?oc=5",
   "summary": "Cathay Pacific joins growing list of airlines hit by data breach The Straits Times",
   "published": "2026-10-30T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
   "id": "c5c52be019bf3dc9",
@@ -2289,42 +1689,6 @@
   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMEtkVnMxXzhhRUpveWtQYXlheVhDZnV5bGloQlZaVlZSQm9uU2RGeHo1cmkxWklpb1NZdzNzcHVIVGNXWEN4NFBWUTRKRGxVRlVaMC16aE02M3NrTHdNdkE0QjZtX3RHeFdkeUV1QjMxN0RDcC03T2VIMlBzQkJweXZSVHF4QmQx?oc=5",
   "summary": "Cathay Pacific flags Amadeus breach of 53,000 bookings Dimsum Daily",
   "published": "2026-10-30T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "58bd833b9c6b4bfc",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Japan Airlines suffers third-party data breach exposing passenger info - BleepingComputer",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaTZBQkpzVExqVU85LTh0NVBZNmpVV2hubDZrNDVxTUh0eHk2RmltVjhVX200TkVWejFjRmFOem5YUjNxbVJ2UlNUZnNrbEhsVVFxTHVWanZLY2RTZWRScDlac3FjV0dldmlZNGx4QXBELVhmNkdKRk1rYlY2S2lWQUV1aDRmMmNVVFlfLVdCT0MtRFRESXBCcnVSY2FHNXJGQUhBUnVmaXlHQTdoQlhVYUZpT0tVV0hNRGc?oc=5",
-  "summary": "Japan Airlines suffers third-party data breach exposing passenger info BleepingComputer",
-  "published": "2026-10-29T07:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "a1bdfafcfa2ac269",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Cathay Pacific Says Amadeus Breach Exposed Data From 53,000 Bookings - eSecurity Planet",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcGpsVTUxeUlDS21NNjNvVjN6aEdIOWtsT0gyX1FsZ3Nsa1NhZFlBYnNaeHF2cTRuZkRoNVAyUDh3X2I2a3Y4eG5tQ0k4VFc2b3dkTUZESmZGa2JEcWtIdWxKc3BNTTJsOEM5aXFmMExlUEdyLThXZ0ZZaU11VGhCVW1XVnlEV3BYUnEzQXItUU5KU0wyaVE?oc=5",
-  "summary": "Cathay Pacific Says Amadeus Breach Exposed Data From 53,000 Bookings eSecurity Planet",
-  "published": "2026-10-29T07:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "b2ec6e9e7145e085",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Japan Airlines Says Amadeus Breach Exposed Data of 92,000 Customers - The 420.in",
-  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04d01lRVN5aUhPcjBFVm11OHFaZ0pQVUE5bzJyMUhodDZSVk1PVmdEWnBMczJ4TGl2cVBpaVB4MzNRMWxqbFlWbXBrZkhxY0lZOVk3NkZnYmlYZWJTdE1Od2Z2M3d6Tndsb3VONlUzdjBaQmFIRW9SV01R?oc=5",
-  "summary": "Japan Airlines Says Amadeus Breach Exposed Data of 92,000 Customers The 420.in",
-  "published": "2026-10-29T07:00:00Z",
   "collected": "2026-11-21T03:13:53Z"
  },
  {
@@ -2337,7 +1701,7 @@
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaTZBQkpzVExqVU85LTh0NVBZNmpVV2hubDZrNDVxTUh0eHk2RmltVjhVX200TkVWejFjRmFOem5YUjNxbVJ2UlNUZnNrbEhsVVFxTHVWanZLY2RTZWRScDlac3FjV0dldmlZNGx4QXBELVhmNkdKRk1rYlY2S2lWQUV1aDRmMmNVVFlfLVdCT0MtRFRESXBCcnVSY2FHNXJGQUhBUnVmaXlHQTdoQlhVYUZpT0tVV0hNRGc?oc=5",
   "summary": "Japan Airlines suffers third-party data breach exposing passenger info BleepingComputer",
   "published": "2026-10-29T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
   "id": "98030539383d8e8f",
@@ -2349,7 +1713,7 @@
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcGpsVTUxeUlDS21NNjNvVjN6aEdIOWtsT0gyX1FsZ3Nsa1NhZFlBYnNaeHF2cTRuZkRoNVAyUDh3X2I2a3Y4eG5tQ0k4VFc2b3dkTUZESmZGa2JEcWtIdWxKc3BNTTJsOEM5aXFmMExlUEdyLThXZ0ZZaU11VGhCVW1XVnlEV3BYUnEzQXItUU5KU0wyaVE?oc=5",
   "summary": "Cathay Pacific Says Amadeus Breach Exposed Data From 53,000 Bookings eSecurity Planet",
   "published": "2026-10-29T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
   "id": "81d19e875bcab63e",
@@ -2361,10 +1725,10 @@
   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04d01lRVN5aUhPcjBFVm11OHFaZ0pQVUE5bzJyMUhodDZSVk1PVmdEWnBMczJ4TGl2cVBpaVB4MzNRMWxqbFlWbXBrZkhxY0lZOVk3NkZnYmlYZWJTdE1Od2Z2M3d6Tndsb3VONlUzdjBaQmFIRW9SV01R?oc=5",
   "summary": "Japan Airlines Says Amadeus Breach Exposed Data of 92,000 Customers The 420.in",
   "published": "2026-10-29T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "2dc805a0ec942273",
+  "id": "ccc25d9e23e3c675",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -2376,7 +1740,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "48e1909d4c653d9a",
+  "id": "488ada17c642cf35",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -2388,7 +1752,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "67f331bdf25d96e6",
+  "id": "a512497c659c4f10",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -2400,7 +1764,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "760613e1faa54b5e",
+  "id": "c1968d3e10abe480",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
   "category": "Fournisseur",
@@ -2412,7 +1776,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "8c2a8c05910a74e0",
+  "id": "cabb6fae5af7582a",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -2424,7 +1788,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "5a892e5aa7c0f794",
+  "id": "2a2cfc58fa90ef14",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -2436,7 +1800,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "dbae2c28e27fabb9",
+  "id": "c0e8e4bac199d52b",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -2460,7 +1824,7 @@
   "collected": "2026-11-22T03:48:05Z"
  },
  {
-  "id": "2f720b27e4efb6a2",
+  "id": "8f1c7d75442afd0b",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -2472,19 +1836,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "8f1c7d75442afd0b",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "Contrôles américains au Findel: le Luxembourg examine l’option - Paperjam News",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUmpZemt6MmJBOWdOd1MyVTRoVkJzZGpyVWZxY2Zwd3Fnb0RDem0xc1JhdUlNeF9kZXVwSFFkdjlWWURRQUhuN19wSEIybmoxMVliT2E4V3ZqamlhM1hlRTRWS19kaFJ4NXR2bWJtLS04NUFYUURRMWtmeTBRTWJrVWJhXzdQcG9PTTE2eTJhTFYxdw?oc=5",
-  "summary": "Contrôles américains au Findel: le Luxembourg examine l’option Paperjam News",
-  "published": "2026-10-20T10:40:25Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "e011bcf1127ef100",
+  "id": "bb848cfe7a05dd2e",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -2496,7 +1848,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "58c73d5847386f03",
+  "id": "edaf4faa98d33269",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -2508,7 +1860,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "39c87a1864108da1",
+  "id": "f5d4a7f6b23890a4",
   "source": "gn-gnss",
   "source_name": "Google News – Brouillage et spoofing GNSS",
   "category": "Menace",
@@ -2520,19 +1872,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "f5d4a7f6b23890a4",
-  "source": "gn-gnss",
-  "source_name": "Google News – Brouillage et spoofing GNSS",
-  "category": "Menace",
-  "zone": "INT",
-  "title": "Skyband Puts Numbers To GPS Jamming Faced By Business Aviation - Aviation Week",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMXUwX0RJeXF1bTFsUmk0OTUzNGxXSGlIdTRPOUlBS2dIYU5RY01DVjNZZkdtU3h2MHNHckU5TGxUWXJ3bk1ldnpOelFoTm1FMU51OFZ2SVQ5ZmM0N01JX3ZMRW5mZEhaZ2F6aUdYcGtRMnJ1T3FqZUFuckdqY05RemFxb1JPSnRvclhRcmQtM3V5RXBWUDVIbFQtbFAwZlJQNjcybkhsMl90d1N3bzQwX0dQN1BKZm5xWC1pQ1lB?oc=5",
-  "summary": "Skyband Puts Numbers To GPS Jamming Faced By Business Aviation Aviation Week",
-  "published": "2026-10-15T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "f3f689f7eb37aac6",
+  "id": "fc77d9cf865a2492",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -2544,7 +1884,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "0b107edaafe3afd1",
+  "id": "d542038389a9b72e",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
   "category": "Fournisseur",
@@ -2556,7 +1896,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "7a8632703937f51a",
+  "id": "a97ffb2bf257e220",
   "source": "gn-partis",
   "source_name": "Google News – Part-IS et cybersécurité aviation",
   "category": "Réglementation",
@@ -2568,19 +1908,7 @@
   "collected": "2026-11-21T03:15:00Z"
  },
  {
-  "id": "d542038389a9b72e",
-  "source": "gn-supply",
-  "source_name": "Google News – Fournisseurs critiques de l'aviation",
-  "category": "Fournisseur",
-  "zone": "INT",
-  "title": "Critical CVE-2026-18397: Remote Code Execution Vulnerability in Thales SConnect Threatens SWIFT Banking and Government Authentication Systems - Rescana",
-  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUkhnVDZDdTRsNjN3ZDBuWEU4MlpHcXB0NjBNZE80eHBEMk4yWEI1N1Vrb1ZaSU5lekRVZENiLThmYWNSOTd1Tk11cllnNGpUSV90eWw1N21abEUtaTVXTmFHTGRfeDQ1bFVIdi1PSjB3b3lYdTJzcUNUeTEyeE5Nd2ZkSkFkemc0YjBmXzZjZ0kzRTJPZzBVN3lsYTEzS0UycF9QVUxzTTc5Ynd2OWVpRmR6STdpNVhFUXZBMjNMZktzQk9sWnFZLUg4cDlOQTR5c2x3OXNCVHhSZWhBTmhnYTZFVQ?oc=5",
-  "summary": "Critical CVE-2026-18397: Remote Code Execution Vulnerability in Thales SConnect Threatens SWIFT Banking and Government Authentication Systems Rescana",
-  "published": "2026-10-06T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "ad8cd948875b655b",
+  "id": "83d5a14858b9cfcd",
   "source": "gn-partis",
   "source_name": "Google News – Part-IS et cybersécurité aviation",
   "category": "Réglementation",
@@ -2592,7 +1920,7 @@
   "collected": "2026-11-21T03:15:00Z"
  },
  {
-  "id": "1f9966b9dc55576c",
+  "id": "148c52c5829ed5a6",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -2601,30 +1929,6 @@
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkhrekRsc1BqMXpoaTB0Q3gxWEVRaEMxc0dDcU5GQUc4WVpNYTNQb2pXMEtXWjFDT0RXYVo4Wld6cldvT3NjNzZYZEx1RXVxeDhjTDdEdXFBR1NvdXBGZWJ0UVg5MDlPTC03MjQ2dE1HNDVIRUZRTk56bGY4YXRGYy1XR01ESmNGRXh2cGxrX0tWLTB6TnFLOGpNWm9uaVFsQ2pXeXc2TThTTXZNMXRJczRWTTdzSkk?oc=5",
   "summary": "\"Good morning down there\": Un échange radio entre Cargolux et Cathay fait fondre les réseaux RTL Lëtzebuerg",
   "published": "2026-09-29T07:00:00Z",
-  "collected": "2026-11-21T03:48:10Z"
- },
- {
-  "id": "c31d3ff2d7bd94c3",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "Survols de drones à l'aéroport de Luxembourg-Findel : « Des engins d’envergure, pas des petits drones privés » - Le Republicain Lorrain",
-  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcUZnOE9QUmVjVDBBLVpCR2dUREVWY2tDb19DTUx1Z01wSEZXMjgwVmNYdVV1cGtRYnhFa0NNcDJLay1ZZzdDNFk3WHpxMnZCVnZRclFmQ2N0Y2ZzNWlDLU9KNzNqSEI4WmhZWXRxbXNDXzQycmphYlZ1S0NMaTdoUGgxVG93SEZkbHhUNDA2YjVsXzUxU0g0WmdKN3Q3RGI3d1RVX0FyX2hLTmY4YTNZa1JhbU9oUXlEOVN6cXJNa0wwUVc4NnlFcF9UdHR3Wmx4NlNVQXd1VmJxZVdCX2YyYS1ZWjNDZkRsdDhDZ0VVT2JYVDBtbjhLc3dZb1ZjSFk?oc=5",
-  "summary": "Survols de drones à l'aéroport de Luxembourg-Findel : « Des engins d’envergure, pas des petits drones privés » Le Republicain Lorrain",
-  "published": "2026-09-24T07:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "ad61adf503f79cc1",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "Des drones qui volent près du Findel, c'est assez fréquent - L'essentiel",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR01xLXloaVo1Sk5PTzI1d01Ld2dhb2Rsd1NLVmlzRFJzakp3TEtrNnJjUDIyOFRGM2c2VGNhT0lkNldQWDhqNUM2Yy03d3JyMnc5b1BUc0FQN2xSRlBVWDF0OEZ5MDBzelpUcDNRcHF0Rzg3Y2tyT0VHU2YyTkhOZlhBcjU0eVVwZW1YM2p0dzBjM3g2R0MzR0ZaREJNSFRkTWxXaElvN1BXUUNBcE1VbndKYUN6UDg?oc=5",
-  "summary": "Des drones qui volent près du Findel, c'est assez fréquent L'essentiel",
-  "published": "2026-09-24T07:00:00Z",
   "collected": "2026-11-21T03:48:10Z"
  },
  {
@@ -2637,10 +1941,22 @@
   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcUZnOE9QUmVjVDBBLVpCR2dUREVWY2tDb19DTUx1Z01wSEZXMjgwVmNYdVV1cGtRYnhFa0NNcDJLay1ZZzdDNFk3WHpxMnZCVnZRclFmQ2N0Y2ZzNWlDLU9KNzNqSEI4WmhZWXRxbXNDXzQycmphYlZ1S0NMaTdoUGgxVG93SEZkbHhUNDA2YjVsXzUxU0g0WmdKN3Q3RGI3d1RVX0FyX2hLTmY4YTNZa1JhbU9oUXlEOVN6cXJNa0wwUVc4NnlFcF9UdHR3Wmx4NlNVQXd1VmJxZVdCX2YyYS1ZWjNDZkRsdDhDZ0VVT2JYVDBtbjhLc3dZb1ZjSFk?oc=5",
   "summary": "Survols de drones à l'aéroport de Luxembourg-Findel : « Des engins d’envergure, pas des petits drones privés » Le Republicain Lorrain",
   "published": "2026-09-24T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "ba1c0886e4f6ead6",
+  "id": "1b557c02a1777070",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Des drones qui volent près du Findel, c'est assez fréquent - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR01xLXloaVo1Sk5PTzI1d01Ld2dhb2Rsd1NLVmlzRFJzakp3TEtrNnJjUDIyOFRGM2c2VGNhT0lkNldQWDhqNUM2Yy03d3JyMnc5b1BUc0FQN2xSRlBVWDF0OEZ5MDBzelpUcDNRcHF0Rzg3Y2tyT0VHU2YyTkhOZlhBcjU0eVVwZW1YM2p0dzBjM3g2R0MzR0ZaREJNSFRkTWxXaElvN1BXUUNBcE1VbndKYUN6UDg?oc=5",
+  "summary": "Des drones qui volent près du Findel, c'est assez fréquent L'essentiel",
+  "published": "2026-09-24T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "ab52fe1f058b724c",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -2649,54 +1965,6 @@
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRWxsdXQ1TjRzR2Q1SjlJVkRjcm5tMzhzWnFIdkltM19SSlhkWmU4cGRaRDJBVXg0NHUxMmVYRkpNeXFSYmRWNzQ5dlV0bTNlS0M0ZDFTVHVlNHRBa3NGNXRTSUk2UTU3MmlDaWhWbDhDbU5pb1pUbUdZcjJCd1R0Y2N1TFVBbTRHX3hFc0oycWVma2ZnUWRMRVNZaVBuZkN2TkE1eWt2amw3Z1RhMkotQzFJU08wN2FU?oc=5",
   "summary": "«Les drones? Il serait naïf d'exclure une ingérence russe» L'essentiel",
   "published": "2026-09-22T07:00:00Z",
-  "collected": "2026-11-21T03:48:10Z"
- },
- {
-  "id": "367385b73617535e",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "Le Findel à nouveau fermé après des signalements de drones - Paperjam News",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbldWRG5OOEgyQ1hzdjVTV1oxNUg3LUpRd2V0LUUxQ0xRM205aFRaVHlOY3NCbjNJNkl1TnltcnJuWG5YcjFENDFaWlJZVVRxY1ZqYVV0cWp3TjBNQUFZMVdZY2xOVjVSeHdDbS1YakY1bW9pTkt3cTJxRFMzbzhZdGp6aGk1M0JzTzJodVdRdw?oc=5",
-  "summary": "Le Findel à nouveau fermé après des signalements de drones Paperjam News",
-  "published": "2026-09-21T07:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "88e8cf1fca8ab3cf",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "Au moins 3 drones détectés: Le point sur la nouvelle interruption du trafic aérien au Findel - RTL Lëtzebuerg",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejRQdjlYY2tKbmNGNnN4djcycmR1OHV6S09VRm1ZNnFiX3dmM1g2MmxkYXNHSHh3WG83dU1nQk1HdksxWnNGY19qY2x6N1NzcXBINWNzQlVfOHFUam9yNHlmSy16LVBsYkFnZmh4eWZpMWljUU1jSUk0Rjl5ZlN1b1VPOWZRbXB5Q0kyR1VDSF9LSnFyaURUXzExanNNcXNPTmVn?oc=5",
-  "summary": "Au moins 3 drones détectés: Le point sur la nouvelle interruption du trafic aérien au Findel RTL Lëtzebuerg",
-  "published": "2026-09-21T07:00:00Z",
-  "collected": "2026-11-21T03:48:10Z"
- },
- {
-  "id": "507e7c5e158f0540",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "Nouvelle détection de drones : le Findel temporairement fermé ce lundi soir - lequotidien",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSUFPQnFvVm1nSGhGanE0ZW9fZ2U1bzFDbFlGYzE1VjVnLTJtMXVubHVOWGlwYTc3enBIYm9VMEowbWVuMjhzQnFNSkxfdkR3YUs4ZTVwczBtUnNKUGh0WUhIS3RsNmlPbTlOcjNzLTdGa282ZzQ4ZExxdldHcnQ3OWtNOUxRSXlXWGxFcXp5WHFjcnNyd2FxZU5uUmtSckt4ZWFCQ0NBQWxrUkc1T0UydmNnM3VIQXY3dllzM0lRa2hrWUg2?oc=5",
-  "summary": "Nouvelle détection de drones : le Findel temporairement fermé ce lundi soir lequotidien",
-  "published": "2026-09-21T07:00:00Z",
-  "collected": "2026-11-21T03:48:10Z"
- },
- {
-  "id": "b1a7c85582cefe0a",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "Abattre un drone: «le risque au sol peut être important» - L'essentiel",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYi1BT0dZVFo3Um1ITVJ2ZUV3amp4SkladXhyd3ZUNDdtcnh0UzhNQ2ZUVVZxU01hMWZYbnVtZjVBNDdkOEY2blBnU3dMdnJPWGlodUtkWHQ5VUlLSnJDMFVRakFTdzM5M0d2TkFUN2JmcmpTTzBXOWhsWDFSdFpNRHlUSVZsWUE4T0U4UFFBU3F1bHBQNWh2RnBfSDQ1UEZjNTBYLUdBWlROeE9DMHc?oc=5",
-  "summary": "Abattre un drone: «le risque au sol peut être important» L'essentiel",
-  "published": "2026-09-21T07:00:00Z",
   "collected": "2026-11-21T03:48:10Z"
  },
  {
@@ -2709,19 +1977,43 @@
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbldWRG5OOEgyQ1hzdjVTV1oxNUg3LUpRd2V0LUUxQ0xRM205aFRaVHlOY3NCbjNJNkl1TnltcnJuWG5YcjFENDFaWlJZVVRxY1ZqYVV0cWp3TjBNQUFZMVdZY2xOVjVSeHdDbS1YakY1bW9pTkt3cTJxRFMzbzhZdGp6aGk1M0JzTzJodVdRdw?oc=5",
   "summary": "Le Findel à nouveau fermé après des signalements de drones Paperjam News",
   "published": "2026-09-21T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "a2da055edd0a3d0e",
-  "source": "gn-gnss",
-  "source_name": "Google News – Brouillage et spoofing GNSS",
-  "category": "Menace",
-  "zone": "INT",
-  "title": "GPS Jamming and Spoofing Disrupts Two Airline Flights Over Sweden on September 17–18, 2026 - Avi-Go",
-  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMGdrc2lCdkdsNTFCRFFCRl9DeXNwaGQ0eHNITEtpUWZzN0xNeE9Ob2Q5cnJFZ2Q5ZERWVEJza1BNMnc3MjVob2Vub0N6N0dVNEl2eHhqZXhoeHVNdmtveTZaTElYZ0htU2RCVUlCT1hldjQ?oc=5",
-  "summary": "GPS Jamming and Spoofing Disrupts Two Airline Flights Over Sweden on September 17–18, 2026 Avi-Go",
-  "published": "2026-09-20T07:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
+  "id": "4055a85a55b66392",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Au moins 3 drones détectés: Le point sur la nouvelle interruption du trafic aérien au Findel - RTL Lëtzebuerg",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejRQdjlYY2tKbmNGNnN4djcycmR1OHV6S09VRm1ZNnFiX3dmM1g2MmxkYXNHSHh3WG83dU1nQk1HdksxWnNGY19qY2x6N1NzcXBINWNzQlVfOHFUam9yNHlmSy16LVBsYkFnZmh4eWZpMWljUU1jSUk0Rjl5ZlN1b1VPOWZRbXB5Q0kyR1VDSF9LSnFyaURUXzExanNNcXNPTmVn?oc=5",
+  "summary": "Au moins 3 drones détectés: Le point sur la nouvelle interruption du trafic aérien au Findel RTL Lëtzebuerg",
+  "published": "2026-09-21T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "bc19cef5dcb59fa5",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Nouvelle détection de drones : le Findel temporairement fermé ce lundi soir - lequotidien",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSUFPQnFvVm1nSGhGanE0ZW9fZ2U1bzFDbFlGYzE1VjVnLTJtMXVubHVOWGlwYTc3enBIYm9VMEowbWVuMjhzQnFNSkxfdkR3YUs4ZTVwczBtUnNKUGh0WUhIS3RsNmlPbTlOcjNzLTdGa282ZzQ4ZExxdldHcnQ3OWtNOUxRSXlXWGxFcXp5WHFjcnNyd2FxZU5uUmtSckt4ZWFCQ0NBQWxrUkc1T0UydmNnM3VIQXY3dllzM0lRa2hrWUg2?oc=5",
+  "summary": "Nouvelle détection de drones : le Findel temporairement fermé ce lundi soir lequotidien",
+  "published": "2026-09-21T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "4d8e00ae9b7b638a",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Abattre un drone: «le risque au sol peut être important» - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYi1BT0dZVFo3Um1ITVJ2ZUV3amp4SkladXhyd3ZUNDdtcnh0UzhNQ2ZUVVZxU01hMWZYbnVtZjVBNDdkOEY2blBnU3dMdnJPWGlodUtkWHQ5VUlLSnJDMFVRakFTdzM5M0d2TkFUN2JmcmpTTzBXOWhsWDFSdFpNRHlUSVZsWUE4T0U4UFFBU3F1bHBQNWh2RnBfSDQ1UEZjNTBYLUdBWlROeE9DMHc?oc=5",
+  "summary": "Abattre un drone: «le risque au sol peut être important» L'essentiel",
+  "published": "2026-09-21T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
  },
  {
   "id": "9d154eaa5c972319",
@@ -2733,67 +2025,7 @@
   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMGdrc2lCdkdsNTFCRFFCRl9DeXNwaGQ0eHNITEtpUWZzN0xNeE9Ob2Q5cnJFZ2Q5ZERWVEJza1BNMnc3MjVob2Vub0N6N0dVNEl2eHhqZXhoeHVNdmtveTZaTElYZ0htU2RCVUlCT1hldjQ?oc=5",
   "summary": "GPS Jamming and Spoofing Disrupts Two Airline Flights Over Sweden on September 17–18, 2026 Avi-Go",
   "published": "2026-09-20T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "b81b42fd0d5cf05d",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "Les vols suspendus à l’aéroport de Luxembourg vendredi soir à cause de drones - Virgule.lu",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPck1EYWVyY3kzcTJiUC16d3V5S0Y4TDVwSWV6OXF4cHhwN2Z5OGxvQkxHQlVxRkIzc1NTaFBvMFVQLVdYb0x6aDNkR1NnX3FzUjNoUFZrNnA1ZHpNRHp1THNCU1FGTVczMmZkN0lFSDFlVThNemtyeWdsTzhUQUpJWUxySEZBMmo5OFBfcWdLRHliR0ZFejFVZWZFcnozSi1SWGNXZXh3WnNDOHlqV2NRNXpQcjVJVnMwNHZtbjJVenJEbmM?oc=5",
-  "summary": "Les vols suspendus à l’aéroport de Luxembourg vendredi soir à cause de drones Virgule.lu",
-  "published": "2026-09-19T07:00:00Z",
   "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "b8b983e742cb6411",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "Luxembourg. Le trafic interrompu pendant des heures à l'aéroport du Findel à cause de drones non identifiés - Le Dauphiné Libéré",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkhpZF9MUmtCX05NVlg3MEhDQ3NxejhPdWlTSDJvX0xZWUlIb3c1dUotcU5QenVZaDB0RWxjV3RYdTVlMTZ4dUc2bTdJVGQ5R1ppanVYdkU0el91Z0lYaUJsTmg0aE9zdVJVSkZRNXpkVFBxX3RVd2VKY0lzQ3ZhTThvMV9GZ0FUVF9hcUxtMXUyZm9EWU04aUYyenNvZjBDWmdlSTQxU2s?oc=5",
-  "summary": "Luxembourg. Le trafic interrompu pendant des heures à l'aéroport du Findel à cause de drones non identifiés Le Dauphiné Libéré",
-  "published": "2026-09-19T07:00:00Z",
-  "collected": "2026-11-21T03:48:10Z"
- },
- {
-  "id": "65c40a98bae92580",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "17 vols Luxair déroutés, plus de 1 800 passagers concernés - L'essentiel",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbVJ4Y0pDajJSMUt5QUxFZnZXek9qWDlvM2FFbXE3YkpHZGtZV2ZMVzNIckFCSHB4MEZ1OG54cmJ3Y0xadjM0dmtrVGYwR1FDMlhFVVVYZzdOOUNGRHdZc1JSWllsTWJzNFdiNmo1VXRvTkQwSExiWWVPTC1BMkcwX3J3ZEUyZEYtQXNrU0RUMUtoTzNtMVphdS05b3FkcG5fMVk5dUZZU1RJUkU2WHBjNjZ4OGt1XzRKQk9BbXpYem9hUQ?oc=5",
-  "summary": "17 vols Luxair déroutés, plus de 1 800 passagers concernés L'essentiel",
-  "published": "2026-09-19T07:00:00Z",
-  "collected": "2026-11-21T03:48:10Z"
- },
- {
-  "id": "01cdc02e415348cf",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "Le Findel à l'arrêt vendredi soir, des drones en cause? - L'essentiel",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN2ZvT1dfUXpteW16M1NHMVZkRVkwejZuNUNsRkpSQnowWDVYM2Q3cmlqNFBEWVFKckdKR3JEd0NRVnhqc1FIU0JVaUpaMjcxQmN1VXItYTlTQzVtaHI3MnNDclNDM2t5RVhNVmUtU0lXWWNPaVQ2NFVFWnBqY096Q25JaHprVGh3NUR3VXY0UlBiM181eG0tcUJwMUh3bklWc3pMX0dERUhTTVpGUXZVSWF3?oc=5",
-  "summary": "Le Findel à l'arrêt vendredi soir, des drones en cause? L'essentiel",
-  "published": "2026-09-19T07:00:00Z",
-  "collected": "2026-11-21T03:48:10Z"
- },
- {
-  "id": "239cc5510738337e",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "Des drones non identifiés ont mis le Findel à l'arrêt - L'essentiel",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTBlcV9Ba0JTVVNrOW92N0ZYQm1oeUxVY3Vtb1lCTEk0dk5PQjJPT2lJVXJNYzdUU0I1dE4xQ1ZrRm5meDlUX0Z2RThZTDdPNG8tWUF1di03Wkx5QmlJUTlPM2ZqZDBlVXhncXJva2RGQWtTMzE3Uk5xNUx0LVJYSUdiWlZIV1k0RFV0OS05a3RrVXoyNEJhQ3dwVFlCS3BqYVZNa2RqSnA5ekctSUE?oc=5",
-  "summary": "Des drones non identifiés ont mis le Findel à l'arrêt L'essentiel",
-  "published": "2026-09-19T07:00:00Z",
-  "collected": "2026-11-21T03:48:10Z"
  },
  {
   "id": "619b24a324995973",
@@ -2805,19 +2037,55 @@
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPck1EYWVyY3kzcTJiUC16d3V5S0Y4TDVwSWV6OXF4cHhwN2Z5OGxvQkxHQlVxRkIzc1NTaFBvMFVQLVdYb0x6aDNkR1NnX3FzUjNoUFZrNnA1ZHpNRHp1THNCU1FGTVczMmZkN0lFSDFlVThNemtyeWdsTzhUQUpJWUxySEZBMmo5OFBfcWdLRHliR0ZFejFVZWZFcnozSi1SWGNXZXh3WnNDOHlqV2NRNXpQcjVJVnMwNHZtbjJVenJEbmM?oc=5",
   "summary": "Les vols suspendus à l’aéroport de Luxembourg vendredi soir à cause de drones Virgule.lu",
   "published": "2026-09-19T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "461435916e442310",
-  "source": "gn-gnss",
-  "source_name": "Google News – Brouillage et spoofing GNSS",
-  "category": "Menace",
-  "zone": "INT",
-  "title": "Multiple flights report GPS jamming over Swedish airspace within 24 hours - Avi-Go",
-  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpZWpfQ3NyOVFaTlU1WkN0ay1uMWpzTWxrS1lHNkRCbE9qT0lXaXM1TmJEQzNjaXVxN1NfM3VCWjRPVzBDNUg0V1lyZEV6MGpiX2dHcVdvcVd1d0NvbUxKLUdtWkRCTnJ0VWlTTHZkVWd2WVE?oc=5",
-  "summary": "Multiple flights report GPS jamming over Swedish airspace within 24 hours Avi-Go",
-  "published": "2026-09-18T07:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
+  "id": "ccea3829feaccfe9",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Luxembourg. Le trafic interrompu pendant des heures à l'aéroport du Findel à cause de drones non identifiés - Le Dauphiné Libéré",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkhpZF9MUmtCX05NVlg3MEhDQ3NxejhPdWlTSDJvX0xZWUlIb3c1dUotcU5QenVZaDB0RWxjV3RYdTVlMTZ4dUc2bTdJVGQ5R1ppanVYdkU0el91Z0lYaUJsTmg0aE9zdVJVSkZRNXpkVFBxX3RVd2VKY0lzQ3ZhTThvMV9GZ0FUVF9hcUxtMXUyZm9EWU04aUYyenNvZjBDWmdlSTQxU2s?oc=5",
+  "summary": "Luxembourg. Le trafic interrompu pendant des heures à l'aéroport du Findel à cause de drones non identifiés Le Dauphiné Libéré",
+  "published": "2026-09-19T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "1c1c2d5b9e022c69",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "17 vols Luxair déroutés, plus de 1 800 passagers concernés - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbVJ4Y0pDajJSMUt5QUxFZnZXek9qWDlvM2FFbXE3YkpHZGtZV2ZMVzNIckFCSHB4MEZ1OG54cmJ3Y0xadjM0dmtrVGYwR1FDMlhFVVVYZzdOOUNGRHdZc1JSWllsTWJzNFdiNmo1VXRvTkQwSExiWWVPTC1BMkcwX3J3ZEUyZEYtQXNrU0RUMUtoTzNtMVphdS05b3FkcG5fMVk5dUZZU1RJUkU2WHBjNjZ4OGt1XzRKQk9BbXpYem9hUQ?oc=5",
+  "summary": "17 vols Luxair déroutés, plus de 1 800 passagers concernés L'essentiel",
+  "published": "2026-09-19T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "0db96ab7f944daf2",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Le Findel à l'arrêt vendredi soir, des drones en cause? - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN2ZvT1dfUXpteW16M1NHMVZkRVkwejZuNUNsRkpSQnowWDVYM2Q3cmlqNFBEWVFKckdKR3JEd0NRVnhqc1FIU0JVaUpaMjcxQmN1VXItYTlTQzVtaHI3MnNDclNDM2t5RVhNVmUtU0lXWWNPaVQ2NFVFWnBqY096Q25JaHprVGh3NUR3VXY0UlBiM181eG0tcUJwMUh3bklWc3pMX0dERUhTTVpGUXZVSWF3?oc=5",
+  "summary": "Le Findel à l'arrêt vendredi soir, des drones en cause? L'essentiel",
+  "published": "2026-09-19T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "4852161ea53a3ab1",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Des drones non identifiés ont mis le Findel à l'arrêt - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTBlcV9Ba0JTVVNrOW92N0ZYQm1oeUxVY3Vtb1lCTEk0dk5PQjJPT2lJVXJNYzdUU0I1dE4xQ1ZrRm5meDlUX0Z2RThZTDdPNG8tWUF1di03Wkx5QmlJUTlPM2ZqZDBlVXhncXJva2RGQWtTMzE3Uk5xNUx0LVJYSUdiWlZIV1k0RFV0OS05a3RrVXoyNEJhQ3dwVFlCS3BqYVZNa2RqSnA5ekctSUE?oc=5",
+  "summary": "Des drones non identifiés ont mis le Findel à l'arrêt L'essentiel",
+  "published": "2026-09-19T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
  },
  {
   "id": "5e63b8ff2012bf26",
@@ -2829,10 +2097,10 @@
   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpZWpfQ3NyOVFaTlU1WkN0ay1uMWpzTWxrS1lHNkRCbE9qT0lXaXM1TmJEQzNjaXVxN1NfM3VCWjRPVzBDNUg0V1lyZEV6MGpiX2dHcVdvcVd1d0NvbUxKLUdtWkRCTnJ0VWlTTHZkVWd2WVE?oc=5",
   "summary": "Multiple flights report GPS jamming over Swedish airspace within 24 hours Avi-Go",
   "published": "2026-09-18T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "cb7863fa7984169c",
+  "id": "f702c6d29734d221",
   "source": "gn-partis",
   "source_name": "Google News – Part-IS et cybersécurité aviation",
   "category": "Réglementation",
@@ -2844,7 +2112,7 @@
   "collected": "2026-11-21T03:15:00Z"
  },
  {
-  "id": "7a6d416e235880b2",
+  "id": "5e986744f04a60b6",
   "source": "gn-gnss",
   "source_name": "Google News – Brouillage et spoofing GNSS",
   "category": "Menace",
@@ -2856,19 +2124,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "5e986744f04a60b6",
-  "source": "gn-gnss",
-  "source_name": "Google News – Brouillage et spoofing GNSS",
-  "category": "Menace",
-  "zone": "INT",
-  "title": "The Legal Consequences Of GPS Spoofing Against Indian Civil Aircraft - Legal 500",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc0JReVpnRm9DUjBMVTBLSUhFR3EtVENUVFBpdzIxVE81Vzl6UFZya0NnYWMxMF9lbmU2elV3VnJ1Zld5YS1kczJ6eFVwT3lHQ0xOa0dkRXQzSXRpMTJuLXpiOWtYc01VQnNVMk42dDhSVXVvMmxaU1dxSlJ2SGFuejVVRXhwdjlUNkJ4YVlsdENNNVgtUlVlV01CMG5URWpSOWx2SWgwc3VlUDVEdnJRaXd1YXlKLWJ1SWxlTEtLTQ?oc=5",
-  "summary": "The Legal Consequences Of GPS Spoofing Against Indian Civil Aircraft Legal 500",
-  "published": "2026-09-16T17:54:29Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "1eba85ce43515f8c",
+  "id": "af806bd5b027a3e6",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -2880,7 +2136,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "fd3c3856f7523cc3",
+  "id": "e6f6298a693df29b",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -2892,7 +2148,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "bbf0269440c16663",
+  "id": "09425a52d04ac98e",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -2904,7 +2160,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "5e50d24dedc3f361",
+  "id": "f75623726620ef99",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -2916,7 +2172,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "e0e425464c6b76cc",
+  "id": "b005f84bb033b2a4",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -2988,7 +2244,7 @@
   "collected": "2026-11-22T03:48:05Z"
  },
  {
-  "id": "0477313524f4866f",
+  "id": "85a7e7754fb67178",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -3000,7 +2256,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "2cc271a9db8cd8a6",
+  "id": "f56a77bb3b98e71f",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -3012,7 +2268,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "7122a9e8b6faa889",
+  "id": "ad66340289abace6",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -3024,18 +2280,6 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "ddae01e26f652083",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "Aéroport du Findel au Luxembourg : à quels prix seront les billets vers New York ? - La Semaine",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON3lscEdBb2hiajY1d1ZrR21MbXN2WXg2cUlSN0tlOTZrcWQxNUNDaWk5ZXFJWmE2ZHdTNHpPSUhWcG1TTUZFTi1MZ2VrTHA3WjVHVXd5em9tci1rUjg3ZV84NjJyd2FJcjNxVF9xRjB1MFJxZ1ZOUWVfWWFFandYTTRPUUFDcHpaRm1fSzRESVM1ODVSLTl5cUw5TURfcGhzY0Mzckg2ZTY2bDlBZW9KYWFQNnZTejR4Y3BIRnVOQ00?oc=5",
-  "summary": "Aéroport du Findel au Luxembourg : à quels prix seront les billets vers New York ? La Semaine",
-  "published": "2026-08-26T07:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
   "id": "623fe7c10e2bd963",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
@@ -3045,10 +2289,10 @@
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON3lscEdBb2hiajY1d1ZrR21MbXN2WXg2cUlSN0tlOTZrcWQxNUNDaWk5ZXFJWmE2ZHdTNHpPSUhWcG1TTUZFTi1MZ2VrTHA3WjVHVXd5em9tci1rUjg3ZV84NjJyd2FJcjNxVF9xRjB1MFJxZ1ZOUWVfWWFFandYTTRPUUFDcHpaRm1fSzRESVM1ODVSLTl5cUw5TURfcGhzY0Mzckg2ZTY2bDlBZW9KYWFQNnZTejR4Y3BIRnVOQ00?oc=5",
   "summary": "Aéroport du Findel au Luxembourg : à quels prix seront les billets vers New York ? La Semaine",
   "published": "2026-08-26T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "d2b5bf03f228ea35",
+  "id": "aa1038e2607e1376",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -3057,30 +2301,6 @@
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdC0yTTNDQTRJMnBxM1RkdkxkWGRySGxrd2VidW9aaHozampPVjl4MzNDV1JrZUItOW5FYTlSSmVrOS11MzVaMm43ODk0cVlLVHZuZzlxeE9paFQzcmlub2VYQmd5VWwzZ0RDOXJiSHhMaU0ya0lUWFg1dTZEX3VxbHpDRUZVUFdMMFVvZ21uT2N2cWFfbTRxc1ZMMU9IZnluWXIwR2dsNWRmUk84aUE?oc=5",
   "summary": "Les bombardiers d'eau de Cargolux crispent en Belgique L'essentiel",
   "published": "2026-08-18T07:00:00Z",
-  "collected": "2026-11-21T03:48:10Z"
- },
- {
-  "id": "6ef07647170dceac",
-  "source": "gn-gnss",
-  "source_name": "Google News – Brouillage et spoofing GNSS",
-  "category": "Menace",
-  "zone": "INT",
-  "title": "How GPS jamming and drones are creating new threats for civilian aviation - WBUR",
-  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MTG1STWtNbTQ1MW0yellKalRRNVNoSVlOVnpMWnNuTlM2bVFuclJ0NS0tSWZPY3FpQ2hDTXRsTC1iV1ZCT2F4X1U0UVF5dlh4YUZnYUN6eWM0RkExXzNjcW00T2lKc3gyQTJMQnZn?oc=5",
-  "summary": "How GPS jamming and drones are creating new threats for civilian aviation WBUR",
-  "published": "2026-08-13T07:00:00Z",
-  "collected": "2026-11-21T03:13:53Z"
- },
- {
-  "id": "f238acdaed0c991f",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "L'Etna contraint Luxair à réorganiser ses vols - L'essentiel",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMUxIa010Q1drOFhLYXhsVGIwbFlxRDFoT3hvYUxHRGZWWllmZDE3ZVQ0bmhwRFZaQlZGaFNvUEpjTlJpV3F6V2pTX2FNNmZzczhzZkQ0UkZxNk9UUWdOYjRxVVEteEdhWk4yVlFLbEd2REVCSGExeV9WUlBFcEdJU1dfRGJFdmxWVjJvbGkweEJaMVNJcm1JbzdOaUJnRnR5TUJnQzlFazMtT25aUEZZcnlBLTFZRlla?oc=5",
-  "summary": "L'Etna contraint Luxair à réorganiser ses vols L'essentiel",
-  "published": "2026-08-13T07:00:00Z",
   "collected": "2026-11-21T03:48:10Z"
  },
  {
@@ -3093,10 +2313,22 @@
   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MTG1STWtNbTQ1MW0yellKalRRNVNoSVlOVnpMWnNuTlM2bVFuclJ0NS0tSWZPY3FpQ2hDTXRsTC1iV1ZCT2F4X1U0UVF5dlh4YUZnYUN6eWM0RkExXzNjcW00T2lKc3gyQTJMQnZn?oc=5",
   "summary": "How GPS jamming and drones are creating new threats for civilian aviation WBUR",
   "published": "2026-08-13T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
+  "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "8bb73f5e0a6ecb42",
+  "id": "1b0b7c14b4a0bf5a",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "L'Etna contraint Luxair à réorganiser ses vols - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMUxIa010Q1drOFhLYXhsVGIwbFlxRDFoT3hvYUxHRGZWWllmZDE3ZVQ0bmhwRFZaQlZGaFNvUEpjTlJpV3F6V2pTX2FNNmZzczhzZkQ0UkZxNk9UUWdOYjRxVVEteEdhWk4yVlFLbEd2REVCSGExeV9WUlBFcEdJU1dfRGJFdmxWVjJvbGkweEJaMVNJcm1JbzdOaUJnRnR5TUJnQzlFazMtT25aUEZZcnlBLTFZRlla?oc=5",
+  "summary": "L'Etna contraint Luxair à réorganiser ses vols L'essentiel",
+  "published": "2026-08-13T07:00:00Z",
+  "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "d7d7d3bf4dfedf00",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -3108,7 +2340,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "4d7057de24f9c6c5",
+  "id": "3e4cd7cd737bc1ec",
   "source": "gn-gnss",
   "source_name": "Google News – Brouillage et spoofing GNSS",
   "category": "Menace",
@@ -3120,19 +2352,7 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
-  "id": "3e4cd7cd737bc1ec",
-  "source": "gn-gnss",
-  "source_name": "Google News – Brouillage et spoofing GNSS",
-  "category": "Menace",
-  "zone": "INT",
-  "title": "New Mexico congressional delegation members demand info on military GPS jamming before fatal crash - Source New Mexico",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcFBTZWpnQ1ZMRXpDQTVFbnF5Ri1UMUNCN2duTzRLd0JUWXMtMEROT0E3dzE3YU1RM05OTnE1enBMVzZPY3k4ck9Qb2FXcVBpcEJEUURIM3lWazhDSGRKTHhRbXNhRDBSbnhMa0RjcjR2bHRFb1djNVYtemtjTjZ4UVBFX2JXWl80alhCZDlYOHNRUElZQTY1NGhpN0psZEp2T3Q0QmRzRjFYcnNMLWtJTVZUeDVCT0wwSkZDcGs4UUZ4OWk5WElYdElsYw?oc=5",
-  "summary": "New Mexico congressional delegation members demand info on military GPS jamming before fatal crash Source New Mexico",
-  "published": "2026-08-06T07:00:00Z",
-  "collected": "2026-11-22T03:48:05Z"
- },
- {
-  "id": "d96e541b9d36844e",
+  "id": "aa298dd59eae1793",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",
@@ -3144,7 +2364,7 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
-  "id": "80e04df2e9caf5f5",
+  "id": "62e12193816ab771",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
   "category": "Acteurs",

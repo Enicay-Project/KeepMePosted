@@ -1,1486 +1,14 @@
 {
- "5b7506c4b95e2fe9": {
-  "resume": "Une intrusion chez Amadeus, fournisseur espagnol de systèmes de réservation, expose les données de réservation de nombreuses compagnies : Singapore Airlines, Cathay Pacific, Malaysia Airlines, Japan Airlines, Thai Airways, SAS, Korean Air, Caribbean Airlines… Les compagnies publient leurs notifications au fil de l'eau depuis fin octobre.",
-  "tags": [
-   "Incident",
-   "Fournisseur",
-   "Supply chain"
-  ],
-  "exigences": [
-   "IS.I.OR.235",
-   "IS.I.OR.205",
-   "IS.I.OR.230"
-  ],
-  "perimetre": "Entités",
-  "score": 85,
-  "action": "Informer le CISO",
-  "pourquoi": "Cas d'école de risque fournisseur pour Part-IS : vérifier quelles entités supervisées luxembourgeoises dépendent d'Amadeus et si l'incident a été notifié ou évalué de leur côté.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "df415f2b4fa90d61": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "6c2f39f8a3e49a0f": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "f0d3102768a28ae4": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "1f5657a53f42168a": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "ff5323577d62133d": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "14de3696abdd939c": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "52486c39cdb8fc9f": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "c76d8b34554581bf": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "f6ebeea84f18b41f": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "e4d653771fd90c66": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "4688818fce72ea2d": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "0765b7e50a95c854": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "cbf2a7eeb6ddc084": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "03fc827fbfecf71a": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "8fb7bd120017eba6": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "0af1ad16fb613613": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "7369650616278130": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "a94163a5014ab9ee": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "14ea2a97ae6532b8": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "2984f451712a2db8": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "8bb48fbddcdd0560": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "484be06fb7bba1fe": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "a42202f6f923828c": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "eeb8409fa04314dc": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "fa5fbdcf8c7a23b5": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "90ff0a3052bcf6e0": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "2fbb031103b76502": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "288b29f45d2fd63b": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "21fdda2480a6fa58": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "32e6f719887ad42a": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "90a2ae3d6891bf2e": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "0eb6b4336e65dbd0": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "b66f60e7ecb72b57": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "25011f2daee52442": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "400051a7274dc158": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "0c742714b643ed94": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "b3649172fd33337e": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "29118907634a7403": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "96cac80277056f7b": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "58bd833b9c6b4bfc": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "a1bdfafcfa2ac269": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "b2ec6e9e7145e085": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "760613e1faa54b5e": {
-  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 60,
-  "action": "Lire",
-  "pourquoi": "Même incident que le sujet principal Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "0ece1115f46f98fc": {
-  "resume": "airBaltic annonce l'exposition d'environ 618 000 réservations via un prestataire informatique.",
-  "tags": [
-   "Incident",
-   "Fournisseur",
-   "Supply chain"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 65,
-  "action": "Suivre",
-  "pourquoi": "Compagnie européenne touchée par un tiers : vérifier s'il s'agit du même incident Amadeus et si des prestataires communs existent au Luxembourg.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "281915022ccafb48": {
-  "resume": "L'EASA et EUROCONTROL publient un plan d'action commun pour maintenir la sécurité des opérations lors d'interférences GNSS (brouillage et leurrage).",
-  "tags": [
-   "GNSS",
-   "Réglementation",
-   "Menace"
-  ],
-  "exigences": [
-   "IS.I.OR.205",
-   "IS.AR.205"
-  ],
-  "perimetre": "Les deux",
-  "score": 82,
-  "action": "Informer le CISO",
-  "pourquoi": "Texte de référence européen sur une menace active : à intégrer dans les attentes de supervision (appréciation des risques des opérateurs et de l'ANA).",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "165ad1fc7951c366": {
-  "resume": "L'UNIDIR alerte sur la hausse du brouillage et du leurrage GPS et radio, avec des cas de leurrage en aviation en forte augmentation.",
-  "tags": [
-   "GNSS",
-   "Menace"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 55,
-  "action": "Lire",
-  "pourquoi": "Chiffres utiles pour argumenter auprès du CISO et des entités.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "461435916e442310": {
-  "resume": "Plusieurs vols signalent du brouillage GPS dans l'espace aérien suédois en 24 heures (17-18 septembre 2026).",
-  "tags": [
-   "GNSS",
-   "Menace"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 50,
-  "action": "Lire",
-  "pourquoi": "Illustre l'extension de la zone de brouillage autour de la Baltique, utile pour les opérateurs luxembourgeois qui la survolent.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "a2da055edd0a3d0e": {
-  "resume": "Brouillage et leurrage GPS sur deux vols au-dessus de la Suède.",
-  "tags": [
-   "GNSS"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 45,
-  "action": "Rien",
-  "pourquoi": "Même épisode suédois.",
-  "doublon_de": "461435916e442310",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "ca58edf5cae7bea8": {
-  "resume": "Les interférences GPS font peser un risque sur les vols civils et le transport maritime.",
-  "tags": [
-   "GNSS",
-   "Menace"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 35,
-  "action": "Lire",
-  "pourquoi": "Contexte général sur la menace GNSS.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "1d31a949ab21ea15": {
-  "resume": "Le leurrage GPS progresse fortement et menace l'aviation civile.",
-  "tags": [
-   "GNSS"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 35,
-  "action": "Rien",
-  "pourquoi": "Article de synthèse, sans fait nouveau apparent.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "171e76fdfb9a5f73": {
-  "resume": "Des chercheurs testent l'IA pour détecter le leurrage GPS sur les drones.",
-  "tags": [
-   "GNSS",
-   "Drones"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 25,
-  "action": "Rien",
-  "pourquoi": "Recherche, sans impact direct.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "39c87a1864108da1": {
-  "resume": "Skyband chiffre le brouillage GPS subi par l'aviation d'affaires.",
-  "tags": [
-   "GNSS",
-   "Menace"
-  ],
-  "exigences": [],
-  "perimetre": "Entités",
-  "score": 50,
-  "action": "Lire",
-  "pourquoi": "L'aviation d'affaires est très présente au Luxembourg (Luxaviation, Global Jet, Jetfly) : chiffres utiles pour ces opérateurs.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "7a6d416e235880b2": {
-  "resume": "Analyse des conséquences juridiques du leurrage GPS contre des aéronefs civils indiens.",
-  "tags": [
-   "GNSS"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 25,
-  "action": "Rien",
-  "pourquoi": "Contexte juridique international.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "6ef07647170dceac": {
-  "resume": "Comment le brouillage GPS et les drones créent de nouvelles menaces pour l'aviation civile.",
-  "tags": [
-   "GNSS",
-   "Drones",
-   "Menace"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 35,
-  "action": "Lire",
-  "pourquoi": "Bon article de culture générale.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "4d7057de24f9c6c5": {
-  "resume": "Des élus du Nouveau-Mexique demandent des informations sur le brouillage GPS militaire avant un accident mortel.",
-  "tags": [
-   "GNSS"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 20,
-  "action": "Rien",
-  "pourquoi": "Contexte américain.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "c31d3ff2d7bd94c3": {
-  "resume": "Après des survols de drones qui ont fermé l'aéroport de Luxembourg-Findel en septembre 2026, des témoins parlent d'« engins d'envergure », pas de petits drones privés.",
-  "tags": [
-   "Drones",
-   "Acteur LU",
-   "Menace"
-  ],
-  "exigences": [
-   "IS.I.OR.220"
-  ],
-  "perimetre": "Les deux",
-  "score": 72,
-  "action": "Suivre",
-  "pourquoi": "Menace hybride sur une entité supervisée : suivre le retour d'expérience de lux-Airport et de l'ANA (détection, réponse, coordination avec les autorités).",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "367385b73617535e": {
-  "resume": "Le Findel de nouveau fermé après des signalements de drones.",
-  "tags": [
-   "Drones",
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Les deux",
-  "score": 65,
-  "action": "Rien",
-  "pourquoi": "Même épisode de septembre.",
-  "doublon_de": "c31d3ff2d7bd94c3",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "b81b42fd0d5cf05d": {
-  "resume": "Vols suspendus à l'aéroport de Luxembourg à cause de drones.",
-  "tags": [
-   "Drones",
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Les deux",
-  "score": 65,
-  "action": "Rien",
-  "pourquoi": "Même épisode de septembre.",
-  "doublon_de": "c31d3ff2d7bd94c3",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "2f720b27e4efb6a2": {
-  "resume": "Le Luxembourg étudie la mise en place de contrôles américains (prédédouanement) au Findel.",
-  "tags": [
-   "Acteur LU",
-   "Gouvernance"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 45,
-  "action": "Suivre",
-  "pourquoi": "Un tel dispositif impliquerait de nouveaux flux de données passagers et des systèmes partagés à sécuriser.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "f4ed5a956a82ed6a": {
-  "resume": "Cambriolage dans les locaux de la police judiciaire, à la Cité policière du Findel.",
-  "tags": [
-   "Contexte"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 10,
-  "action": "Rien",
-  "pourquoi": "Sans lien avec l'aviation, malgré le mot « Findel ».",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "a6e1fc3e61188649": {
-  "resume": "La police luxembourgeoise victime d'un cambriolage.",
-  "tags": [
-   "Contexte"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 5,
-  "action": "Rien",
-  "pourquoi": "Même fait.",
-  "doublon_de": "f4ed5a956a82ed6a",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "2356e8832e36b30b": {
-  "resume": "Vol par effraction à la Cité policière du Findel.",
-  "tags": [
-   "Contexte"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 5,
-  "action": "Rien",
-  "pourquoi": "Même fait.",
-  "doublon_de": "f4ed5a956a82ed6a",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "40141b292ca33c8b": {
-  "resume": "Paperjam présente Skypark, le grand projet immobilier du Findel.",
-  "tags": [
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 30,
-  "action": "Rien",
-  "pourquoi": "Contexte économique de la zone aéroportuaire.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "5888a0de30e540f4": {
-  "resume": "Malgré le niveau bas du Rhin, l'aéroport ne manque pas de kérosène.",
-  "tags": [
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 15,
-  "action": "Rien",
-  "pourquoi": "Continuité d'approvisionnement, sans dimension cyber.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "86dfdfbb9022ddd4": {
-  "resume": "Retour historique sur les débuts de l'aéroport du Findel.",
-  "tags": [
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 5,
-  "action": "Rien",
-  "pourquoi": "Culture générale.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "502d293493f58e32": {
-  "resume": "Offre de recrutement de personnel navigant chez Cargolux.",
-  "tags": [
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 5,
-  "action": "Rien",
-  "pourquoi": "Hors sujet.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "ddae01e26f652083": {
-  "resume": "Les prix des futurs billets Luxembourg–New York.",
-  "tags": [
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 10,
-  "action": "Rien",
-  "pourquoi": "Hors sujet.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "7bd9a899f5023334": {
-  "resume": "La Moldavie forme ses inspecteurs de l'aviation civile aux exigences Part-IS de l'EASA.",
-  "tags": [
-   "Part-IS",
-   "Gouvernance"
-  ],
-  "exigences": [
-   "IS.AR.225"
-  ],
-  "perimetre": "DAC",
-  "score": 55,
-  "action": "Lire",
-  "pourquoi": "Exemple d'une autre autorité qui monte en compétence : utile pour le plan de formation des inspecteurs de la DAC.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "ceffbb8fa3b3f0c0": {
-  "resume": "L'ENISA lance la plateforme unique de signalement du Cyber Resilience Act, pour les fabricants qui doivent déclarer les vulnérabilités activement exploitées depuis le 11 septembre 2026.",
-  "tags": [
-   "Réglementation",
-   "Vulnérabilité"
-  ],
-  "exigences": [],
-  "perimetre": "Entités",
-  "score": 65,
-  "action": "Suivre",
-  "pourquoi": "Concerne les fournisseurs de produits numériques des entités supervisées ; à articuler avec le signalement Part-IS.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "8de573ba4a221a4a": {
-  "resume": "L'ENISA publie son rapport sur l'état de la cybersécurité dans l'Union.",
-  "tags": [
-   "Réglementation",
-   "Menace"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 45,
-  "action": "Lire",
-  "pourquoi": "Rapport de référence pour le contexte européen, à survoler pour la partie transport.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "f60f07d802da8c5b": {
-  "resume": "Rapport ENISA sur l'état de la cybersécurité dans l'Union.",
+ "fd1dd2b84bfefa30": {
+  "resume": "Article « Sunny Swift » sur la gestion des menaces et des erreurs (partie 1).",
   "tags": [
    "Réglementation"
   ],
   "exigences": [],
   "perimetre": "Contexte",
-  "score": 40,
-  "action": "Rien",
-  "pourquoi": "Même publication.",
-  "doublon_de": "8de573ba4a221a4a",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "4b9389a8e36c045a": {
-  "resume": "L'ENISA analyse comment les dépendances numériques affaiblissent la résilience.",
-  "tags": [
-   "Menace",
-   "Supply chain"
-  ],
-  "exigences": [
-   "IS.I.OR.235",
-   "IS.AR.220"
-  ],
-  "perimetre": "Les deux",
-  "score": 50,
-  "action": "Lire",
-  "pourquoi": "Fait écho au cas Amadeus : argumentaire pour l'exigence sur la sous-traitance.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "72fd69aef2bf05eb": {
-  "resume": "Déclaration conjointe des CSIRT européens sur des vulnérabilités critiques de PHP.",
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "exigences": [
-   "IS.I.OR.210"
-  ],
-  "perimetre": "Les deux",
-  "score": 35,
-  "action": "Lire",
-  "pourquoi": "Vulnérabilité informatique générale ; à relayer si des entités exposent des services web en PHP.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "e3f2219a7d3e681f": {
-  "resume": "Déclaration conjointe sur des incidents cyber touchant des systèmes de réfrigération dans l'UE.",
-  "tags": [
-   "Incident"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 25,
-  "action": "Rien",
-  "pourquoi": "Pas de lien aviation identifié.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "f82f60ca00781b35": {
-  "resume": "L'ENISA lance un podcast, premier épisode sur l'IA de pointe.",
-  "tags": [
-   "Contexte"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
   "score": 10,
   "action": "Rien",
-  "pourquoi": "Culture générale.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "d017500ac7a8415a": {
-  "resume": "La Suède remporte l'European Cybersecurity Challenge.",
-  "tags": [
-   "Contexte"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 5,
-  "action": "Rien",
-  "pourquoi": "Hors sujet.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "d325f31f18816b0d": {
-  "resume": "Le CIRCL signale l'exploitation active de vulnérabilités d'Ivanti Endpoint Manager Mobile (CVE-2026-1281 et CVE-2026-1340).",
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "exigences": [
-   "IS.I.OR.210",
-   "IS.AR.210"
-  ],
-  "perimetre": "Les deux",
-  "score": 60,
-  "action": "Suivre",
-  "pourquoi": "Exploitation active d'un outil de gestion des mobiles répandu : vérifier l'exposition de la DAC et signaler aux entités si besoin.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "7e663ff1414325eb": {
-  "resume": "Plusieurs vulnérabilités critiques dans Citrix NetScaler ADC et Gateway (avis CIRCL TR-100 et CERT-EU 2026-020).",
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "exigences": [
-   "IS.I.OR.210",
-   "IS.AR.210"
-  ],
-  "perimetre": "Les deux",
-  "score": 55,
-  "action": "Suivre",
-  "pourquoi": "Équipement d'accès distant fréquent dans les grandes organisations, cible habituelle des rançongiciels.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "5b7ba4bfaff87f4d": {
-  "resume": "Avis CERT-EU sur les vulnérabilités critiques de Citrix NetScaler.",
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "exigences": [],
-  "perimetre": "Les deux",
-  "score": 50,
-  "action": "Rien",
-  "pourquoi": "Même sujet que l'avis CIRCL.",
-  "doublon_de": "7e663ff1414325eb",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "5b2e6155f48650a0": {
-  "resume": "Exécution de code à distance dans NGINX pouvant mener à la compromission de l'hôte (CIRCL TR-105, CERT-EU 2026-022).",
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "exigences": [
-   "IS.I.OR.210"
-  ],
-  "perimetre": "Les deux",
-  "score": 50,
-  "action": "Lire",
-  "pourquoi": "Serveur web très répandu ; vérification de routine.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "6fba50ef58cbfb94": {
-  "resume": "Avis CERT-EU sur des vulnérabilités critiques de Nginx.",
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "exigences": [],
-  "perimetre": "Les deux",
-  "score": 45,
-  "action": "Rien",
-  "pourquoi": "Même sujet que l'avis CIRCL.",
-  "doublon_de": "5b2e6155f48650a0",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "7296df4a3d8c4061": {
-  "resume": "Corruption mémoire critique dans le décodeur Base64 d'OpenJDK (CIRCL TR-104, CERT-EU 2026-021).",
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "exigences": [],
-  "perimetre": "Les deux",
-  "score": 40,
-  "action": "Lire",
-  "pourquoi": "Vulnérabilité générique, à suivre via la veille vulnérabilités habituelle.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "92333b5b9c3bfc02": {
-  "resume": "Avis CERT-EU sur Java SE et OpenJDK.",
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "exigences": [],
-  "perimetre": "Les deux",
-  "score": 35,
-  "action": "Rien",
-  "pourquoi": "Même sujet.",
-  "doublon_de": "7296df4a3d8c4061",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "b0531f7ed37e6535": {
-  "resume": "Vulnérabilités critiques d'exécution de code à distance dans PHP (CIRCL TR-102, CERT-EU 2026-018).",
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "exigences": [],
-  "perimetre": "Les deux",
-  "score": 35,
-  "action": "Lire",
-  "pourquoi": "Générique.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "f28520fa17de590c": {
-  "resume": "Avis CERT-EU sur PHP.",
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "exigences": [],
-  "perimetre": "Les deux",
-  "score": 30,
-  "action": "Rien",
-  "pourquoi": "Même sujet.",
-  "doublon_de": "b0531f7ed37e6535",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "57d457e12742ebda": {
-  "resume": "Exécution de code à distance dans le module mod_http2 d'Apache HTTP Server.",
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "exigences": [],
-  "perimetre": "Les deux",
-  "score": 35,
-  "action": "Lire",
-  "pourquoi": "Générique.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "6857425fc2054dee": {
-  "resume": "Le CIRCL publie des recommandations de sécurité pour les équipements industriels, OT et IoT.",
-  "tags": [
-   "Vulnérabilité",
-   "Gouvernance"
-  ],
-  "exigences": [
-   "IS.I.OR.210"
-  ],
-  "perimetre": "Entités",
-  "score": 45,
-  "action": "Lire",
-  "pourquoi": "Pertinent pour les aéroports et l'ANA (systèmes techniques, balisage, bagages).",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "52e717f140dd1108": {
-  "resume": "Campagne d'hameçonnage visant les clients d'hôtels au Luxembourg.",
-  "tags": [
-   "Menace"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 20,
-  "action": "Rien",
-  "pourquoi": "Hors aviation.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "0f99c7d91b253489": {
-  "resume": "Vulnérabilité critique dans GitLab CE et EE.",
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "exigences": [],
-  "perimetre": "Les deux",
-  "score": 30,
-  "action": "Rien",
-  "pourquoi": "Générique.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "fdad3111d34f8e8f": {
-  "resume": "Vulnérabilité critique dans GitLab CE et EE (octobre).",
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "exigences": [],
-  "perimetre": "Les deux",
-  "score": 25,
-  "action": "Rien",
-  "pourquoi": "Générique.",
-  "doublon_de": "0f99c7d91b253489",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "a2d0c036527805c0": {
-  "resume": "Vulnérabilité critique dans Cisco Secure Email Gateway.",
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "exigences": [],
-  "perimetre": "Les deux",
-  "score": 30,
-  "action": "Rien",
-  "pourquoi": "Générique.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "f2ec234bb1fdaf13": {
-  "resume": "Vulnérabilité critique dans plusieurs produits Atlassian.",
-  "tags": [
-   "Vulnérabilité"
-  ],
-  "exigences": [],
-  "perimetre": "Les deux",
-  "score": 30,
-  "action": "Rien",
-  "pourquoi": "Générique.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "0b107edaafe3afd1": {
-  "resume": "Exécution de code à distance dans Thales SConnect (CVE-2026-18397), produit utilisé notamment pour SWIFT.",
-  "tags": [
-   "Vulnérabilité",
-   "Fournisseur"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 40,
-  "action": "Lire",
-  "pourquoi": "Thales est un fournisseur aviation, mais ce produit vise surtout la banque.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "c1afa51b72e229fc": {
-  "resume": "Formation CNPD « Data Protection Basics » sur l'intelligence artificielle (complète).",
-  "tags": [
-   "Contexte"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 10,
-  "action": "Rien",
-  "pourquoi": "Formation, sans impact.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "d8951850acd383a3": {
-  "resume": "Formation CNPD sur l'IA (complète).",
-  "tags": [
-   "Contexte"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 10,
-  "action": "Rien",
-  "pourquoi": "Même annonce.",
-  "doublon_de": "c1afa51b72e229fc",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "565dea3cfe3298ba": {
-  "resume": "Formation CNPD d'introduction à la protection des données (complète).",
-  "tags": [
-   "Contexte"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 10,
-  "action": "Rien",
-  "pourquoi": "Formation.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "75f478ce615988ca": {
-  "resume": "Formation CNPD « Data Protection Basics » en anglais (complète).",
-  "tags": [
-   "Contexte"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 10,
-  "action": "Rien",
-  "pourquoi": "Formation.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "e35464201083f8e4": {
-  "resume": "La CNPD entre au comité exécutif de la Global Privacy Assembly.",
-  "tags": [
-   "Gouvernance"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 15,
-  "action": "Rien",
-  "pourquoi": "Institutionnel.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "5281fd9fa79b99df": {
-  "resume": "4e conférence plénière de l'initiative RE.M.I.",
-  "tags": [
-   "Contexte"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 10,
-  "action": "Rien",
-  "pourquoi": "Hors sujet.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "51b5d976122fbe46": {
-  "resume": "Conférence CNPD sur la protection des données comme source de valeur (complète).",
-  "tags": [
-   "Contexte"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 10,
-  "action": "Rien",
-  "pourquoi": "Hors sujet.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "4bfd7f821ec8e6e3": {
-  "resume": "L'EDPB lance une plateforme européenne « Privacy for Kids ».",
-  "tags": [
-   "Contexte"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 5,
-  "action": "Rien",
-  "pourquoi": "Hors sujet.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "6ddf79dde875ae6c": {
-  "resume": "L'EASA publie son rapport annuel de sécurité 2026.",
-  "tags": [
-   "Réglementation"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 40,
-  "action": "Lire",
-  "pourquoi": "Référence pour le contexte ; vérifier s'il contient un chapitre sur la cybersécurité.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "058fcc55c846b240": {
-  "resume": "Nouvelles consignes pour les organisations qui utilisent l'outil d'agrément de l'EASA.",
-  "tags": [
-   "Réglementation"
-  ],
-  "exigences": [],
-  "perimetre": "Entités",
-  "score": 35,
-  "action": "Lire",
-  "pourquoi": "Outil utilisé par les organisations agréées : vérifier si des demandes liées à Part-IS y transitent.",
+  "pourquoi": "Sécurité des vols, pas sécurité de l'information.",
   "analysed_at": "2026-11-21T03:17:11Z"
  },
  "4d3a710ad2676153": {
@@ -1493,6 +21,30 @@
   "score": 25,
   "action": "Lire",
   "pourquoi": "Pratique pour suivre automatiquement les versions des textes, Part-IS compris.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "4eefc53f8cc74267": {
+  "resume": "Atelier EASA et EUROCONTROL sur la formation par compétences des contrôleurs aériens.",
+  "tags": [
+   "Réglementation"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 20,
+  "action": "Rien",
+  "pourquoi": "Hors sujet cyber.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "6ddf79dde875ae6c": {
+  "resume": "L'EASA publie son rapport annuel de sécurité 2026.",
+  "tags": [
+   "Réglementation"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 40,
+  "action": "Lire",
+  "pourquoi": "Référence pour le contexte ; vérifier s'il contient un chapitre sur la cybersécurité.",
   "analysed_at": "2026-11-21T03:17:11Z"
  },
  "52a4054a1f1ca921": {
@@ -1519,6 +71,18 @@
   "pourquoi": "Navigabilité, hors sujet.",
   "analysed_at": "2026-11-21T03:17:11Z"
  },
+ "058fcc55c846b240": {
+  "resume": "Nouvelles consignes pour les organisations qui utilisent l'outil d'agrément de l'EASA.",
+  "tags": [
+   "Réglementation"
+  ],
+  "exigences": [],
+  "perimetre": "Entités",
+  "score": 35,
+  "action": "Lire",
+  "pourquoi": "Outil utilisé par les organisations agréées : vérifier si des demandes liées à Part-IS y transitent.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
  "6b818b868b049be8": {
   "resume": "Mise à jour des Easy Access Rules CS-MMEL (Issue 4).",
   "tags": [
@@ -1529,30 +93,6 @@
   "score": 10,
   "action": "Rien",
   "pourquoi": "Navigabilité, hors sujet.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "fd1dd2b84bfefa30": {
-  "resume": "Article « Sunny Swift » sur la gestion des menaces et des erreurs (partie 1).",
-  "tags": [
-   "Réglementation"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 10,
-  "action": "Rien",
-  "pourquoi": "Sécurité des vols, pas sécurité de l'information.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "4eefc53f8cc74267": {
-  "resume": "Atelier EASA et EUROCONTROL sur la formation par compétences des contrôleurs aériens.",
-  "tags": [
-   "Réglementation"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 20,
-  "action": "Rien",
-  "pourquoi": "Hors sujet cyber.",
   "analysed_at": "2026-11-21T03:17:11Z"
  },
  "0d922c8f65b01e5c": {
@@ -1639,17 +179,45 @@
   "pourquoi": "Organigramme de l'EASA.",
   "analysed_at": "2026-11-21T03:17:11Z"
  },
- "c200065e65aac55c": {
-  "resume": "Mise à jour des spécifications détaillées des équipements au sol ATM/ANS (DS-GE.CER).",
+ "281915022ccafb48": {
+  "resume": "L'EASA et EUROCONTROL publient un plan d'action commun pour maintenir la sécurité des opérations lors d'interférences GNSS (brouillage et leurrage).",
   "tags": [
+   "GNSS",
    "Réglementation",
-   "Part-IS"
+   "Menace"
+  ],
+  "exigences": [
+   "IS.I.OR.205",
+   "IS.AR.205"
+  ],
+  "perimetre": "Les deux",
+  "score": 82,
+  "action": "Informer le CISO",
+  "pourquoi": "Texte de référence européen sur une menace active : à intégrer dans les attentes de supervision (appréciation des risques des opérateurs et de l'ANA).",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "c4a4f37f96dd44da": {
+  "resume": "NPA 2026-03 : mise à jour de la CS-25 (gros avions).",
+  "tags": [
+   "Réglementation"
   ],
   "exigences": [],
-  "perimetre": "Entités",
-  "score": 45,
-  "action": "Lire",
-  "pourquoi": "Les équipements au sol de l'ANA sont concernés : regarder si la consultation aborde la sécurité de l'information.",
+  "perimetre": "Contexte",
+  "score": 15,
+  "action": "Rien",
+  "pourquoi": "Certification, hors sujet.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "2cdb28029f38dc49": {
+  "resume": "NPA 2026-02 : amendements CAEP de l'annexe 16 de l'ICAO (environnement).",
+  "tags": [
+   "Réglementation"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
   "analysed_at": "2026-11-21T03:17:11Z"
  },
  "90bb44be91f23cbe": {
@@ -1688,28 +256,17 @@
   "pourquoi": "Conception et production (IS.D.OR) ; impact cyber à vérifier.",
   "analysed_at": "2026-11-21T03:17:11Z"
  },
- "c4a4f37f96dd44da": {
-  "resume": "NPA 2026-03 : mise à jour de la CS-25 (gros avions).",
+ "c200065e65aac55c": {
+  "resume": "Mise à jour des spécifications détaillées des équipements au sol ATM/ANS (DS-GE.CER).",
   "tags": [
-   "Réglementation"
+   "Réglementation",
+   "Part-IS"
   ],
   "exigences": [],
-  "perimetre": "Contexte",
-  "score": 15,
-  "action": "Rien",
-  "pourquoi": "Certification, hors sujet.",
-  "analysed_at": "2026-11-21T03:17:11Z"
- },
- "2cdb28029f38dc49": {
-  "resume": "NPA 2026-02 : amendements CAEP de l'annexe 16 de l'ICAO (environnement).",
-  "tags": [
-   "Réglementation"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 10,
-  "action": "Rien",
-  "pourquoi": "Hors sujet.",
+  "perimetre": "Entités",
+  "score": 45,
+  "action": "Lire",
+  "pourquoi": "Les équipements au sol de l'ANA sont concernés : regarder si la consultation aborde la sécurité de l'information.",
   "analysed_at": "2026-11-21T03:17:11Z"
  },
  "783ea604e458edc9": {
@@ -1773,7 +330,417 @@
   "pourquoi": "Hors sujet.",
   "analysed_at": "2026-11-21T03:17:11Z"
  },
- "5158f992c19fe04d": {
+ "8de573ba4a221a4a": {
+  "resume": "L'ENISA publie son rapport sur l'état de la cybersécurité dans l'Union.",
+  "tags": [
+   "Réglementation",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 45,
+  "action": "Lire",
+  "pourquoi": "Rapport de référence pour le contexte européen, à survoler pour la partie transport.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "4b9389a8e36c045a": {
+  "resume": "L'ENISA analyse comment les dépendances numériques affaiblissent la résilience.",
+  "tags": [
+   "Menace",
+   "Supply chain"
+  ],
+  "exigences": [
+   "IS.I.OR.235",
+   "IS.AR.220"
+  ],
+  "perimetre": "Les deux",
+  "score": 50,
+  "action": "Lire",
+  "pourquoi": "Fait écho au cas Amadeus : argumentaire pour l'exigence sur la sous-traitance.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "ceffbb8fa3b3f0c0": {
+  "resume": "L'ENISA lance la plateforme unique de signalement du Cyber Resilience Act, pour les fabricants qui doivent déclarer les vulnérabilités activement exploitées depuis le 11 septembre 2026.",
+  "tags": [
+   "Réglementation",
+   "Vulnérabilité"
+  ],
+  "exigences": [],
+  "perimetre": "Entités",
+  "score": 65,
+  "action": "Suivre",
+  "pourquoi": "Concerne les fournisseurs de produits numériques des entités supervisées ; à articuler avec le signalement Part-IS.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "f82f60ca00781b35": {
+  "resume": "L'ENISA lance un podcast, premier épisode sur l'IA de pointe.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Culture générale.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "f60f07d802da8c5b": {
+  "resume": "Rapport ENISA sur l'état de la cybersécurité dans l'Union.",
+  "tags": [
+   "Réglementation"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 40,
+  "action": "Rien",
+  "pourquoi": "Même publication.",
+  "doublon_de": "8de573ba4a221a4a",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "e3f2219a7d3e681f": {
+  "resume": "Déclaration conjointe sur des incidents cyber touchant des systèmes de réfrigération dans l'UE.",
+  "tags": [
+   "Incident"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 25,
+  "action": "Rien",
+  "pourquoi": "Pas de lien aviation identifié.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "72fd69aef2bf05eb": {
+  "resume": "Déclaration conjointe des CSIRT européens sur des vulnérabilités critiques de PHP.",
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "exigences": [
+   "IS.I.OR.210"
+  ],
+  "perimetre": "Les deux",
+  "score": 35,
+  "action": "Lire",
+  "pourquoi": "Vulnérabilité informatique générale ; à relayer si des entités exposent des services web en PHP.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "d017500ac7a8415a": {
+  "resume": "La Suède remporte l'European Cybersecurity Challenge.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "6fba50ef58cbfb94": {
+  "resume": "Avis CERT-EU sur des vulnérabilités critiques de Nginx.",
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 45,
+  "action": "Rien",
+  "pourquoi": "Même sujet que l'avis CIRCL.",
+  "doublon_de": "5b2e6155f48650a0",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "92333b5b9c3bfc02": {
+  "resume": "Avis CERT-EU sur Java SE et OpenJDK.",
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 35,
+  "action": "Rien",
+  "pourquoi": "Même sujet.",
+  "doublon_de": "7296df4a3d8c4061",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "5b7ba4bfaff87f4d": {
+  "resume": "Avis CERT-EU sur les vulnérabilités critiques de Citrix NetScaler.",
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 50,
+  "action": "Rien",
+  "pourquoi": "Même sujet que l'avis CIRCL.",
+  "doublon_de": "7e663ff1414325eb",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "0f99c7d91b253489": {
+  "resume": "Vulnérabilité critique dans GitLab CE et EE.",
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Générique.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "f28520fa17de590c": {
+  "resume": "Avis CERT-EU sur PHP.",
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Même sujet.",
+  "doublon_de": "b0531f7ed37e6535",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "a2d0c036527805c0": {
+  "resume": "Vulnérabilité critique dans Cisco Secure Email Gateway.",
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Générique.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "fdad3111d34f8e8f": {
+  "resume": "Vulnérabilité critique dans GitLab CE et EE (octobre).",
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 25,
+  "action": "Rien",
+  "pourquoi": "Générique.",
+  "doublon_de": "0f99c7d91b253489",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "f2ec234bb1fdaf13": {
+  "resume": "Vulnérabilité critique dans plusieurs produits Atlassian.",
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Générique.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "5b2e6155f48650a0": {
+  "resume": "Exécution de code à distance dans NGINX pouvant mener à la compromission de l'hôte (CIRCL TR-105, CERT-EU 2026-022).",
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "exigences": [
+   "IS.I.OR.210"
+  ],
+  "perimetre": "Les deux",
+  "score": 50,
+  "action": "Lire",
+  "pourquoi": "Serveur web très répandu ; vérification de routine.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "7296df4a3d8c4061": {
+  "resume": "Corruption mémoire critique dans le décodeur Base64 d'OpenJDK (CIRCL TR-104, CERT-EU 2026-021).",
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 40,
+  "action": "Lire",
+  "pourquoi": "Vulnérabilité générique, à suivre via la veille vulnérabilités habituelle.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "57d457e12742ebda": {
+  "resume": "Exécution de code à distance dans le module mod_http2 d'Apache HTTP Server.",
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 35,
+  "action": "Lire",
+  "pourquoi": "Générique.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "b0531f7ed37e6535": {
+  "resume": "Vulnérabilités critiques d'exécution de code à distance dans PHP (CIRCL TR-102, CERT-EU 2026-018).",
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 35,
+  "action": "Lire",
+  "pourquoi": "Générique.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "6857425fc2054dee": {
+  "resume": "Le CIRCL publie des recommandations de sécurité pour les équipements industriels, OT et IoT.",
+  "tags": [
+   "Vulnérabilité",
+   "Gouvernance"
+  ],
+  "exigences": [
+   "IS.I.OR.210"
+  ],
+  "perimetre": "Entités",
+  "score": 45,
+  "action": "Lire",
+  "pourquoi": "Pertinent pour les aéroports et l'ANA (systèmes techniques, balisage, bagages).",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "7e663ff1414325eb": {
+  "resume": "Plusieurs vulnérabilités critiques dans Citrix NetScaler ADC et Gateway (avis CIRCL TR-100 et CERT-EU 2026-020).",
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "exigences": [
+   "IS.I.OR.210",
+   "IS.AR.210"
+  ],
+  "perimetre": "Les deux",
+  "score": 55,
+  "action": "Suivre",
+  "pourquoi": "Équipement d'accès distant fréquent dans les grandes organisations, cible habituelle des rançongiciels.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "52e717f140dd1108": {
+  "resume": "Campagne d'hameçonnage visant les clients d'hôtels au Luxembourg.",
+  "tags": [
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 20,
+  "action": "Rien",
+  "pourquoi": "Hors aviation.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "d325f31f18816b0d": {
+  "resume": "Le CIRCL signale l'exploitation active de vulnérabilités d'Ivanti Endpoint Manager Mobile (CVE-2026-1281 et CVE-2026-1340).",
+  "tags": [
+   "Vulnérabilité"
+  ],
+  "exigences": [
+   "IS.I.OR.210",
+   "IS.AR.210"
+  ],
+  "perimetre": "Les deux",
+  "score": 60,
+  "action": "Suivre",
+  "pourquoi": "Exploitation active d'un outil de gestion des mobiles répandu : vérifier l'exposition de la DAC et signaler aux entités si besoin.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "c1afa51b72e229fc": {
+  "resume": "Formation CNPD « Data Protection Basics » sur l'intelligence artificielle (complète).",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Formation, sans impact.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "565dea3cfe3298ba": {
+  "resume": "Formation CNPD d'introduction à la protection des données (complète).",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Formation.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "d8951850acd383a3": {
+  "resume": "Formation CNPD sur l'IA (complète).",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Même annonce.",
+  "doublon_de": "c1afa51b72e229fc",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "e35464201083f8e4": {
+  "resume": "La CNPD entre au comité exécutif de la Global Privacy Assembly.",
+  "tags": [
+   "Gouvernance"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 15,
+  "action": "Rien",
+  "pourquoi": "Institutionnel.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "75f478ce615988ca": {
+  "resume": "Formation CNPD « Data Protection Basics » en anglais (complète).",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Formation.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "5281fd9fa79b99df": {
+  "resume": "4e conférence plénière de l'initiative RE.M.I.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "51b5d976122fbe46": {
+  "resume": "Conférence CNPD sur la protection des données comme source de valeur (complète).",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "4bfd7f821ec8e6e3": {
+  "resume": "L'EDPB lance une plateforme européenne « Privacy for Kids ».",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "81a27cd81cb777e0": {
   "resume": "Lors d'un panel relayé par Aviation Week, des experts estiment que la conformité Part-IS demande un changement de culture, pas seulement des solutions techniques.",
   "tags": [
    "Part-IS",
@@ -1789,7 +756,120 @@
   "pourquoi": "Argument directement utile pour la supervision : regarder la gouvernance et la sensibilisation, pas seulement les outils.",
   "analysed_at": "2026-11-21T03:17:41Z"
  },
- "f841fe7c8c75c2f2": {
+ "0e8d4b576e3eb5a3": {
+  "resume": "Malgré le niveau bas du Rhin, l'aéroport ne manque pas de kérosène.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 15,
+  "action": "Rien",
+  "pourquoi": "Continuité d'approvisionnement, sans dimension cyber.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "321c9e9aef212db6": {
+  "resume": "Les interférences GPS font peser un risque sur les vols civils et le transport maritime.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 35,
+  "action": "Lire",
+  "pourquoi": "Contexte général sur la menace GNSS.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "9a1ef0c6d2f16986": {
+  "resume": "L'UNIDIR alerte sur la hausse du brouillage et du leurrage GPS et radio, avec des cas de leurrage en aviation en forte augmentation.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 55,
+  "action": "Lire",
+  "pourquoi": "Chiffres utiles pour argumenter auprès du CISO et des entités.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "35010ae8444ff29b": {
+  "resume": "Le leurrage GPS progresse fortement et menace l'aviation civile.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 35,
+  "action": "Rien",
+  "pourquoi": "Article de synthèse, sans fait nouveau apparent.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "e5e26a6dff27a735": {
+  "resume": "Cambriolage dans les locaux de la police judiciaire, à la Cité policière du Findel.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Sans lien avec l'aviation, malgré le mot « Findel ».",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "af8f39a4db5c3171": {
+  "resume": "Paperjam présente Skypark, le grand projet immobilier du Findel.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Contexte économique de la zone aéroportuaire.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "c14214149456db10": {
+  "resume": "La police luxembourgeoise victime d'un cambriolage.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Même fait.",
+  "doublon_de": "e5e26a6dff27a735",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "f35749a4aa7bd0ec": {
+  "resume": "Cambriolage à la police judiciaire au Findel.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors aviation.",
+  "doublon_de": "e5e26a6dff27a735",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "9e64a79a750e5379": {
+  "resume": "Vol par effraction à la Cité policière du Findel.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Même fait.",
+  "doublon_de": "e5e26a6dff27a735",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "64438601a0d6cae0": {
   "resume": "Un article sur ce que Part-IS impliquerait avant d'adopter un assistant IA (sur site ou isolé) dans l'aviation et la défense.",
   "tags": [
    "Part-IS",
@@ -1805,7 +885,203 @@
   "pourquoi": "Point de vue d'un fournisseur, à lire avec recul ; le sujet de l'IA chez les entités supervisées va revenir.",
   "analysed_at": "2026-11-21T03:17:41Z"
  },
- "0aa70f36391f75f8": {
+ "b635f19e0004107e": {
+  "resume": "Le Findel rejoint l'association Aéro Biodiversité.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "e40a7b519ff40063": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "72d88cf42a36b244": {
+  "resume": "airBaltic annonce l'exposition d'environ 618 000 réservations via un prestataire informatique.",
+  "tags": [
+   "Incident",
+   "Fournisseur",
+   "Supply chain"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 65,
+  "action": "Suivre",
+  "pourquoi": "Compagnie européenne touchée par un tiers : vérifier s'il s'agit du même incident Amadeus et si des prestataires communs existent au Luxembourg.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "f956ed2eb62a2913": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "06d749882508207b": {
+  "resume": "Des chercheurs testent l'IA pour détecter le leurrage GPS sur les drones.",
+  "tags": [
+   "GNSS",
+   "Drones"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 25,
+  "action": "Rien",
+  "pourquoi": "Recherche, sans impact direct.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "01c3d53f64144e15": {
+  "resume": "La Moldavie forme ses inspecteurs de l'aviation civile aux exigences Part-IS de l'EASA.",
+  "tags": [
+   "Part-IS",
+   "Gouvernance"
+  ],
+  "exigences": [
+   "IS.AR.225"
+  ],
+  "perimetre": "DAC",
+  "score": 55,
+  "action": "Lire",
+  "pourquoi": "Exemple d'une autre autorité qui monte en compétence : utile pour le plan de formation des inspecteurs de la DAC.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "92035ee2ffd7ee80": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "c504a22d9d5d1f20": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "59cd72695c5345e4": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "86c952a295895842": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "8dc16f3d0f0ebfc3": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "eb2d8f6e8c641ba4": {
+  "resume": "Offre de recrutement de personnel navigant chez Cargolux.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "f1a1f83fe0d1d730": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "1d2064f78899a993": {
   "resume": "Le plan EASA–EUROCONTROL contre les interférences GNSS compte 22 actions ; l'IFALPA demande de conserver VOR, DME et ILS comme moyens de secours.",
   "tags": [
    "GNSS",
@@ -1819,7 +1095,104 @@
   "doublon_de": "281915022ccafb48",
   "analysed_at": "2026-11-21T03:17:41Z"
  },
- "eb269ce49e90d1cc": {
+ "b46d726562e1dc21": {
+  "resume": "Cargolux transporte des œuvres pour le MNAHA.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "a708133557b30749": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "e80ce4e783184113": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "3e7ed519ba942c8a": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "2b70c07be3e033ac": {
+  "resume": "Une compagnie prévoit des vols vers l'Italie, en attendant une autorisation de l'EASA.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:17:41Z"
+ },
+ "3e6846e76d493a64": {
+  "resume": "Le Quotidien décrit une tour de contrôle du Findel « dans le rouge ».",
+  "tags": [
+   "Acteur LU",
+   "Gouvernance"
+  ],
+  "exigences": [],
+  "perimetre": "Entités",
+  "score": 45,
+  "action": "Suivre",
+  "pourquoi": "Si le sujet porte sur les effectifs ou les moyens de l'ANA, il peut peser sur sa capacité à mettre en œuvre Part-IS : à lire pour comprendre.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "d944d8636ac7cdc7": {
+  "resume": "Retour historique sur les débuts de l'aéroport du Findel.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Culture générale.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "bee57f18da12b48e": {
   "resume": "L'IATA publie une présentation des nouvelles exigences de sécurité de l'information de Part-IS.",
   "tags": [
    "Part-IS"
@@ -1833,7 +1206,433 @@
   "pourquoi": "Montre comment les compagnies comprennent Part-IS : utile pour anticiper les questions des opérateurs supervisés.",
   "analysed_at": "2026-11-21T03:17:41Z"
  },
- "139a86788fb2921c": {
+ "70c3f3960819c135": {
+  "resume": "Spectacle d'une artiste nommée Linda Findel à Strasbourg (faux positif).",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "904dfc7e6eeb2285": {
+  "resume": "Une intrusion chez Amadeus, fournisseur espagnol de systèmes de réservation, expose les données de réservation de nombreuses compagnies : Singapore Airlines, Cathay Pacific, Malaysia Airlines, Japan Airlines, Thai Airways, SAS, Korean Air, Caribbean Airlines… Les compagnies publient leurs notifications au fil de l'eau depuis fin octobre.",
+  "tags": [
+   "Incident",
+   "Fournisseur",
+   "Supply chain"
+  ],
+  "exigences": [
+   "IS.I.OR.235",
+   "IS.I.OR.205",
+   "IS.I.OR.230"
+  ],
+  "perimetre": "Entités",
+  "score": 85,
+  "action": "Informer le CISO",
+  "pourquoi": "Cas d'école de risque fournisseur pour Part-IS : vérifier quelles entités supervisées luxembourgeoises dépendent d'Amadeus et si l'incident a été notifié ou évalué de leur côté.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "34bd3b92b25b4b4a": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "9fa8469b152ca64b": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "212a8018a12e9958": {
+  "resume": "630 000 passagers attendus au Findel pendant la période de pointe.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "b3d603775be7f99c": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "c31189f8e0c0f132": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "39af2d9d62bba0a0": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "19fdeeca24ebf15e": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "7e4a3d25e25b39c2": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "06589806413586a6": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "f17ab9289758a5aa": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "e4ca320b595721b4": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "893469c526e9178b": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "c423d43c9c4e73d0": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "609bacce7fd79898": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "b656e4a2c5a22808": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "65069275ad7a6b1d": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "47b744c668ada718": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "e875ad2492cbf85f": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "b0e8eab4daf996a3": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "03d9a7b7c867c244": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "44fdcbf412b2352d": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "47b2b936deb2036a": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "097fa04459b96c1b": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "b49932ece1c5902e": {
+  "resume": "Malaysia Airlines prévient d'une possible exposition de données liée à la fuite Amadeus.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "1b7764ed9c5ae724": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "c5e67f7408c88e67": {
   "resume": "Sofema propose une formation de deux jours sur le cadre réglementaire EASA de l'assistance en escale.",
   "tags": [
    "Contexte"
@@ -1845,7 +1644,301 @@
   "pourquoi": "Offre commerciale, hors Part-IS.",
   "analysed_at": "2026-11-21T03:17:41Z"
  },
- "7a8632703937f51a": {
+ "c59ddd5ec1ac5127": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "df4df34152f3718f": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "779e2e9cf8352a70": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "7d134cbb35f48079": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "c5c52be019bf3dc9": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "a4f2d515325ad341": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "98030539383d8e8f": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "81d19e875bcab63e": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "ccc25d9e23e3c675": {
+  "resume": "Luxair fera voler deux Airbus cet hiver par mesure de précaution.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 20,
+  "action": "Rien",
+  "pourquoi": "Exploitation, hors cyber.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "488ada17c642cf35": {
+  "resume": "Incident de train d'atterrissage sur un Boeing Cargolux au Findel.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 25,
+  "action": "Rien",
+  "pourquoi": "Même incident.",
+  "doublon_de": "2a2cfc58fa90ef14",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "a512497c659c4f10": {
+  "resume": "Nouvelle destination sans escale vers le Moyen-Orient depuis le Findel.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "c1968d3e10abe480": {
+  "resume": "Article sur la fuite de données Amadeus et une des compagnies touchées.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Même incident que le sujet principal Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "cabb6fae5af7582a": {
+  "resume": "Incident de train d'atterrissage sur un Boeing Cargolux au Findel.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 25,
+  "action": "Rien",
+  "pourquoi": "Même incident.",
+  "doublon_de": "2a2cfc58fa90ef14",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "2a2cfc58fa90ef14": {
+  "resume": "Le train d'atterrissage d'un Boeing 747-8F de Cargolux s'est affaissé à l'arrêt au Findel ; des contrôles sont lancés sur toute la flotte.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Incident de navigabilité, sans dimension cyber.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "c0e8e4bac199d52b": {
+  "resume": "Incident de train d'atterrissage sur un Boeing Cargolux au Findel.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 25,
+  "action": "Rien",
+  "pourquoi": "Même incident.",
+  "doublon_de": "2a2cfc58fa90ef14",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "8f1c7d75442afd0b": {
+  "resume": "Le Luxembourg étudie la mise en place de contrôles américains (prédédouanement) au Findel.",
+  "tags": [
+   "Acteur LU",
+   "Gouvernance"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 45,
+  "action": "Suivre",
+  "pourquoi": "Un tel dispositif impliquerait de nouveaux flux de données passagers et des systèmes partagés à sécuriser.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "bb848cfe7a05dd2e": {
+  "resume": "Jeu-concours avec des bons Luxair (faux positif).",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "edaf4faa98d33269": {
+  "resume": "Portrait d'une famille de pilotes chez Cargolux et Luxair.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "f5d4a7f6b23890a4": {
+  "resume": "Skyband chiffre le brouillage GPS subi par l'aviation d'affaires.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Entités",
+  "score": 50,
+  "action": "Lire",
+  "pourquoi": "L'aviation d'affaires est très présente au Luxembourg (Luxaviation, Global Jet, Jetfly) : chiffres utiles pour ces opérateurs.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "fc77d9cf865a2492": {
+  "resume": "Luxair met son nouvel avion sur la ligne Luxembourg–Londres.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "d542038389a9b72e": {
+  "resume": "Exécution de code à distance dans Thales SConnect (CVE-2026-18397), produit utilisé notamment pour SWIFT.",
+  "tags": [
+   "Vulnérabilité",
+   "Fournisseur"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 40,
+  "action": "Lire",
+  "pourquoi": "Thales est un fournisseur aviation, mais ce produit vise surtout la banque.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "a97ffb2bf257e220": {
   "resume": "Inscriptions à l'atelier SCOPE de la conférence EATS 2026.",
   "tags": [
    "Contexte"
@@ -1857,7 +1950,7 @@
   "pourquoi": "Événement de formation, hors sujet.",
   "analysed_at": "2026-11-21T03:17:41Z"
  },
- "ad8cd948875b655b": {
+ "83d5a14858b9cfcd": {
   "resume": "L'industrie aérospatiale intègre l'IA dans la conception des aéronefs, avec des lacunes réglementaires.",
   "tags": [
    "Contexte"
@@ -1869,115 +1962,35 @@
   "pourquoi": "Contexte.",
   "analysed_at": "2026-11-21T03:17:41Z"
  },
- "a943c32d7de7ca61": {
-  "resume": "Une compagnie prévoit des vols vers l'Italie, en attendant une autorisation de l'EASA.",
+ "148c52c5829ed5a6": {
+  "resume": "Un échange radio entre Cargolux et Cathay amuse les réseaux sociaux.",
   "tags": [
-   "Contexte"
+   "Acteur LU"
   ],
   "exigences": [],
   "perimetre": "Contexte",
   "score": 5,
   "action": "Rien",
   "pourquoi": "Hors sujet.",
-  "analysed_at": "2026-11-21T03:17:41Z"
- },
- "cb7863fa7984169c": {
-  "resume": "La FAA ordonne des inspections des entrées d'air sur certains A330 motorisés par Trent 700.",
-  "tags": [
-   "Contexte"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 5,
-  "action": "Rien",
-  "pourquoi": "Navigabilité, hors sujet.",
-  "analysed_at": "2026-11-21T03:17:41Z"
- },
- "88e8cf1fca8ab3cf": {
-  "resume": "Au moins trois drones détectés lors d'une nouvelle interruption du trafic au Findel.",
-  "tags": [
-   "Drones",
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Les deux",
-  "score": 60,
-  "action": "Rien",
-  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
-  "doublon_de": "c31d3ff2d7bd94c3",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "507e7c5e158f0540": {
-  "resume": "Le Findel temporairement fermé un lundi soir après une nouvelle détection de drones.",
+ "7e5abf6fe91b55b7": {
+  "resume": "Après des survols de drones qui ont fermé l'aéroport de Luxembourg-Findel en septembre 2026, des témoins parlent d'« engins d'envergure », pas de petits drones privés.",
   "tags": [
    "Drones",
-   "Acteur LU"
+   "Acteur LU",
+   "Menace"
   ],
-  "exigences": [],
-  "perimetre": "Les deux",
-  "score": 60,
-  "action": "Rien",
-  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
-  "doublon_de": "c31d3ff2d7bd94c3",
-  "analysed_at": "2026-11-21T03:49:37Z"
- },
- "b8b983e742cb6411": {
-  "resume": "Trafic interrompu pendant des heures au Findel à cause de drones non identifiés.",
-  "tags": [
-   "Drones",
-   "Acteur LU"
+  "exigences": [
+   "IS.I.OR.220"
   ],
-  "exigences": [],
   "perimetre": "Les deux",
-  "score": 60,
-  "action": "Rien",
-  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
-  "doublon_de": "c31d3ff2d7bd94c3",
-  "analysed_at": "2026-11-21T03:49:37Z"
+  "score": 72,
+  "action": "Suivre",
+  "pourquoi": "Menace hybride sur une entité supervisée : suivre le retour d'expérience de lux-Airport et de l'ANA (détection, réponse, coordination avec les autorités).",
+  "analysed_at": "2026-11-21T03:17:11Z"
  },
- "65c40a98bae92580": {
-  "resume": "17 vols Luxair déroutés et plus de 1 800 passagers touchés par la fermeture liée aux drones.",
-  "tags": [
-   "Drones",
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Les deux",
-  "score": 60,
-  "action": "Rien",
-  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
-  "doublon_de": "c31d3ff2d7bd94c3",
-  "analysed_at": "2026-11-21T03:49:37Z"
- },
- "01cdc02e415348cf": {
-  "resume": "Le Findel à l'arrêt un vendredi soir, des drones soupçonnés.",
-  "tags": [
-   "Drones",
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Les deux",
-  "score": 60,
-  "action": "Rien",
-  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
-  "doublon_de": "c31d3ff2d7bd94c3",
-  "analysed_at": "2026-11-21T03:49:37Z"
- },
- "239cc5510738337e": {
-  "resume": "Des drones non identifiés ont mis le Findel à l'arrêt.",
-  "tags": [
-   "Drones",
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Les deux",
-  "score": 60,
-  "action": "Rien",
-  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
-  "doublon_de": "c31d3ff2d7bd94c3",
-  "analysed_at": "2026-11-21T03:49:37Z"
- },
- "ad61adf503f79cc1": {
+ "1b557c02a1777070": {
   "resume": "Selon L'essentiel, les survols de drones près du Findel sont assez fréquents.",
   "tags": [
    "Drones",
@@ -1988,10 +2001,10 @@
   "score": 60,
   "action": "Rien",
   "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
-  "doublon_de": "c31d3ff2d7bd94c3",
+  "doublon_de": "7e5abf6fe91b55b7",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "ba1c0886e4f6ead6": {
+ "ab52fe1f058b724c": {
   "resume": "Un expert estime naïf d'exclure une ingérence russe derrière les survols de drones du Findel.",
   "tags": [
    "Drones",
@@ -2007,7 +2020,49 @@
   "pourquoi": "La piste d'une menace étatique hybride relève aussi de l'appréciation des risques des entités (aéroport, ANA).",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "b1a7c85582cefe0a": {
+ "65b89761fd96a613": {
+  "resume": "Le Findel de nouveau fermé après des signalements de drones.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 65,
+  "action": "Rien",
+  "pourquoi": "Même épisode de septembre.",
+  "doublon_de": "7e5abf6fe91b55b7",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "4055a85a55b66392": {
+  "resume": "Au moins trois drones détectés lors d'une nouvelle interruption du trafic au Findel.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 60,
+  "action": "Rien",
+  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
+  "doublon_de": "7e5abf6fe91b55b7",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "bc19cef5dcb59fa5": {
+  "resume": "Le Findel temporairement fermé un lundi soir après une nouvelle détection de drones.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 60,
+  "action": "Rien",
+  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
+  "doublon_de": "7e5abf6fe91b55b7",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "4d8e00ae9b7b638a": {
   "resume": "Abattre un drone au-dessus d'un aéroport présente un risque important au sol.",
   "tags": [
    "Drones"
@@ -2019,125 +2074,104 @@
   "pourquoi": "Éclaire les options de réponse aux drones, hors sécurité de l'information.",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "b20189f4539f03f2": {
-  "resume": "Le Quotidien décrit une tour de contrôle du Findel « dans le rouge ».",
+ "9d154eaa5c972319": {
+  "resume": "Brouillage et leurrage GPS sur deux vols au-dessus de la Suède.",
   "tags": [
-   "Acteur LU",
-   "Gouvernance"
+   "GNSS"
   ],
   "exigences": [],
-  "perimetre": "Entités",
+  "perimetre": "Contexte",
   "score": 45,
-  "action": "Suivre",
-  "pourquoi": "Si le sujet porte sur les effectifs ou les moyens de l'ANA, il peut peser sur sa capacité à mettre en œuvre Part-IS : à lire pour comprendre.",
-  "analysed_at": "2026-11-21T03:49:37Z"
+  "action": "Rien",
+  "pourquoi": "Même épisode suédois.",
+  "doublon_de": "5e63b8ff2012bf26",
+  "analysed_at": "2026-11-21T03:17:11Z"
  },
- "5a892e5aa7c0f794": {
-  "resume": "Le train d'atterrissage d'un Boeing 747-8F de Cargolux s'est affaissé à l'arrêt au Findel ; des contrôles sont lancés sur toute la flotte.",
+ "619b24a324995973": {
+  "resume": "Vols suspendus à l'aéroport de Luxembourg à cause de drones.",
   "tags": [
+   "Drones",
    "Acteur LU"
   ],
   "exigences": [],
-  "perimetre": "Contexte",
-  "score": 30,
+  "perimetre": "Les deux",
+  "score": 65,
   "action": "Rien",
-  "pourquoi": "Incident de navigabilité, sans dimension cyber.",
-  "analysed_at": "2026-11-21T03:49:37Z"
+  "pourquoi": "Même épisode de septembre.",
+  "doublon_de": "7e5abf6fe91b55b7",
+  "analysed_at": "2026-11-21T03:17:11Z"
  },
- "8c2a8c05910a74e0": {
-  "resume": "Incident de train d'atterrissage sur un Boeing Cargolux au Findel.",
+ "ccea3829feaccfe9": {
+  "resume": "Trafic interrompu pendant des heures au Findel à cause de drones non identifiés.",
   "tags": [
+   "Drones",
    "Acteur LU"
   ],
   "exigences": [],
-  "perimetre": "Contexte",
-  "score": 25,
+  "perimetre": "Les deux",
+  "score": 60,
   "action": "Rien",
-  "pourquoi": "Même incident.",
-  "doublon_de": "5a892e5aa7c0f794",
+  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
+  "doublon_de": "7e5abf6fe91b55b7",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "dbae2c28e27fabb9": {
-  "resume": "Incident de train d'atterrissage sur un Boeing Cargolux au Findel.",
+ "1c1c2d5b9e022c69": {
+  "resume": "17 vols Luxair déroutés et plus de 1 800 passagers touchés par la fermeture liée aux drones.",
   "tags": [
+   "Drones",
    "Acteur LU"
   ],
   "exigences": [],
-  "perimetre": "Contexte",
-  "score": 25,
+  "perimetre": "Les deux",
+  "score": 60,
   "action": "Rien",
-  "pourquoi": "Même incident.",
-  "doublon_de": "5a892e5aa7c0f794",
+  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
+  "doublon_de": "7e5abf6fe91b55b7",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "48e1909d4c653d9a": {
-  "resume": "Incident de train d'atterrissage sur un Boeing Cargolux au Findel.",
+ "0db96ab7f944daf2": {
+  "resume": "Le Findel à l'arrêt un vendredi soir, des drones soupçonnés.",
   "tags": [
+   "Drones",
    "Acteur LU"
   ],
   "exigences": [],
-  "perimetre": "Contexte",
-  "score": 25,
+  "perimetre": "Les deux",
+  "score": 60,
   "action": "Rien",
-  "pourquoi": "Même incident.",
-  "doublon_de": "5a892e5aa7c0f794",
+  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
+  "doublon_de": "7e5abf6fe91b55b7",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "2dc805a0ec942273": {
-  "resume": "Luxair fera voler deux Airbus cet hiver par mesure de précaution.",
+ "4852161ea53a3ab1": {
+  "resume": "Des drones non identifiés ont mis le Findel à l'arrêt.",
   "tags": [
+   "Drones",
    "Acteur LU"
   ],
   "exigences": [],
-  "perimetre": "Contexte",
-  "score": 20,
+  "perimetre": "Les deux",
+  "score": 60,
   "action": "Rien",
-  "pourquoi": "Exploitation, hors cyber.",
+  "pourquoi": "Même série d'incidents de drones au Findel (septembre 2026).",
+  "doublon_de": "7e5abf6fe91b55b7",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "e0e425464c6b76cc": {
-  "resume": "Luxair investit plus d'un milliard d'euros dans sa flotte, sans stratégie claire selon Virgule.",
+ "5e63b8ff2012bf26": {
+  "resume": "Plusieurs vols signalent du brouillage GPS dans l'espace aérien suédois en 24 heures (17-18 septembre 2026).",
   "tags": [
-   "Acteur LU"
+   "GNSS",
+   "Menace"
   ],
   "exigences": [],
   "perimetre": "Contexte",
-  "score": 25,
-  "action": "Rien",
-  "pourquoi": "Contexte : une flotte neuve amène des avions plus connectés.",
-  "analysed_at": "2026-11-21T03:49:37Z"
+  "score": 50,
+  "action": "Lire",
+  "pourquoi": "Illustre l'extension de la zone de brouillage autour de la Baltique, utile pour les opérateurs luxembourgeois qui la survolent.",
+  "analysed_at": "2026-11-21T03:17:11Z"
  },
- "7122a9e8b6faa889": {
-  "resume": "Luxair va renouveler entièrement sa flotte pour plus d'un milliard d'euros.",
-  "tags": [
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 20,
-  "action": "Rien",
-  "pourquoi": "Même annonce.",
-  "doublon_de": "e0e425464c6b76cc",
-  "analysed_at": "2026-11-21T03:49:37Z"
- },
- "991c759282ce4199": {
-  "resume": "Malaysia Airlines prévient d'une possible exposition de données liée à la fuite Amadeus.",
-  "tags": [
-   "Incident",
-   "Fournisseur"
-  ],
-  "exigences": [
-   "IS.I.OR.235"
-  ],
-  "perimetre": "Entités",
-  "score": 55,
-  "action": "Rien",
-  "pourquoi": "Même incident Amadeus.",
-  "doublon_de": "5b7506c4b95e2fe9",
-  "analysed_at": "2026-11-21T03:49:37Z"
- },
- "aaa72d280bfea43a": {
-  "resume": "Cambriolage à la police judiciaire au Findel.",
+ "f702c6d29734d221": {
+  "resume": "La FAA ordonne des inspections des entrées d'air sur certains A330 motorisés par Trent 700.",
   "tags": [
    "Contexte"
   ],
@@ -2145,119 +2179,22 @@
   "perimetre": "Contexte",
   "score": 5,
   "action": "Rien",
-  "pourquoi": "Hors aviation.",
-  "doublon_de": "f4ed5a956a82ed6a",
-  "analysed_at": "2026-11-21T03:49:37Z"
+  "pourquoi": "Navigabilité, hors sujet.",
+  "analysed_at": "2026-11-21T03:17:41Z"
  },
- "34dedda0cf68775d": {
-  "resume": "Le Findel rejoint l'association Aéro Biodiversité.",
+ "5e986744f04a60b6": {
+  "resume": "Analyse des conséquences juridiques du leurrage GPS contre des aéronefs civils indiens.",
   "tags": [
-   "Acteur LU"
+   "GNSS"
   ],
   "exigences": [],
   "perimetre": "Contexte",
-  "score": 5,
+  "score": 25,
   "action": "Rien",
-  "pourquoi": "Hors sujet.",
-  "analysed_at": "2026-11-21T03:49:37Z"
+  "pourquoi": "Contexte juridique international.",
+  "analysed_at": "2026-11-21T03:17:11Z"
  },
- "d5bdfd1d1db524a1": {
-  "resume": "Cargolux transporte des œuvres pour le MNAHA.",
-  "tags": [
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 5,
-  "action": "Rien",
-  "pourquoi": "Hors sujet.",
-  "analysed_at": "2026-11-21T03:49:37Z"
- },
- "c594b4d843fd7665": {
-  "resume": "Spectacle d'une artiste nommée Linda Findel à Strasbourg (faux positif).",
-  "tags": [
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 5,
-  "action": "Rien",
-  "pourquoi": "Hors sujet.",
-  "analysed_at": "2026-11-21T03:49:37Z"
- },
- "0f4475cdf56f078f": {
-  "resume": "630 000 passagers attendus au Findel pendant la période de pointe.",
-  "tags": [
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 5,
-  "action": "Rien",
-  "pourquoi": "Hors sujet.",
-  "analysed_at": "2026-11-21T03:49:37Z"
- },
- "67f331bdf25d96e6": {
-  "resume": "Nouvelle destination sans escale vers le Moyen-Orient depuis le Findel.",
-  "tags": [
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 5,
-  "action": "Rien",
-  "pourquoi": "Hors sujet.",
-  "analysed_at": "2026-11-21T03:49:37Z"
- },
- "e011bcf1127ef100": {
-  "resume": "Jeu-concours avec des bons Luxair (faux positif).",
-  "tags": [
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 5,
-  "action": "Rien",
-  "pourquoi": "Hors sujet.",
-  "analysed_at": "2026-11-21T03:49:37Z"
- },
- "58c73d5847386f03": {
-  "resume": "Portrait d'une famille de pilotes chez Cargolux et Luxair.",
-  "tags": [
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 5,
-  "action": "Rien",
-  "pourquoi": "Hors sujet.",
-  "analysed_at": "2026-11-21T03:49:37Z"
- },
- "f3f689f7eb37aac6": {
-  "resume": "Luxair met son nouvel avion sur la ligne Luxembourg–Londres.",
-  "tags": [
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 5,
-  "action": "Rien",
-  "pourquoi": "Hors sujet.",
-  "analysed_at": "2026-11-21T03:49:37Z"
- },
- "1f9966b9dc55576c": {
-  "resume": "Un échange radio entre Cargolux et Cathay amuse les réseaux sociaux.",
-  "tags": [
-   "Acteur LU"
-  ],
-  "exigences": [],
-  "perimetre": "Contexte",
-  "score": 5,
-  "action": "Rien",
-  "pourquoi": "Hors sujet.",
-  "analysed_at": "2026-11-21T03:49:37Z"
- },
- "1eba85ce43515f8c": {
+ "af806bd5b027a3e6": {
   "resume": "L'association AéroRiverains réclame la fin des vols de nuit au Findel.",
   "tags": [
    "Acteur LU"
@@ -2269,7 +2206,7 @@
   "pourquoi": "Actualité de l'écosystème luxembourgeois, sans enjeu de sécurité de l'information.",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "fd3c3856f7523cc3": {
+ "e6f6298a693df29b": {
   "resume": "Nouvelle destination vers les Balkans au départ du Luxembourg.",
   "tags": [
    "Acteur LU"
@@ -2281,7 +2218,7 @@
   "pourquoi": "Hors sujet.",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "bbf0269440c16663": {
+ "09425a52d04ac98e": {
   "resume": "Luxair lance une liaison directe vers l'Albanie.",
   "tags": [
    "Acteur LU"
@@ -2293,7 +2230,7 @@
   "pourquoi": "Hors sujet.",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "5e50d24dedc3f361": {
+ "f75623726620ef99": {
   "resume": "Luxair annonce une nouvelle liaison pour l'été 2027.",
   "tags": [
    "Acteur LU"
@@ -2305,7 +2242,19 @@
   "pourquoi": "Hors sujet.",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "0477313524f4866f": {
+ "b005f84bb033b2a4": {
+  "resume": "Luxair investit plus d'un milliard d'euros dans sa flotte, sans stratégie claire selon Virgule.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 25,
+  "action": "Rien",
+  "pourquoi": "Contexte : une flotte neuve amène des avions plus connectés.",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "85a7e7754fb67178": {
   "resume": "Luxair reporte ses vols vers Abou Dhabi prévus en octobre.",
   "tags": [
    "Acteur LU"
@@ -2317,7 +2266,7 @@
   "pourquoi": "Actualité de l'écosystème luxembourgeois, sans enjeu de sécurité de l'information.",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "2cc271a9db8cd8a6": {
+ "f56a77bb3b98e71f": {
   "resume": "Revue de presse sur plusieurs compagnies, dont Luxair.",
   "tags": [
    "Acteur LU"
@@ -2329,7 +2278,32 @@
   "pourquoi": "Hors sujet.",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "d2b5bf03f228ea35": {
+ "ad66340289abace6": {
+  "resume": "Luxair va renouveler entièrement sa flotte pour plus d'un milliard d'euros.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 20,
+  "action": "Rien",
+  "pourquoi": "Même annonce.",
+  "doublon_de": "b005f84bb033b2a4",
+  "analysed_at": "2026-11-21T03:49:37Z"
+ },
+ "623fe7c10e2bd963": {
+  "resume": "Les prix des futurs billets Luxembourg–New York.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "aa1038e2607e1376": {
   "resume": "Des bombardiers d'eau transportés par Cargolux font polémique en Belgique.",
   "tags": [
    "Acteur LU"
@@ -2341,7 +2315,21 @@
   "pourquoi": "Hors sujet.",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "f238acdaed0c991f": {
+ "0155733594dee5b0": {
+  "resume": "Comment le brouillage GPS et les drones créent de nouvelles menaces pour l'aviation civile.",
+  "tags": [
+   "GNSS",
+   "Drones",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 35,
+  "action": "Lire",
+  "pourquoi": "Bon article de culture générale.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "1b0b7c14b4a0bf5a": {
   "resume": "L'Etna oblige Luxair à réorganiser ses vols.",
   "tags": [
    "Acteur LU"
@@ -2353,7 +2341,7 @@
   "pourquoi": "Hors sujet.",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "8bb73f5e0a6ecb42": {
+ "d7d7d3bf4dfedf00": {
   "resume": "Luxair annonce des retards possibles sur les vols vers Barcelone.",
   "tags": [
    "Acteur LU"
@@ -2365,7 +2353,19 @@
   "pourquoi": "Hors sujet.",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "d96e541b9d36844e": {
+ "3e4cd7cd737bc1ec": {
+  "resume": "Des élus du Nouveau-Mexique demandent des informations sur le brouillage GPS militaire avant un accident mortel.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 20,
+  "action": "Rien",
+  "pourquoi": "Contexte américain.",
+  "analysed_at": "2026-11-21T03:17:11Z"
+ },
+ "aa298dd59eae1793": {
   "resume": "Des militants détournent le tableau des départs du Findel pour une action climat.",
   "tags": [
    "Acteur LU"
@@ -2377,7 +2377,7 @@
   "pourquoi": "Action militante sur l'affichage : vérifier s'il s'agissait d'un détournement réel du système d'affichage ou d'une simple mise en scène.",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "80e04df2e9caf5f5": {
+ "62e12193816ab771": {
   "resume": "Deux atterrissages d'urgence en une semaine au Findel, pour la même raison.",
   "tags": [
    "Acteur LU"
@@ -2389,16 +2389,292 @@
   "pourquoi": "Actualité de l'écosystème luxembourgeois, sans enjeu de sécurité de l'information.",
   "analysed_at": "2026-11-21T03:49:37Z"
  },
- "5091be44979d4d27": {
-  "resume": "Un avion EasyJet contraint d'atterrir d'urgence au Findel.",
+ "53438fa2f38b36f2": {
+  "resume": "Singapore Airlines rejoint la liste des compagnies touchées par la fuite Amadeus.",
   "tags": [
-   "Acteur LU"
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus.",
+  "doublon_de": "5b7506c4b95e2fe9",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "7beca0dea73a2f1d": {
+  "resume": "Qantas et Cathay Pacific parmi les compagnies touchées par la cyberattaque Amadeus.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus.",
+  "doublon_de": "5b7506c4b95e2fe9",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "a37fd65da861dd83": {
+  "resume": "Données de réservation de Korean Air et Asiana exposées via un compte Amadeus compromis.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus.",
+  "doublon_de": "5b7506c4b95e2fe9",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "ef1ec186843c96cc": {
+  "resume": "Le gouvernement luxembourgeois a informé les victimes potentielles d'une attaque informatique, selon L'essentiel (10 novembre).",
+  "tags": [
+   "Incident",
+   "Acteur LU",
+   "Gouvernance"
+  ],
+  "exigences": [
+   "IS.AR.215"
+  ],
+  "perimetre": "Contexte",
+  "score": 62,
+  "action": "Suivre",
+  "pourquoi": "Incident touchant l'État luxembourgeois : vérifier si des administrations ou des entités du secteur aérien sont concernées et comment la notification a été gérée.",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "e911fff3f5e4dfb5": {
+  "resume": "ONU Info : la lutte pour le contrôle des signaux GPS et radio inquiète pour la sécurité des civils.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 45,
+  "action": "Lire",
+  "pourquoi": "Version ONU du rapport de l'UNIDIR sur le brouillage et le leurrage.",
+  "doublon_de": "165ad1fc7951c366",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "e56c2c4d317ba028": {
+  "resume": "L'ICAO plaide pour des cadres réglementaires plus solides afin de renforcer l'aviation civile mondiale.",
+  "tags": [
+   "Réglementation",
+   "Gouvernance"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 35,
+  "action": "Lire",
+  "pourquoi": "Contexte de supervision ; à parcourir pour y repérer la cybersécurité.",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "394787f3837ccccb": {
+  "resume": "L'Éthiopie, l'Indonésie, Oman et la Türkiye élus au Conseil de l'ICAO.",
+  "tags": [
+   "Réglementation"
   ],
   "exigences": [],
   "perimetre": "Contexte",
   "score": 15,
   "action": "Rien",
-  "pourquoi": "Actualité de l'écosystème luxembourgeois, sans enjeu de sécurité de l'information.",
-  "analysed_at": "2026-11-21T03:49:37Z"
+  "pourquoi": "Institutionnel.",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "b0f9093cb5009d91": {
+  "resume": "Les gouvernements cherchent plus de croissance via des réformes du transport aérien mondial.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Économie du transport aérien, hors cyber.",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "25bbc012c563ee09": {
+  "resume": "Les États membres de l'ICAO identifient des réformes pour l'innovation et la durabilité.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Économie du transport aérien, hors cyber.",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "5aee8e100221c5c4": {
+  "resume": "Les délégués soutiennent un leadership renouvelé de l'ICAO pour l'investissement et la connectivité.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Économie du transport aérien, hors cyber.",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "a830ec0aa509699c": {
+  "resume": "Un sommet mondial cherche un modèle économique durable pour la croissance de l'aviation.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Économie du transport aérien, hors cyber.",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "8ac115eab06ef677": {
+  "resume": "Une réforme économique mondiale est jugée essentielle pour transformer le transport aérien.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Économie du transport aérien, hors cyber.",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "9e3eaad18b49546f": {
+  "resume": "Une exposition de l'ICAO montre les progrès vers zéro décès dans l'aviation.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Sécurité des vols, hors cyber.",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "9d59cfd40699bdd4": {
+  "resume": "Résumé des travaux du Conseil de gouvernement du 20 novembre 2026.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 20,
+  "action": "Rien",
+  "pourquoi": "À parcourir seulement si un point concerne l'aviation ou la cybersécurité.",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "95b1b58603bf0768": {
+  "resume": "Cargolux transporte des lions (actualité de fret).",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "bab32689ff2f452a": {
+  "resume": "Page générale des administrations sur gouvernement.lu.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Page institutionnelle, pas une actualité.",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "2379545e42cff1f1": {
+  "resume": "Page aviation civile de l'Administration des enquêtes techniques (AET).",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 20,
+  "action": "Rien",
+  "pourquoi": "L'AET enquête sur les accidents ; pas une actualité.",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "98654fdc49b5a145": {
+  "resume": "FAQ drones de la DAC.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Page institutionnelle de la DAC, pas une actualité.",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "372e0df6ae3fc7f1": {
+  "resume": "Page DAC sur la catégorie spécifique des drones.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Page institutionnelle de la DAC, pas une actualité.",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "1e78157c83e9eeb7": {
+  "resume": "Page drones de la DAC.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Page institutionnelle de la DAC, pas une actualité.",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "810f10c65aa0dc37": {
+  "resume": "Page DAC sur la formation des télépilotes.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Page institutionnelle de la DAC, pas une actualité.",
+  "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "c670ef24ff58a32d": {
+  "resume": "Page DAC sur l'enregistrement des exploitants de drones.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Page institutionnelle de la DAC, pas une actualité.",
+  "analysed_at": "2026-11-22T03:48:59Z"
  }
 }

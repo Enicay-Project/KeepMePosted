@@ -8,15 +8,15 @@
     "note": "À lire en priorité et à transmettre au CISO : c'est le texte de référence européen contre le brouillage GNSS."
    },
    {
-    "id": "5b7506c4b95e2fe9",
+    "id": "904dfc7e6eeb2285",
     "note": "Lister les entités luxembourgeoises qui utilisent Amadeus, puis vérifier évaluation et notification (IS.I.OR.235, IS.I.OR.230)."
    },
    {
-    "id": "5158f992c19fe04d",
+    "id": "81a27cd81cb777e0",
     "note": "Argument pour le CISO : superviser la gouvernance et la culture, pas seulement la technique."
    },
    {
-    "id": "0ece1115f46f98fc",
+    "id": "72d88cf42a36b244",
     "note": "Identifier le prestataire en cause et vérifier s'il travaille aussi pour des entités luxembourgeoises."
    },
    {
@@ -28,16 +28,34 @@
     "note": "Noter la nouvelle plateforme pour articuler les obligations CRA des fournisseurs avec le signalement Part-IS."
    },
    {
-    "id": "7bd9a899f5023334",
+    "id": "01c3d53f64144e15",
     "note": "Exemple de formation d'inspecteurs Part-IS à reprendre pour la DAC."
    },
    {
-    "id": "c31d3ff2d7bd94c3",
+    "id": "7e5abf6fe91b55b7",
     "note": "Demander le retour d'expérience de lux-Airport et de l'ANA sur les survols de drones de septembre."
    },
    {
-    "id": "ba1c0886e4f6ead6",
+    "id": "ab52fe1f058b724c",
     "note": "Piste d'ingérence étatique derrière les drones : à garder en tête pour l'appréciation des risques de lux-Airport et de l'ANA."
+   }
+  ]
+ },
+ "2026-11-22": {
+  "date": "2026-11-22",
+  "synthese": "Journée calme : pas de nouvel élément réglementaire Part-IS ou NIS2. Un seul fait luxembourgeois à suivre : le gouvernement a informé les victimes potentielles d'une attaque informatique (article du 10 novembre). Il faut vérifier si le secteur aérien est concerné. La fuite Amadeus continue de s'étendre, Korean Air et Asiana s'ajoutant à la liste. La collecte planifiée de la nuit n'a pas tourné : je l'ai relancée à la main, et la routine le fera désormais seule.",
+  "une": [
+   {
+    "id": "ef1ec186843c96cc",
+    "note": "Demander au CISO si la DAC ou des entités du secteur aérien figurent parmi les victimes notifiées."
+   },
+   {
+    "id": "281915022ccafb48",
+    "note": "Plan GNSS EASA–EUROCONTROL : 22 actions, à lire si ce n'est pas encore fait."
+   },
+   {
+    "id": "e56c2c4d317ba028",
+    "note": "Pour la culture générale de l'autorité : la position de l'ICAO sur les cadres réglementaires."
    }
   ]
  }
