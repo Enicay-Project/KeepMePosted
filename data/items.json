@@ -1092,6 +1092,18 @@
   "collected": "2026-11-21T03:13:53Z"
  },
  {
+  "id": "515256aa40a0a3f4",
+  "source": "gn-supply",
+  "source_name": "Google News – Fournisseurs critiques de l'aviation",
+  "category": "Fournisseur",
+  "zone": "INT",
+  "title": "Caribbean Airlines among at least 8 airlines affected in data breach - FOX 5 Atlanta",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXQ1aFQ0SzlDbk4xb29ZT3RZM3doZEpkWnJqSUdJVEcwbmpES3dITHQ4SnBfLTVxUjZtWU5vT1VuQ2pzWjdZdDdDVjFMNWlkdU4zZEl3cXFWX2lveVpxSi10TE5BVV9fNk1qWlRrTXJCRno1UlVTT3JYbC1FZGhOYWZaRU1meUpiSlNuV1h2RkJKbXdmWE16YjF6U3Y4VW5V?oc=5",
+  "summary": "Caribbean Airlines among at least 8 airlines affected in data breach FOX 5 Atlanta",
+  "published": "2026-11-15T23:56:42Z",
+  "collected": "2026-11-23T03:48:06Z"
+ },
+ {
   "id": "8dc16f3d0f0ebfc3",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
@@ -1342,6 +1354,18 @@
   "summary": "Aviation civile Administration des enquêtes techniques",
   "published": "2026-11-04T08:00:00Z",
   "collected": "2026-11-22T03:48:05Z"
+ },
+ {
+  "id": "e7c4c69f5670f1f4",
+  "source": "gn-supply",
+  "source_name": "Google News – Fournisseurs critiques de l'aviation",
+  "category": "Fournisseur",
+  "zone": "INT",
+  "title": "46,000 Bookings, Customer Data Affected: Singapore Airlines On Amadeus Breach - NDTV",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFNURGFBQWtYOE1tX2x4Z2tYTHkwRHAzdW1VX1oyRWY0d0Zyemk2b2N4dlhjR2dSYjBKQU9vcmtta3NmcUVQNjJQVzdNTS1UWGxxMzdCaTRtbkdmZ0c4Y2hRbU13b24ybHMzVjFhLXUyLVJsM3BGWjNwVDI5RmcwZUlLUWNoZzFCWFpnenlHSllfSlFoVV9KMVh3dmJuRU9oNjN2aFRHUWFYdjhsbEJJcFUyNHl6WGfSAb8BQVVfeXFMTlhGWGNzdHI1N19YY05RR21nSnJMbHZrcXhiX05qNE9YVFNBY01seFFUOG1oQVN4LVVJRkpmdkJaOVNlbDRnOUxIcTdVQTZzMWxFUzVXSENubHpOZHFTQTJ6c3kwYVRvM3FEakNHQVF5T1ZYc0owbVhid1dKUWR2RGpSUGJmTktoQzI5c0tYc1A5MUYxWk1IOFVqZmotTGhQeGpiMHFqcUY1d2lrY19Fck1VMUdCcDNNdjZmQXF1M0U?oc=5",
+  "summary": "46,000 Bookings, Customer Data Affected: Singapore Airlines On Amadeus Breach NDTV",
+  "published": "2026-11-04T08:00:00Z",
+  "collected": "2026-11-23T03:48:06Z"
  },
  {
   "id": "b3d603775be7f99c",
@@ -1956,6 +1980,18 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
+  "id": "6d85077c9e781bdc",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "GPS Jamming Over Los Angeles: United Crews Report Interference - MiGFlug",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM1psTEdyRXRXOUZyc1JJa1lvZGwwbFIxVjFFbGJPeDdVWGlDMWc2S2FqczlqWTBabWZmSl91ZTRRdk5lNG1KMEpmWHpKVGNheERRc25DaGEyWnMyOUVHck1UNjJvZkFuVUlyUk1KZFduNmYyeTl5MlBUY0h2WWIxTHh2anowNTZEV2JkUHQyRFg4eEo5?oc=5",
+  "summary": "GPS Jamming Over Los Angeles: United Crews Report Interference MiGFlug",
+  "published": "2026-09-26T07:00:00Z",
+  "collected": "2026-11-23T03:48:06Z"
+ },
+ {
   "id": "7e5abf6fe91b55b7",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
@@ -2122,6 +2158,18 @@
   "summary": "Multiple flights report GPS jamming over Swedish airspace within 24 hours Avi-Go",
   "published": "2026-09-18T07:00:00Z",
   "collected": "2026-11-21T03:13:53Z"
+ },
+ {
+  "id": "6cd779a673a9deeb",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "Multiple flights reported GPS jamming over Sweden in the past 24 hours - airlive",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmNBZXRxZDBjOGt0S2FCQnZ5dlA5X1hINkRpOUxmLURwc3pMZzk3bUYzZTFzdllabTRQRzlEbFNMWDlYYWxHWW51d09TU2FSTWFLWTNIZVRvZ1hlTDJORzAxdExpeWs0N2h5UUczQVFuQTBESHA0WUN2Y2VINGhFWl9mSUIwbllOTHlocWlOd0RhVVByb050TFdpaUswMlRyWG1XRWNWV0pGUzg?oc=5",
+  "summary": "Multiple flights reported GPS jamming over Sweden in the past 24 hours airlive",
+  "published": "2026-09-18T07:00:00Z",
+  "collected": "2026-11-23T03:48:06Z"
  },
  {
   "id": "f702c6d29734d221",
