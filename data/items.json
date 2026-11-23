@@ -1,5 +1,29 @@
 [
  {
+  "id": "bf3a2f1909f6823f",
+  "source": "easa-news",
+  "source_name": "EASA – Actualités",
+  "category": "Réglementation",
+  "zone": "EU",
+  "title": "EASA further improves ReFuelEU Aviation reporting with version 3 of the Sustainability Portal",
+  "link": "https://www.easa.europa.eu/en/newsroom-and-events/news/easa-further-improves-refueleu-aviation-reporting-version-3-sustainability-portal",
+  "summary": "",
+  "published": "2026-11-23T11:05:37Z",
+  "collected": "2026-11-23T11:05:37Z"
+ },
+ {
+  "id": "5a631492f58e0817",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Drones suspects au Findel : les réponses du gouvernement attendues aujourd'hui - RTL Lëtzebuerg",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUFyZDgzTk5yTGREQVhZMGI2ZWRWTFFHQWtlaVRGcmdndF9VbUhwN1VvYXJWMmVoaUpCRW9XS2ZmZmwwRWhKQWZCeUNhVFBLRXE5X0toX0xTYjhoNklnV1Vvb09GNmlYZDMzU2lYQU1NWjlyLXFwcVphalJ5N0tIR1h1S2RHSWoxZkJTcnE2WTEyRTB1RHlNY1RkMlhLaVZyNFNFV3BFclJ4X0pjbV9OOVVBU2VkUFU4elBQYlhB?oc=5",
+  "summary": "Drones suspects au Findel : les réponses du gouvernement attendues aujourd'hui RTL Lëtzebuerg",
+  "published": "2026-11-23T07:33:00Z",
+  "collected": "2026-11-23T11:05:37Z"
+ },
+ {
   "id": "394787f3837ccccb",
   "source": "icao-news",
   "source_name": "ICAO – Actualités",
@@ -1164,6 +1188,18 @@
   "collected": "2026-11-21T03:15:00Z"
  },
  {
+  "id": "8320673863cfe57b",
+  "source": "gn-gouv-lu-aviation",
+  "source_name": "Google News – gouvernement.lu (DAC, aviation)",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Temporary ban on drone flights for the LAS project - Le gouvernement luxembourgeois",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR0RySnJXZUd0UzZmT3RYU21HaFJxVkdEMk1ZWE5KUEtZRVI5VHRVRmw0WE5Nb2RhRXAtRnZBS1luZjkzTXdmRDFYVWYzUURLeWtBbWg0UkpfdnpIbG9DbWRCN0FlN2JMSG83dXVoa2lCbmpJZWNoVS1EZlFOeE5GUExaNVpRb1ltQXBFdUYxYzJqdXJROUVoMUxmd1A3T2c2ajlLNmlka2lwSU1nSFpwbHBNTkpMTGNDbk9GZTJ5dWFPb25yc0xMNERFSS1XMFZURkJnWXNSY3JmYnJBeUx3?oc=5",
+  "summary": "Temporary ban on drone flights for the LAS project Le gouvernement luxembourgeois",
+  "published": "2026-11-12T08:00:00Z",
+  "collected": "2026-11-23T11:05:37Z"
+ },
+ {
   "id": "b46d726562e1dc21",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
@@ -1294,6 +1330,30 @@
   "summary": "« Debout », Spectacle de Linda Findel – du 12 novembre au 10 décembre 2026, Strasbourg | Coze Coze Magazine",
   "published": "2026-11-05T12:57:55Z",
   "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "22f597a2f49cf2bd",
+  "source": "gn-gouv-lu-aviation",
+  "source_name": "Google News – gouvernement.lu (DAC, aviation)",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Organizational chart - Direction de l'aviation civile (DAC)",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5relUwRnpTRWl6d3Z1X21NYVBzSjgyYzRCQUhjUDFGZmJtY1VoN3V6NVFSTkRJSjZqdG9TaElTcTdfNWxVa0pCTTNXdWV2MlVRZnhvUk1lMHhYeHgyelgzenBPc2hYRlBlRWJhMFpvejA?oc=5",
+  "summary": "Organizational chart Direction de l'aviation civile (DAC)",
+  "published": "2026-11-05T08:00:00Z",
+  "collected": "2026-11-23T11:05:37Z"
+ },
+ {
+  "id": "0f624cd41a8441bf",
+  "source": "gn-gouv-lu-aviation",
+  "source_name": "Google News – gouvernement.lu (DAC, aviation)",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Organigramme - Direction de l'aviation civile (DAC)",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTcGNFWHFPcmlValhJM3M1a04wd0l5Wkt2VkljQm5ZY0RaMXAtdlpMQkNIR1c5dVNnYWdWai14TkVNbTlVWFZNZUx3ZWZ4UTd2Z2NTVWFuS3ZEOVRnTUxidXdPT2JyV05URjFWNDFuNVI?oc=5",
+  "summary": "Organigramme Direction de l'aviation civile (DAC)",
+  "published": "2026-11-05T08:00:00Z",
+  "collected": "2026-11-23T11:05:37Z"
  },
  {
   "id": "904dfc7e6eeb2285",
@@ -1980,6 +2040,18 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
+  "id": "90cf2abea9e73869",
+  "source": "gn-gouv-lu-aviation",
+  "source_name": "Google News – gouvernement.lu (DAC, aviation)",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Temporary ban of drone flights – 02 October 2026 - Le gouvernement luxembourgeois",
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeDIwajdUOFVqQlU0ZThhN0FadXRvUW1HRFVuOVBhcC02TW85Q3JMRkkxZERRcTlyZElKZ092bXBDck5GV1FOQkpycG1sbEN2Y2FsMGV0Qml5RDJ4cVpWM0VfaG5NREpXUllPMTFhVnlqWmtaRTZ4OFE5YWZrenMxcHlDUXVEb1FnSGR4MkxUQndGMXdqNkRBYnhwWmFNYVRvYXdCaW80NkdzUnU5dWRpWFpzSG0wMWFoWHBVdDRZWjc2OFVQdFRyUkxuQlRCdVBVMlc3ZE01UjNyUkVQLUc5MnMtR1NZeDg?oc=5",
+  "summary": "Temporary ban of drone flights – 02 October 2026 Le gouvernement luxembourgeois",
+  "published": "2026-09-29T07:00:00Z",
+  "collected": "2026-11-23T11:05:37Z"
+ },
+ {
   "id": "6d85077c9e781bdc",
   "source": "gn-gnss",
   "source_name": "Google News – Brouillage et spoofing GNSS",
@@ -1990,6 +2062,18 @@
   "summary": "GPS Jamming Over Los Angeles: United Crews Report Interference MiGFlug",
   "published": "2026-09-26T07:00:00Z",
   "collected": "2026-11-23T03:48:06Z"
+ },
+ {
+  "id": "c328e6d1cbeeb21f",
+  "source": "gn-gouv-lu-aviation",
+  "source_name": "Google News – gouvernement.lu (DAC, aviation)",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Interdiction temporaire de vols de drones – 28 au 30 septembre 2026 - Direction de l'aviation civile (DAC)",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa0NqQXpfdjFFM2d6eHdVc1VCYXZCX3dNLXRnQXZ4dk9tNjdiREY4SDhLbkhQVVMyX1lpR2hSU2VHd1B4RW9oS2tuRHdxeThjeHA1ZWd6NXN5NEJlTXVqRUxKOTJ3ajVPYV8wVi1xQVdHNms5SDJ4a25nOWwzLXRwc2JpbVlqaTAxWW4xdEVQV1RvcVAyV1VOcmpuLUg5cFZBM1czTGdaQ2FRRkU?oc=5",
+  "summary": "Interdiction temporaire de vols de drones – 28 au 30 septembre 2026 Direction de l'aviation civile (DAC)",
+  "published": "2026-09-25T07:00:00Z",
+  "collected": "2026-11-23T11:05:37Z"
  },
  {
   "id": "7e5abf6fe91b55b7",
@@ -2026,6 +2110,18 @@
   "summary": "«Les drones? Il serait naïf d'exclure une ingérence russe» L'essentiel",
   "published": "2026-09-22T07:00:00Z",
   "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "917feecad0062afb",
+  "source": "gn-gouv-lu-aviation",
+  "source_name": "Google News – gouvernement.lu (DAC, aviation)",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Cellule d'évaluation interministérielle \"drones\": Point de la situation - Le gouvernement luxembourgeois",
+  "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPR0pFcm11ZUlqc250S2lvMjZSRk04QTlSZnVkTC05WkZiXzA5Q1JqbHQ2NmttOUdBQTFxaUZOaUhKMXd3Wi1zaTZRQlVHbHhLRFlZRXQ4em9nUnUtMWNxRzFhWTA1Z0Zjd3VIaWtqZWpsNGtab1JhQ3o3REppdHYzcGEzZllqVVhFY0piVDk3OXNCbWVQeDhiSWdvTmQwdThnT2RKMFB0WGNMV0FFU3FnbFNwYjZoR29xeFM0QTF4aWJscGVHVG96aEotVnNBdEE3TUc1eHlBTG54dGhtMnktb2V6dUppWmVMaGRlcC1ZRHRIeFJ1OEtHZHlNTU1xTXF0clk3bnEzUQ?oc=5",
+  "summary": "Cellule d'évaluation interministérielle \"drones\": Point de la situation Le gouvernement luxembourgeois",
+  "published": "2026-09-22T07:00:00Z",
+  "collected": "2026-11-23T11:05:37Z"
  },
  {
   "id": "65b89761fd96a613",
@@ -2086,6 +2182,18 @@
   "summary": "GPS Jamming and Spoofing Disrupts Two Airline Flights Over Sweden on September 17–18, 2026 Avi-Go",
   "published": "2026-09-20T07:00:00Z",
   "collected": "2026-11-21T03:13:53Z"
+ },
+ {
+  "id": "d5b1017f1a6123ca",
+  "source": "gn-gouv-lu-aviation",
+  "source_name": "Google News – gouvernement.lu (DAC, aviation)",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Cellule d'évaluation interministérielle \"drones\": Point de la situation - Ministère d'État",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPT2tfRXVudnV2UWQyZ1haUmVXZlVQNXB6THF2WEhMZy1WMjVxSzgtYkFCalVva0dJSV9GQUhxdG1RcjBxSU00dUlDbGdjNFZqM1JDbGRvd0ZWRzEwenRQY0tib1BiMnhoMWxYQkJyWG8wdTJQRURyYjIyTVpYMW1aek1GNW5Jd0RUV0dYNWg2QXhyeVFmVWQxZVlRRmliQVF2NFZ3T0RlS2oxa3BPU2ZkT2xpOHBLUkNVM2g0bkVXRkM0TEd1TXhkVTRCT2xpeUJDa1ZrbHRYSWQ3QWN3SFdzMFRhNUc5ekU3aWc?oc=5",
+  "summary": "Cellule d'évaluation interministérielle \"drones\": Point de la situation Ministère d'État",
+  "published": "2026-09-19T15:21:48Z",
+  "collected": "2026-11-23T11:05:37Z"
  },
  {
   "id": "619b24a324995973",
@@ -2400,6 +2508,18 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
+  "id": "89a80f82348ff26d",
+  "source": "gn-gouv-lu-aviation",
+  "source_name": "Google News – gouvernement.lu (DAC, aviation)",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Centres Aéro-médicaux et Médecins agréés pour examens aéro-médicaux - Direction de l'aviation civile (DAC)",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc3hNYjBUdi0xRUl0V00tRnF1Sy1yTUNPcXNOLWVqQzRoX3RZeGZ0WW0wZTg2dUxOVjBnQ0ZpTVhDZnRaUWlFekFGUWtoNnFSdXpDU2ZqSVNtZFk5eHRhUXdxVUZCQ1lxNmZlV3FpUnhvV1VuTWhGaWFPNDBRQkJFS25QR1R2SnhXclRZS0NVSGMxd3dVREhNX3ZITjNsWnAwY3c?oc=5",
+  "summary": "Centres Aéro-médicaux et Médecins agréés pour examens aéro-médicaux Direction de l'aviation civile (DAC)",
+  "published": "2026-08-12T07:00:00Z",
+  "collected": "2026-11-23T11:05:37Z"
+ },
+ {
   "id": "d7d7d3bf4dfedf00",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
@@ -2433,18 +2553,6 @@
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3ZEZzlYS0UyLVFFRXRvdVU1RlVUYW5NNUJFdDdiODJGcGxhYjBhQjF3VFhBQ0Zuc0tmcDZSNDhQTkhOWXg0NXZyZUJoWTY5WU5LR1N4Y3pJT0dYdE9kcGxmVXRoaTJJVmtkNHBRZV9idDR0QjlESGRfR2ZTaGllY18zRWR2al9MZXd1Z1ltQmUtenhTS1NjZm52Rl8waFViVmEtdnlZS2RCUkNrWVhtcg?oc=5",
   "summary": "Votum Klima détourne le tableau des départs du Findel à la veille du Jour du dépassement Greenpeace",
   "published": "2026-07-29T07:00:00Z",
-  "collected": "2026-11-21T03:48:10Z"
- },
- {
-  "id": "62e12193816ab771",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "Luxembourg. Deux avions contraints à des atterrissages d’urgence en une semaine au Findel… pour la même raison - Le Republicain Lorrain",
-  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUjk4NDlHdVBwRXFJWVlDeVJTdmRuU3hVeDdZOTR6OXhjNm5ZMFJIbmJkSnNiMU5OLXA4QzlGZDE1dzdFVllqdU0zclE0ZVQ5anR1Vi1xd0w1M1RwOUYwQ095MUgyWlh0LVFfcVdna21aRDZmTkVUbEhZcGI0NWxnWGlwbDBwRTdSUFc1WFRHVEJhLUVFUThZTUdCWVFiUEUyY2ZtQTJ2cXRaZzZ4YldVSFlOWXNfZVprRGJpNWFra2RqVFBGMFJ5Y1hJZjhRVndaMGpiQ1p4TXQtUkdWRU02dG5ndzFGSEFl?oc=5",
-  "summary": "Luxembourg. Deux avions contraints à des atterrissages d’urgence en une semaine au Findel… pour la même raison Le Republicain Lorrain",
-  "published": "2026-07-26T07:00:00Z",
   "collected": "2026-11-21T03:48:10Z"
  }
 ]
