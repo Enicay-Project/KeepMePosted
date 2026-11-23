@@ -58,5 +58,31 @@
     "note": "Pour la culture générale de l'autorité : la position de l'ICAO sur les cadres réglementaires."
    }
   ]
+ },
+ "2026-11-23": {
+  "date": "2026-11-23",
+  "synthese": "Week-end calme : seulement 6 articles, sans nouveauté réglementaire Part-IS ou NIS2. Fait marquant : un blog spécialisé affirme que la fuite Amadeus aurait duré 38 mois, ce qui renforce la question de la détection chez les fournisseurs (IS.I.OR.235). Le brouillage GPS est aussi signalé au-dessus de Los Angeles. Les points ouverts restent l'inventaire des dépendances à Amadeus et la vérification de l'attaque signalée par le gouvernement luxembourgeois.",
+  "une": [
+   {
+    "id": "91fb31b4ae952e09",
+    "note": "38 mois d'exposition : à citer au CISO dans l'argumentaire sur la surveillance des fournisseurs."
+   },
+   {
+    "id": "ef1ec186843c96cc",
+    "note": "Toujours ouvert : savoir si le secteur aérien figure parmi les victimes notifiées par le gouvernement."
+   },
+   {
+    "id": "5b7506c4b95e2fe9",
+    "note": "Finir l'inventaire des entités luxembourgeoises qui dépendent d'Amadeus."
+   },
+   {
+    "id": "281915022ccafb48",
+    "note": "Plan GNSS EASA–EUROCONTROL : la référence à avoir lue."
+   },
+   {
+    "id": "6d85077c9e781bdc",
+    "note": "Le brouillage touche aussi des zones hors conflit : utile pour l'appréciation des risques des opérateurs."
+   }
+  ]
  }
 }

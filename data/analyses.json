@@ -2676,5 +2676,93 @@
   "action": "Rien",
   "pourquoi": "Page institutionnelle de la DAC, pas une actualité.",
   "analysed_at": "2026-11-22T03:48:59Z"
+ },
+ "515256aa40a0a3f4": {
+  "resume": "Caribbean Airlines parmi au moins huit compagnies touchées par la fuite de données.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus.",
+  "doublon_de": "5b7506c4b95e2fe9",
+  "analysed_at": "2026-11-23T03:48:52Z"
+ },
+ "e7c4c69f5670f1f4": {
+  "resume": "Singapore Airlines : 46 000 réservations et données clients touchées par la fuite Amadeus.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus.",
+  "doublon_de": "5b7506c4b95e2fe9",
+  "analysed_at": "2026-11-23T03:48:52Z"
+ },
+ "91fb31b4ae952e09": {
+  "resume": "Selon un blog spécialisé, la faille Amadeus aurait exposé des données de réservation sur 38 mois.",
+  "tags": [
+   "Incident",
+   "Fournisseur",
+   "Supply chain"
+  ],
+  "exigences": [
+   "IS.I.OR.235",
+   "IS.I.OR.205"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Si la durée d'exposition se confirme, c'est un argument fort sur la détection tardive chez les fournisseurs.",
+  "doublon_de": "5b7506c4b95e2fe9",
+  "analysed_at": "2026-11-23T03:48:52Z"
+ },
+ "6d85077c9e781bdc": {
+  "resume": "Des équipages United signalent du brouillage GPS au-dessus de Los Angeles.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Montre que le brouillage ne se limite pas aux zones de conflit.",
+  "analysed_at": "2026-11-23T03:48:52Z"
+ },
+ "6cd779a673a9deeb": {
+  "resume": "Plusieurs vols ont signalé du brouillage GPS au-dessus de la Suède en 24 heures.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 40,
+  "action": "Rien",
+  "pourquoi": "Même épisode suédois.",
+  "doublon_de": "461435916e442310",
+  "analysed_at": "2026-11-23T03:48:52Z"
+ },
+ "856ffb4a685630e7": {
+  "resume": "Offre d'emploi à l'atelier composites de Cargolux.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-23T03:48:52Z"
  }
 }

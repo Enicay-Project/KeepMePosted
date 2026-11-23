@@ -12,7 +12,7 @@ git checkout claude/wizardly-bohr-o7znla
 git merge --ff-only FETCH_HEAD
 ```
 
-Ouvrir `data/status.json`. Si aucune source n'a été vérifiée dans les 20 dernières
+Ouvrir `data/status.json`. Si aucune source n'a été vérifiée dans les 6 dernières
 heures, la collecte planifiée n'a pas tourné (GitHub retarde ou saute parfois les
 déclenchements planifiés) : la lancer avec l'outil GitHub `actions_run_trigger`
 (`run_workflow`, `collect.yml`, ref `claude/wizardly-bohr-o7znla`), attendre le commit
