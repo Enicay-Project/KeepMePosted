@@ -14,25 +14,31 @@
 "https://www.easa.europa.eu/en/newsroom-and-events/news/sunny-swift-threat-and-error-management-part-1",
 "https://www.easa.europa.eu/en/newsroom-and-events/news/updated-guidance-organisations-using-easa-organisation-approval-tool"
 ],
-"raw_links": 804,
+"raw_links": 1309,
 "matched": 11
 },
 "easa-press": {
 "seen": [
 "https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-and-eurocontrol-publish-joint-action-plan-ensure-safe",
+"https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-and-eurocontrol-publish-joint-action-plan-ensure-safe-operations-during-gnss-interference",
 "https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-and-iata-announce-collaboration-regarding-air-travel",
+"https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-and-iata-announce-collaboration-regarding-air-travel-emissions-calculations",
 "https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-asc-2025-sees-complacency-safety-threat-seeks-rule",
+"https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-asc-2025-sees-complacency-safety-threat-seeks-rule-simplification",
 "https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-modernises-flight-simulation-training-devices-rules-support-innovation-and-future-pilot",
 "https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-publishes-article-89-report-aviation-safety-and-socio",
+"https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-publishes-article-89-report-aviation-safety-and-socio-economic-factors",
 "https://www.easa.europa.eu/en/newsroom-and-events/press-releases/eu-sustainable-aviation-fuel-supply-exceeds-2025-refueleu-aviation-target",
 "https://www.easa.europa.eu/en/newsroom-and-events/press-releases/eurocontrol-and-easa-launch-avenir-environmental-catalogue-strengthen-environmental-transparency",
 "https://www.easa.europa.eu/en/newsroom-and-events/press-releases/europe-aviation-strives-more-modern-and-efficient-atm-europe",
 "https://www.easa.europa.eu/en/newsroom-and-events/press-releases/faa-and-easa-pledge-cooperation-new-era-aviation",
 "https://www.easa.europa.eu/en/newsroom-and-events/press-releases/helicopters-connect-protect-and-save-european-rotors-and",
+"https://www.easa.europa.eu/en/newsroom-and-events/press-releases/helicopters-connect-protect-and-save-european-rotors-and-hoisting-demonstration-highlight-vital-role",
 "https://www.easa.europa.eu/en/newsroom-and-events/press-releases/norways-civil-aviation-authority-and-european-union-aviation",
+"https://www.easa.europa.eu/en/newsroom-and-events/press-releases/norways-civil-aviation-authority-and-european-union-aviation-safety-agency-easa-unite-zerac25-power",
 "https://www.easa.europa.eu/en/newsroom-and-events/press-releases/thibauld-jongen-appointed-easa-certification-director"
 ],
-"raw_links": 805,
+"raw_links": 1310,
 "matched": 12
 },
 "easa-npa": {
@@ -90,7 +96,7 @@
 "https://www.easa.europa.eu/en/document-library/notices-of-proposed-amendment/npa-2026-02",
 "https://www.easa.europa.eu/en/document-library/notices-of-proposed-amendment/npa-2026-03"
 ],
-"raw_links": 1053,
+"raw_links": 1558,
 "matched": 50
 },
 "easa-decisions": {
@@ -148,7 +154,7 @@
 "https://www.easa.europa.eu/en/document-library/agency-decisions/executive-activities",
 "https://www.easa.europa.eu/en/document-library/agency-decisions/finance-and-business-activities"
 ],
-"raw_links": 974,
+"raw_links": 1479,
 "matched": 49
 },
 "enisa-news": {
