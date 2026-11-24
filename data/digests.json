@@ -84,5 +84,35 @@
     "note": "Le brouillage touche aussi des zones hors conflit : utile pour l'appréciation des risques des opérateurs."
    }
   ]
+ },
+ "2026-11-24": {
+  "date": "2026-11-24",
+  "synthese": "Deux faits marquants. D'abord, le gouvernement n'a trouvé aucune preuve des survols de drones qui avaient fermé le Findel en septembre : la question devient celle de la fiabilité de la détection et des signalements. Ensuite, le brouillage GNSS se rapproche : environ 80 avions touchés près de Schiphol mi-novembre, et 140 avions qu'un navire de guerre russe aurait brouillés au large du Royaume-Uni. Ces deux épisodes sont à porter au CISO avec le plan EASA–EUROCONTROL. La fuite Amadeus continue de générer beaucoup d'articles (66 de plus), sans fait nouveau pour le Luxembourg.",
+  "une": [
+   {
+    "id": "d6fa8453289b8de6",
+    "note": "Demander à lux-Airport et à l'ANA comment les détections de septembre ont été qualifiées et notifiées."
+   },
+   {
+    "id": "c4cd91df0e38d630",
+    "note": "À transmettre au CISO : le brouillage touche un grand aéroport voisin."
+   },
+   {
+    "id": "ded066a30cf62d47",
+    "note": "Brouillage attribué à un navire russe en mer du Nord : à suivre pour les routes de Luxair et Cargolux."
+   },
+   {
+    "id": "0955bbf5f5c01299",
+    "note": "Chiffres IATA à reprendre dans l'argumentaire GNSS."
+   },
+   {
+    "id": "57e81f8f2752bf7a",
+    "note": "Parallèle pour la DAC : préparer le volet cybersécurité d'un audit ICAO."
+   },
+   {
+    "id": "91fb31b4ae952e09",
+    "note": "Amadeus : 38 mois d'exposition, l'argument clé pour la surveillance des fournisseurs."
+   }
+  ]
  }
 }

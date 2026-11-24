@@ -2764,5 +2764,1959 @@
   "action": "Rien",
   "pourquoi": "Hors sujet.",
   "analysed_at": "2026-11-23T03:48:52Z"
+ },
+ "9615a03c737a4e8c": {
+  "resume": "Couverture de la fuite Amadeus : « News - Caribbean Airlines becomes latest airline hit by Amadeus data breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "603f0f4179696076": {
+  "resume": "Couverture de la fuite Amadeus : « Caribbean Airlines Breached in Growing Amadeus Attack List ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "1c923edccfddc255": {
+  "resume": "Couverture de la fuite Amadeus : « Amadeus breach: What Caribbean Airlines passengers need to know ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "fd754c0cfc571455": {
+  "resume": "Couverture de la fuite Amadeus : « Caribbean Airlines among at least 8 airlines affected in data breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "0344da3271aebc7d": {
+  "resume": "Couverture de la fuite Amadeus : « Caribbean Airlines hit by data breach affecting passenger information ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "907717663068e2f1": {
+  "resume": "Couverture de la fuite Amadeus : « Amadeus then Microsoft: when airlines face computer vulnerability ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "ac617e3f951f070b": {
+  "resume": "Couverture de la fuite Amadeus : « News - Personal data of over 350,000 SAS passengers compromised in Amadeus incident ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "4ff7709dcfa8a1c4": {
+  "resume": "Couverture de la fuite Amadeus : « Finnair becomes seventh airline hit by Amadeus data breach, with more than 100,000 bookings exposed ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "01221d922457c6f4": {
+  "resume": "Couverture de la fuite Amadeus : « Amadeus data breach spreads as airlines reveal passenger exposure ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "76af37ac878a034b": {
+  "resume": "Couverture de la fuite Amadeus : « Thai Airways data breach linked to Amadeus incident affecting Asian airlines ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "e8d601a3bb14a119": {
+  "resume": "Couverture de la fuite Amadeus : « THAI passenger data compromised in security breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "410c0d19bf098287": {
+  "resume": "Couverture de la fuite Amadeus : « Finnair data breach hits 116,000 bookings via Amadeus ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "d8f2456f01f768a2": {
+  "resume": "Couverture de la fuite Amadeus : « Thai Airways Data Breach Exposes 60,529 Flight Bookings ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "5ccf1e25cde10f09": {
+  "resume": "Couverture de la fuite Amadeus : « Thai Airways reports unauthorised access to passenger records ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "8cada7467f665e0b": {
+  "resume": "Couverture de la fuite Amadeus : « Finnair Announces Data Breach at Amadeus IT Group ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "daa654378b3aef0c": {
+  "resume": "Couverture de la fuite Amadeus : « Finnair Says 116,000 Reservations Have Been Compromised in Massive Data Breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "adcce9baa1a54569": {
+  "resume": "Couverture de la fuite Amadeus : « Finnair Says Some Customer Information Affected in Amadeus IT Group Data Breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "854283c712282f80": {
+  "resume": "Couverture de la fuite Amadeus : « Finnair Oyj : customer data included in global Amadeus data breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "dc299b8f181ee5a4": {
+  "resume": "Couverture de la fuite Amadeus : « News - Data breach at reservation partner exposes Singapore Airlines customer data ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "2f0e4494a6a74adf": {
+  "resume": "Couverture de la fuite Amadeus : « What’s next after airlines? Asia data breach raises wider cyber fears ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "ed768d3ce3191e66": {
+  "resume": "Couverture de la fuite Amadeus : « Singapore Airlines latest carrier hit by Amadeus data breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "506dfd8258f9f294": {
+  "resume": "Couverture de la fuite Amadeus : « Amadeus data breach exposes 46,000 bookings at world's best airline ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "c7350dcdbbc46eca": {
+  "resume": "Couverture de la fuite Amadeus : « Amadeus data breach: which airlines are affected, what was taken and what passengers should do ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "18b50ec2afe43c66": {
+  "resume": "Couverture de la fuite Amadeus : « Global airline bookings affected by 'Amadeus breach' incident: What flyers should do ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "df7b5dfcc3525fe7": {
+  "resume": "Couverture de la fuite Amadeus : « Massive Amadeus Data Breach Exposed Airline Booking Data ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "3c7fe93bfd46a43d": {
+  "resume": "Couverture de la fuite Amadeus : « Singapore Airlines is Latest Global Carrier to Be Caught Up in Massive Amadeus Data Breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "38cb8bcd2aa347bd": {
+  "resume": "Couverture de la fuite Amadeus : « Amadeus hit by data breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "fd2f713ab00325f8": {
+  "resume": "Couverture de la fuite Amadeus : « Qantas customers caught up in global airline data breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "ffe07de977a723c9": {
+  "resume": "Couverture de la fuite Amadeus : « Singapore Airlines Says 46,000 Booking Records Hit in Amadeus Platform Breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "a4c8672eae737c7e": {
+  "resume": "Couverture de la fuite Amadeus : « Amadeus Breach Hits Major Airlines — What To Do If You Were Impacted ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "5f223573f8d1926c": {
+  "resume": "Couverture de la fuite Amadeus : « Singapore Airlines says 46,000 booking records affected by Amadeus breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "58fdcf04c6a062c8": {
+  "resume": "Couverture de la fuite Amadeus : « Three Years Undetected: Inside the Amadeus Passenger Data Breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "9fbd13b38776f7b8": {
+  "resume": "Couverture de la fuite Amadeus : « About 46,000 SIA booking records accessed illegally in data breach affecting software provider Amadeus ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "3158b4f12b930226": {
+  "resume": "Couverture de la fuite Amadeus : « About 46,000 SIA booking records accessed in data breach involving travel tech company Amadeus ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "6ef19597d0607eba": {
+  "resume": "Couverture de la fuite Amadeus : « Qantas Investigates Possible Booking Data Exposure in Amadeus Breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "a51f950f2c6d2923": {
+  "resume": "Couverture de la fuite Amadeus : « Qantas and major Asian airlines affected by Amadeus data breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "e01b2727ca53d039": {
+  "resume": "Couverture de la fuite Amadeus : « Cathay Pacific says data from 53,000 bookings compromised in Amadeus cyberattack ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "b6263215d98b4855": {
+  "resume": "Couverture de la fuite Amadeus : « Airlines flying in and out of Australian airports impacted by customer data breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "627c2e4ecad2dff4": {
+  "resume": "Couverture de la fuite Amadeus : « News - Malaysia Airlines hit by data breach after reservation provider cyber attack ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "585748420641e326": {
+  "resume": "Couverture de la fuite Amadeus : « Qantas Airlines Probes 3-Year Amadeus Breach After 180K Bookings Leak ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "ef7f954bee1d245a": {
+  "resume": "Couverture de la fuite Amadeus : « Cathay Pacific: Amadeus System Breach Exposes Reservation Information ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "286961aa4a453d3f": {
+  "resume": "Couverture de la fuite Amadeus : « Qantas customer data possibly exposed in Amadeus hack ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "7252184b4a93b409": {
+  "resume": "Couverture de la fuite Amadeus : « Amadeus data breach affects 53,000 Cathay Pacific bookings ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "ba541b66fccc5bf0": {
+  "resume": "Couverture de la fuite Amadeus : « Malaysia Airlines says customers may be affected by Amadeus breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "f1b80e2764f6a677": {
+  "resume": "Couverture de la fuite Amadeus : « Malaysia Airlines Flags Amadeus Breach: Aug 2023 to Sept 2026 [2026] ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "e0092ff1afc0a92f": {
+  "resume": "Couverture de la fuite Amadeus : « Malaysia Airlines Warns Customers of Amadeus Data Breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "35460898485940a2": {
+  "resume": "Couverture de la fuite Amadeus : « Malaysia Airlines says customers may be affected by Amadeus breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "d862c146f18c0d27": {
+  "resume": "Couverture de la fuite Amadeus : « Qantas among several airlines probing data breach and customer booking impacts after Amadeus cyber attack ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "afbcaf811ae89b54": {
+  "resume": "Couverture de la fuite Amadeus : « Malaysia Airlines Data Hack Exposes 3-Year Amadeus PNR Cyber Breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "bf6a16ffebf82a7e": {
+  "resume": "Couverture de la fuite Amadeus : « Malaysia Airlines hit by major Amadeus cybersecurity breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "52bdfe931135f43d": {
+  "resume": "Couverture de la fuite Amadeus : « Malaysia Airlines says customers may be affected by Amadeus breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "32313e1258fbdb36": {
+  "resume": "Couverture de la fuite Amadeus : « Malaysia Airlines says customers may be affected by Amadeus breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "9097c0885856d817": {
+  "resume": "Couverture de la fuite Amadeus : « Cathay Pacific Says Amadeus Hack Exposed 53,000 Booking Records ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "8caac54f0a7c7dc5": {
+  "resume": "Couverture de la fuite Amadeus : « Major Software Provider That Manages Bookings For Hundreds of International Airlines Had a Data Breach For THREE Years ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "be6a14d2378389fa": {
+  "resume": "Couverture de la fuite Amadeus : « Cathay Pacific says 53,000 bookings exposed in Amadeus data breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "f8b101fa360867f3": {
+  "resume": "Couverture de la fuite Amadeus : « Japan Airlines data breach exposes 92,000 customer records ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "aa2213e70101d8a0": {
+  "resume": "Couverture de la fuite Amadeus : « ANA Says Some Reservation Information May Have Been Accessed in Amadeus Cyberattack ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "71d44f8089e14588": {
+  "resume": "Couverture de la fuite Amadeus : « Cathay Pacific says Amadeus breach affected 53,000 bookings ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "942e96f46c83d780": {
+  "resume": "Couverture de la fuite Amadeus : « Data breach exposes personal details of 53,000 Cathay Pacific passengers; other major airlines hit ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "a7491e5f710d6d13": {
+  "resume": "Couverture de la fuite Amadeus : « Amadeus cyberattack puts passenger data at risk at four airlines ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "30b82d2d20bc592b": {
+  "resume": "Couverture de la fuite Amadeus : « Japan Airlines warns of data breach as country grapples with multiple cyber incidents ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "8fb35aa71bbb05af": {
+  "resume": "Couverture de la fuite Amadeus : « JAL and JTA: Some Reservation Information Accessed in Amadeus System Cyberattack ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "902e00eadf0f9e99": {
+  "resume": "Couverture de la fuite Amadeus : « Korean Air Says Personal Data May Have Been Leaked in Amadeus System Breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "17d2266535f3d34b": {
+  "resume": "Couverture de la fuite Amadeus : « Korean Air and Asiana Airlines Data Breach via Amadeus: Cybersecurity Incident Analysis and Third-Party Risks ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "ebabc353aa93b308": {
+  "resume": "Couverture de la fuite Amadeus : « Korean Air breach exposes blind spot in airline cybersecurity ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "35fc0d7e1afc820f": {
+  "resume": "Couverture de la fuite Amadeus : « Korean Air, Asiana Airlines Customer Data Leaked via Amadeus ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus, regroupé sous le sujet principal.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "d6fa8453289b8de6": {
+  "resume": "Le gouvernement indique ne pas avoir trouvé de preuve des survols de drones qui avaient fermé le Findel en septembre.",
+  "tags": [
+   "Drones",
+   "Acteur LU",
+   "Gouvernance"
+  ],
+  "exigences": [
+   "IS.I.OR.220"
+  ],
+  "perimetre": "Les deux",
+  "score": 72,
+  "action": "Suivre",
+  "pourquoi": "Rebondissement important : la question devient la fiabilité de la détection et des signalements. Utile pour le retour d'expérience avec lux-Airport et l'ANA.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "59709b4923a248aa": {
+  "resume": "Le gouvernement ne peut pas confirmer la présence de drones au Findel en septembre.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 65,
+  "action": "Rien",
+  "pourquoi": "Même annonce gouvernementale.",
+  "doublon_de": "d6fa8453289b8de6",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "f9e310bf3e1b0f30": {
+  "resume": "Le gouvernement ne peut pas confirmer la présence de drones au Findel en septembre.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 65,
+  "action": "Rien",
+  "pourquoi": "Même annonce gouvernementale.",
+  "doublon_de": "d6fa8453289b8de6",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "fb0fded395d12c8c": {
+  "resume": "Le gouvernement ne peut pas confirmer la présence de drones au Findel en septembre.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 65,
+  "action": "Rien",
+  "pourquoi": "Même annonce gouvernementale.",
+  "doublon_de": "d6fa8453289b8de6",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "5a631492f58e0817": {
+  "resume": "Le gouvernement ne peut pas confirmer la présence de drones au Findel en septembre.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 65,
+  "action": "Rien",
+  "pourquoi": "Même annonce gouvernementale.",
+  "doublon_de": "d6fa8453289b8de6",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "917feecad0062afb": {
+  "resume": "Point de situation de la cellule d'évaluation interministérielle « drones » mise en place après les incidents du Findel.",
+  "tags": [
+   "Drones",
+   "Acteur LU",
+   "Gouvernance"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 55,
+  "action": "Lire",
+  "pourquoi": "Montre l'organisation de crise de l'État : utile pour situer le rôle de la DAC.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "d5b1017f1a6123ca": {
+  "resume": "Point de situation de la cellule interministérielle « drones » (Ministère d'État).",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 50,
+  "action": "Rien",
+  "pourquoi": "Même publication.",
+  "doublon_de": "917feecad0062afb",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "8320673863cfe57b": {
+  "resume": "Interdiction temporaire des vols de drones pour le projet LAS.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 25,
+  "action": "Rien",
+  "pourquoi": "Mesure opérationnelle de l'espace aérien, sans dimension cyber.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "90cf2abea9e73869": {
+  "resume": "Interdiction temporaire des vols de drones le 2 octobre 2026.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 25,
+  "action": "Rien",
+  "pourquoi": "Mesure opérationnelle de l'espace aérien, sans dimension cyber.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "c328e6d1cbeeb21f": {
+  "resume": "Interdiction temporaire des vols de drones du 28 au 30 septembre 2026 (DAC).",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 25,
+  "action": "Rien",
+  "pourquoi": "Mesure opérationnelle de l'espace aérien, sans dimension cyber.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "c4cd91df0e38d630": {
+  "resume": "Un brouillage GPS présumé touche 80 aéronefs et perturbe les approches d'Amsterdam-Schiphol (15-16 novembre).",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [
+   "IS.I.OR.205",
+   "IS.AR.205"
+  ],
+  "perimetre": "Les deux",
+  "score": 75,
+  "action": "Informer le CISO",
+  "pourquoi": "Le brouillage atteint un grand aéroport voisin du Luxembourg : signal à porter au CISO et à l'ANA pour l'appréciation des risques.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "c90e1dda6a6b2121": {
+  "resume": "Des experts voient dans le brouillage autour de Schiphol un signe de l'intensification de la guerre hybride russe.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 65,
+  "action": "Rien",
+  "pourquoi": "Même épisode Schiphol.",
+  "doublon_de": "c4cd91df0e38d630",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "76f5cf388aa7a404": {
+  "resume": "Au moins sept vols vers Schiphol perturbés par des interférences GPS.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 60,
+  "action": "Rien",
+  "pourquoi": "Même épisode Schiphol.",
+  "doublon_de": "c4cd91df0e38d630",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "ded066a30cf62d47": {
+  "resume": "Environ 140 avions, dont des EasyJet, Ryanair et BA, auraient été brouillés par un navire de guerre russe au large des côtes britanniques.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [
+   "IS.I.OR.205"
+  ],
+  "perimetre": "Les deux",
+  "score": 68,
+  "action": "Suivre",
+  "pourquoi": "Brouillage attribué à un acteur étatique en mer du Nord : la menace se rapproche des routes utilisées par Luxair et Cargolux.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "0955bbf5f5c01299": {
+  "resume": "L'IATA signale une hausse de 67 % du brouillage et de 193 % du leurrage GNSS depuis 2023.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 58,
+  "action": "Lire",
+  "pourquoi": "Chiffres de référence à citer dans une note au CISO.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "2a1f3c007b7e50a1": {
+  "resume": "L'EASA met à jour ses orientations sur le GNSS face à la hausse du brouillage et du leurrage (juillet 2026).",
+  "tags": [
+   "GNSS",
+   "Réglementation"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 55,
+  "action": "Lire",
+  "pourquoi": "Document EASA de référence, à rapprocher du plan d'action de novembre.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "fd53b7416d6b9494": {
+  "resume": "Ce que le plan EASA–EUROCONTROL sur les interférences GNSS exige.",
+  "tags": [
+   "GNSS",
+   "Réglementation"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 60,
+  "action": "Rien",
+  "pourquoi": "Explication du plan d'action, déjà à la une.",
+  "doublon_de": "281915022ccafb48",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "faec82d428f4a0bd": {
+  "resume": "Le GAO estime que la FAA n'a pas d'outils en temps réel pour détecter le brouillage et le leurrage GPS.",
+  "tags": [
+   "GNSS",
+   "Gouvernance"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 40,
+  "action": "Lire",
+  "pourquoi": "Constat d'une autorité de contrôle américaine : parallèle utile pour les attentes envers les autorités européennes.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "ec27456e80d06009": {
+  "resume": "Rapport du GAO sur les menaces de brouillage et de leurrage pour les communications aériennes.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 38,
+  "action": "Rien",
+  "pourquoi": "Même rapport.",
+  "doublon_de": "faec82d428f4a0bd",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "07b03224d7885a9d": {
+  "resume": "Le GAO pointe les lacunes de la FAA face au brouillage.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 35,
+  "action": "Rien",
+  "pourquoi": "Même sujet.",
+  "doublon_de": "faec82d428f4a0bd",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "d6d95e88e16ae6c4": {
+  "resume": "Brouillage GPS signalé par des vols United près de Los Angeles.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 28,
+  "action": "Rien",
+  "pourquoi": "Même épisode.",
+  "doublon_de": "6d85077c9e781bdc",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "c9f57f530de4d03e": {
+  "resume": "Brouillage GPS signalé par des vols United près de Los Angeles.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 28,
+  "action": "Rien",
+  "pourquoi": "Même épisode.",
+  "doublon_de": "6d85077c9e781bdc",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "0f5b4af7f774304d": {
+  "resume": "Brouillage GPS signalé par des vols United près de Los Angeles.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 28,
+  "action": "Rien",
+  "pourquoi": "Même épisode.",
+  "doublon_de": "6d85077c9e781bdc",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "2861df8395330024": {
+  "resume": "Un exercice militaire américain de brouillage GPS est soupçonné d'avoir contribué au crash mortel d'un avion médicalisé au Nouveau-Mexique.",
+  "tags": [
+   "GNSS",
+   "Incident"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 35,
+  "action": "Lire",
+  "pourquoi": "Cas extrême de conséquence du brouillage, utile pour la sensibilisation.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "5bd754d00d16c13a": {
+  "resume": "Couverture du crash de l'avion médicalisé au Nouveau-Mexique et du brouillage militaire.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Même affaire.",
+  "doublon_de": "2861df8395330024",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "114e5ca102d214aa": {
+  "resume": "Couverture du crash de l'avion médicalisé au Nouveau-Mexique et du brouillage militaire.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Même affaire.",
+  "doublon_de": "2861df8395330024",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "496785d24f6c8219": {
+  "resume": "Couverture du crash de l'avion médicalisé au Nouveau-Mexique et du brouillage militaire.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Même affaire.",
+  "doublon_de": "2861df8395330024",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "369055739e1e851c": {
+  "resume": "Couverture du crash de l'avion médicalisé au Nouveau-Mexique et du brouillage militaire.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Même affaire.",
+  "doublon_de": "2861df8395330024",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "2728e4669ff4ccf4": {
+  "resume": "Couverture du crash de l'avion médicalisé au Nouveau-Mexique et du brouillage militaire.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Même affaire.",
+  "doublon_de": "2861df8395330024",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "79e607bc94f4f6df": {
+  "resume": "Couverture du crash de l'avion médicalisé au Nouveau-Mexique et du brouillage militaire.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Même affaire.",
+  "doublon_de": "2861df8395330024",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "500a7db787f80984": {
+  "resume": "Couverture du crash de l'avion médicalisé au Nouveau-Mexique et du brouillage militaire.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Même affaire.",
+  "doublon_de": "2861df8395330024",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "e9d4ed7d1c4129a4": {
+  "resume": "Couverture du crash de l'avion médicalisé au Nouveau-Mexique et du brouillage militaire.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Même affaire.",
+  "doublon_de": "2861df8395330024",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "9e8c87d1c0b2a27c": {
+  "resume": "Couverture du crash de l'avion médicalisé au Nouveau-Mexique et du brouillage militaire.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Même affaire.",
+  "doublon_de": "2861df8395330024",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "1e322a06f6c17a08": {
+  "resume": "Couverture du crash de l'avion médicalisé au Nouveau-Mexique et du brouillage militaire.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Même affaire.",
+  "doublon_de": "2861df8395330024",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "a6fb8bb46f8db58c": {
+  "resume": "Une université texane teste l'IA pour repérer le leurrage GPS des drones.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 20,
+  "action": "Rien",
+  "pourquoi": "Culture générale sur la menace GNSS.",
+  "doublon_de": "171e76fdfb9a5f73",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "a64d422833986d1d": {
+  "resume": "Le brouillage GPS en Europe perturbe aussi des satellites.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Culture générale sur la menace GNSS.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "cf04cc4d3c156b6b": {
+  "resume": "Un vol Qatar Airways vers Seattle signale une double perte du signal GPS au-dessus de l'Irak.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 25,
+  "action": "Rien",
+  "pourquoi": "Culture générale sur la menace GNSS.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "b8143a55a507aec7": {
+  "resume": "Le brouillage GPS est devenu un problème quotidien pour les compagnies.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 35,
+  "action": "Lire",
+  "pourquoi": "Culture générale sur la menace GNSS.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "bcc813aada3a463a": {
+  "resume": "Un nouveau boîtier avionique contre le brouillage GPS entre en production.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 20,
+  "action": "Rien",
+  "pourquoi": "Culture générale sur la menace GNSS.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "83488cb658dd4bf4": {
+  "resume": "Le Telegraph se demande si une interférence GPS peut faire tomber un avion.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Culture générale sur la menace GNSS.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "26f89baa3258392d": {
+  "resume": "Skyband s'appuie sur Iridium pour atténuer le brouillage et le leurrage GNSS.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 20,
+  "action": "Rien",
+  "pourquoi": "Culture générale sur la menace GNSS.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "1177398258d304db": {
+  "resume": "Comment des pilotes d'airBaltic gèrent le brouillage GPS sur un vol vers l'Arménie.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Culture générale sur la menace GNSS.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "ed2e07019c7ec34f": {
+  "resume": "La dégradation GNSS affecte aussi la gestion du trafic des drones (UTM) et les vols hors vue.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 35,
+  "action": "Lire",
+  "pourquoi": "Culture générale sur la menace GNSS.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "c847098462c95cf8": {
+  "resume": "Finnair adapte la formation de ses pilotes au brouillage GPS quotidien en Baltique.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 40,
+  "action": "Lire",
+  "pourquoi": "Culture générale sur la menace GNSS.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "c2106e1ea55dbd53": {
+  "resume": "Une « instabilité » GPS perturbe des Embraer E2 ; une enquête est ouverte.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Culture générale sur la menace GNSS.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "3a13ad46cdd7335a": {
+  "resume": "Article sur la navigation par compas face au brouillage GPS.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Peu pertinent.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "414d9ca14d1568ce": {
+  "resume": "Northrop présente un drone d'attaque qui vole sans GPS.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Peu pertinent.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "f8256d8ddf587d69": {
+  "resume": "Le drone Lumberjack de Northrop vole sans GPS grâce à la navigation quantique.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Peu pertinent.",
+  "doublon_de": "414d9ca14d1568ce",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "e53806708349c0d7": {
+  "resume": "Article affirmant que la Suisse abandonne l'ILS alors que le leurrage GPS touche les équipages chaque jour.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Culture générale sur la menace GNSS.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "c85ec21fd84fc45f": {
+  "resume": "Des chercheurs testent la navigation magnétique contre le brouillage GPS.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 20,
+  "action": "Rien",
+  "pourquoi": "Culture générale sur la menace GNSS.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "1f746362e836433f": {
+  "resume": "Un avion d'affaires navigue quatre heures sans GPS.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 15,
+  "action": "Rien",
+  "pourquoi": "Peu pertinent.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "6dcbb41a8821ee53": {
+  "resume": "Le brouillage GPS au-dessus de la Russie rendrait des avions de ligne invisibles aux radars, selon Zelensky.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Culture générale sur la menace GNSS.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "3f17bab980f9b3e9": {
+  "resume": "Table ronde AIN sur la préparation au leurrage et au brouillage.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 35,
+  "action": "Lire",
+  "pourquoi": "Culture générale sur la menace GNSS.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "152b8790c3ebb1fc": {
+  "resume": "Signaux GPS sous pression sur la côte balte polonaise.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Culture générale sur la menace GNSS.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "f30f18cf68764626": {
+  "resume": "Le brouillage anti-drones peut clouer au sol des vols de drones légaux à des kilomètres.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 20,
+  "action": "Rien",
+  "pourquoi": "Culture générale sur la menace GNSS.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "c5b829690977f52b": {
+  "resume": "Skyband développe un récepteur basé sur l'orbite basse pour valider le GPS à bord.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 15,
+  "action": "Rien",
+  "pourquoi": "Peu pertinent.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "342f6dc622553a25": {
+  "resume": "Utiliser les données ADS-B pour cartographier les interférences GNSS.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 35,
+  "action": "Lire",
+  "pourquoi": "Culture générale sur la menace GNSS.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "3ec85330376283ea": {
+  "resume": "Newsletter sur les risques du brouillage GPS militaire pour l'aviation.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 15,
+  "action": "Rien",
+  "pourquoi": "Peu pertinent.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "72bac85049aba38c": {
+  "resume": "Article sur le ciblage du secteur aérien par les cyberattaquants et la réponse attendue des contrôleurs aériens.",
+  "tags": [
+   "Menace",
+   "Gouvernance"
+  ],
+  "exigences": [
+   "IS.I.OR.220"
+  ],
+  "perimetre": "Entités",
+  "score": 50,
+  "action": "Lire",
+  "pourquoi": "Concerne directement les prestataires de navigation aérienne comme l'ANA.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "57e81f8f2752bf7a": {
+  "resume": "L'autorité de l'aviation civile du Bangladesh renforce sa cybersécurité avant un audit de l'ICAO.",
+  "tags": [
+   "Gouvernance",
+   "Réglementation"
+  ],
+  "exigences": [
+   "IS.AR.200"
+  ],
+  "perimetre": "DAC",
+  "score": 45,
+  "action": "Lire",
+  "pourquoi": "Exemple d'une autorité qui se prépare à un audit ICAO incluant la cybersécurité : parallèle utile pour la DAC.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "01dbfff7a173e43a": {
+  "resume": "Le Kazakhstan accueille la Semaine de la sûreté de l'ICAO 2026.",
+  "tags": [
+   "Réglementation"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Événement ; vérifier si un volet cybersécurité est prévu.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "358699095f4e17a0": {
+  "resume": "Article sur la sûreté aérienne face aux nouveaux défis mondiaux.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 20,
+  "action": "Rien",
+  "pourquoi": "Contexte.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "4ff9b283b938f4bb": {
+  "resume": "Le Kazakhstan vise un rôle accru à l'ICAO.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Institutionnel.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "414a7abe95a94844": {
+  "resume": "Article sur des vols vers les États-Unis interrompus en Europe après une décision de la FAA (Italie).",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 15,
+  "action": "Rien",
+  "pourquoi": "Source peu fiable, à vérifier ; sans dimension cyber apparente.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "a611a2a23368ce3f": {
+  "resume": "La page NIS2 de la Commission a changé, mais seulement ses liens vers les réseaux sociaux et sa date de mise à jour.",
+  "tags": [
+   "NIS2"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Aucun changement de fond détecté.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "1a02d42cad707753": {
+  "resume": "Atelier CNPD DaProLab sur la conservation et la minimisation des données dans le secteur financier.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Secteur financier, hors sujet.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "bf3a2f1909f6823f": {
+  "resume": "L'EASA publie la version 3 du portail de reporting ReFuelEU Aviation.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Environnement.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "22f597a2f49cf2bd": {
+  "resume": "Organigramme de la DAC (version anglaise).",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "DAC",
+  "score": 15,
+  "action": "Rien",
+  "pourquoi": "Page institutionnelle ; utile pour connaître l'organisation, pas une actualité.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "0f624cd41a8441bf": {
+  "resume": "Organigramme de la DAC.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "DAC",
+  "score": 15,
+  "action": "Rien",
+  "pourquoi": "Page institutionnelle ; utile pour connaître l'organisation, pas une actualité.",
+  "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "89a80f82348ff26d": {
+  "resume": "Liste des centres aéromédicaux et médecins agréés par la DAC.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-24T03:49:19Z"
  }
 }
