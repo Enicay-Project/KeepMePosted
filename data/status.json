@@ -3,10 +3,10 @@
   "name": "EASA – Actualités",
   "url": "https://www.easa.europa.eu/en/newsroom-and-events/news",
   "ok": true,
-  "new": 1,
+  "new": 0,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z",
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z",
   "links": "11/804"
  },
  "easa-press": {
@@ -15,8 +15,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z",
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z",
   "links": "12/805"
  },
  "easa-npa": {
@@ -25,8 +25,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z",
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z",
   "links": "50/1053"
  },
  "easa-decisions": {
@@ -35,8 +35,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z",
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z",
   "links": "49/974"
  },
  "easa-cyber": {
@@ -45,8 +45,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z"
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z"
  },
  "icao-news": {
   "name": "ICAO – Actualités",
@@ -54,18 +54,18 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z",
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z",
   "links": "10/243"
  },
  "ec-nis2": {
   "name": "Commission européenne – Page NIS2",
   "url": "https://digital-strategy.ec.europa.eu/en/policies/nis2-directive",
   "ok": true,
-  "new": 0,
+  "new": 1,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z"
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z"
  },
  "enisa-news": {
   "name": "ENISA – Actualités",
@@ -73,8 +73,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z",
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z",
   "links": "14/189"
  },
  "certeu-advisories": {
@@ -83,8 +83,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z",
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z",
   "links": "22/182"
  },
  "chd-8364": {
@@ -93,8 +93,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z"
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z"
  },
  "circl": {
   "name": "CIRCL – Publications",
@@ -102,28 +102,28 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z",
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z",
   "links": "110/221"
  },
  "cnpd": {
   "name": "CNPD – Actualités",
   "url": "https://cnpd.public.lu/fr/actualites.html",
   "ok": true,
-  "new": 0,
+  "new": 1,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z",
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z",
   "links": "20/105"
  },
  "gn-lu-acteurs": {
   "name": "Google News – Acteurs aviation luxembourgeois",
   "url": "https://news.google.com/rss/search?q=Cargolux+OR+Luxair+OR+lux-Airport+OR+%22Findel%22+OR+Luxaviation+OR+Jetfly+OR+%22Global+Jet+Luxembourg%22&hl=fr&gl=LU&ceid=LU:fr",
   "ok": true,
-  "new": 45,
+  "new": 47,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z"
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z"
  },
  "gn-lu-ana-dac": {
   "name": "Google News – ANA, DAC, aviation au Luxembourg",
@@ -131,8 +131,8 @@
   "ok": true,
   "new": 11,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z"
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z"
  },
  "gn-nis2-lu": {
   "name": "Google News – NIS2 au Luxembourg",
@@ -140,8 +140,8 @@
   "ok": true,
   "new": 9,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z"
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z"
  },
  "gn-partis": {
   "name": "Google News – Part-IS et cybersécurité aviation",
@@ -149,26 +149,26 @@
   "ok": true,
   "new": 8,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z"
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z"
  },
  "gn-gnss": {
   "name": "Google News – Brouillage et spoofing GNSS",
   "url": "https://news.google.com/rss/search?q=GNSS+OR+GPS+jamming+OR+spoofing+aviation+OR+flights&hl=en&gl=US&ceid=US:en",
   "ok": true,
-  "new": 44,
+  "new": 87,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z"
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z"
  },
  "gn-supply": {
   "name": "Google News – Fournisseurs critiques de l'aviation",
   "url": "https://news.google.com/rss/search?q=%28SITA+OR+%22Collins+Aerospace%22+OR+Amadeus+OR+Frequentis+OR+Thales%29+%28cyberattack+OR+ransomware+OR+breach+OR+vulnerability%29&hl=en&gl=US&ceid=US:en",
-  "ok": false,
-  "new": 0,
-  "error": "HTTPError: HTTP Error 429: Too Many Requests",
-  "last_ok": "2026-11-23T03:48:06Z",
-  "checked": "2026-11-23T11:05:37Z"
+  "ok": true,
+  "new": 68,
+  "error": null,
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z"
  },
  "cisa-ics": {
   "name": "CISA – Avis ICS",
@@ -176,8 +176,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z"
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z"
  },
  "cisa-all": {
   "name": "CISA – Tous les avis",
@@ -185,8 +185,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z"
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z"
  },
  "therecord": {
   "name": "The Record",
@@ -194,8 +194,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z"
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z"
  },
  "bleeping": {
   "name": "BleepingComputer",
@@ -203,8 +203,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z"
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z"
  },
  "securityweek": {
   "name": "SecurityWeek",
@@ -212,34 +212,34 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z"
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z"
  },
  "gn-eurocontrol-icao": {
   "name": "Google News – EUROCONTROL et ICAO (cybersécurité, ATM)",
   "url": "https://news.google.com/rss/search?q=EUROCONTROL+OR+ICAO+%28cyber+OR+cybersecurity+OR+%22information+security%22+OR+GNSS%29&hl=en&gl=US&ceid=US:en",
   "ok": true,
-  "new": 36,
+  "new": 73,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z"
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z"
  },
  "gn-gouv-lu-aviation": {
   "name": "Google News – gouvernement.lu (DAC, aviation)",
   "url": "https://news.google.com/rss/search?q=site:gouvernement.lu+%28aviation+OR+a%C3%A9roport+OR+Findel+OR+%22aviation+civile%22+OR+drone%29&hl=fr&gl=LU&ceid=LU:fr",
   "ok": true,
-  "new": 92,
+  "new": 85,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z"
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z"
  },
  "gn-govcert-circl": {
   "name": "Google News – GOVCERT.LU, CIRCL, cybersécurité au Luxembourg",
   "url": "https://news.google.com/rss/search?q=GOVCERT.LU+OR+CIRCL+OR+%22cybers%C3%A9curit%C3%A9+Luxembourg%22+OR+%22cyberattaque+Luxembourg%22&hl=fr&gl=LU&ceid=LU:fr",
   "ok": true,
-  "new": 8,
+  "new": 9,
   "error": null,
-  "last_ok": "2026-11-23T11:05:37Z",
-  "checked": "2026-11-23T11:05:37Z"
+  "last_ok": "2026-11-24T03:47:48Z",
+  "checked": "2026-11-24T03:47:48Z"
  }
 }
