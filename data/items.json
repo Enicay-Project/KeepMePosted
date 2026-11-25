@@ -1,5 +1,101 @@
 [
  {
+  "id": "d31e943eef0bed9e",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "Media: Russian warship suspected of jamming GPS signals for about 140 flights near Britain - Mezha.net",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTG0tSWdvQXQzVGhRdXdvMUZYTGIxYzMxVjlIWmhyall3WkdpWnQwNFE2THh1b0lIbnM4Mkw1ajNsZmFhR1lYZzlvT3VtQnhiNHlMcV9xalJ5TmZGSDUwZ2FwTGJYMURsZGhrbTlVbG1qMURrRWx5UUNjZUlBb1dsYnhETUNES1FQ?oc=5",
+  "summary": "Media: Russian warship suspected of jamming GPS signals for about 140 flights near Britain Mezha.net",
+  "published": "2026-11-24T20:28:57Z",
+  "collected": "2026-11-25T03:47:55Z"
+ },
+ {
+  "id": "2dd1d7d95cca39bc",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "Russian Warship Suspected of Jamming GPS Signals for 140 Passenger Flights Near the UK - UNITED24 Media",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSkVTX2c4cFBGY0tBNU00TjJyc2h3eWRUQ2JYeXpyNkpFdENiLTFWc2NpRWZINXFLdVRjXzJPcU1BWlFMb2hzdzdYSDZsa1V2ZDdValNNNkczR3RzVUhONzVXRWZqTjNnNEpNTEJNQ2JwU1V3OXJYUmhaS0o0X1d5WlA4YmIxazBkN3owQWtfUUFETGF6WTdkbXhZajdSWjhuTXVycGlkX3pDWU9wNFFpcXZRdS1ka3BsUUpFaFNCU2lKQQ?oc=5",
+  "summary": "Russian Warship Suspected of Jamming GPS Signals for 140 Passenger Flights Near the UK UNITED24 Media",
+  "published": "2026-11-24T20:28:19Z",
+  "collected": "2026-11-25T03:47:55Z"
+ },
+ {
+  "id": "e7548f7228916ec7",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "British Airways and easyJet GPS Interference: Suspected Russian Jamming Under International Law - Diplomacy and Law",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaFVhVnd2UTYycjczMU44d3JjODV6T1cyQ045dWJTMG1vcVdNODJXdmhDTGNUTGZIcTF2Ry1sXzFaenYxU3Fsd3p5ZmRvN2NuXzhEWmRIM2NzWUlzM2NiOG1qNFNJeTU0aTlBZlU5U3dUcVZlZ29xakxrRlpTbk52MTBFZw?oc=5",
+  "summary": "British Airways and easyJet GPS Interference: Suspected Russian Jamming Under International Law Diplomacy and Law",
+  "published": "2026-11-24T18:57:59Z",
+  "collected": "2026-11-25T03:47:55Z"
+ },
+ {
+  "id": "b0fc13eb83c46325",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "GPS Jamming Linked to a Russian Ship Disrupted 140 Flights Over the United Kingdom and the North Sea - Мілітарний",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa2s3RzBveTNZcUwtTnY2UEVYQzc1a0pSRlJJN1FSdnFSQTM1ejdiLVBlUEZZRDFPdWlMTlFhdEJqTmFyWWlyNXVQbjJrLVBJYlFWMHB2blF4YzZwN1BKcFJXWUxONmR2QUhaVnMybDVrQ2pXQy01RzJUYklKSm9Hal93aklkUmVhQXBOdTktNHB6b0FLZkVaVXhmSkROV1k1Z1J5Mg?oc=5",
+  "summary": "GPS Jamming Linked to a Russian Ship Disrupted 140 Flights Over the United Kingdom and the North Sea Мілітарний",
+  "published": "2026-11-24T18:29:56Z",
+  "collected": "2026-11-25T03:47:55Z"
+ },
+ {
+  "id": "b0d0564e4e00bbfa",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "BA and easyJet flights had GPS signals 'jammed’ by a Russian warship - Metro.co.uk",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY2NFTzVqaGNOYVc1MXRTdEVhZjBKSlcyUVd4RTFNbmxtRWpWSkNvd3pyY2xvSk4wR3ZhNFR6VFZFR1V6MWdRU2N5bVRZaktsZlhKTHJBUHFRelUzTjZOeHVUREVnMlBoeHRiak55WHptcm9DODNHcHJhcWNSVTBEVkdvdjJaaWN4eGpVS1VnVXV0TG84b2x2aEdNNVfSAaIBQVVfeXFMTkJTOFFoSC1FOWMyOWxtNUVlMmJ4S3M5RnNiZnZOOWdyaWpRR0xZdnFMZUZCTzNwZ2wwTUd3ZXJPYk1lLWk1RWJOSWNfd084aVREQXhYb1lOR3VUR0VmVENGNXp1bWxvZTFTQ09UejJvbTd5RVRxcmxxdEpHMFJyN1NSMDFhVVFNRUpCdVc2OEJiTjZvSDA2QUlNejNWSzVOLWJB?oc=5",
+  "summary": "BA and easyJet flights had GPS signals 'jammed’ by a Russian warship Metro.co.uk",
+  "published": "2026-11-24T15:24:00Z",
+  "collected": "2026-11-25T03:47:55Z"
+ },
+ {
+  "id": "e8ce377a54c5d7f3",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "Russian Warship Suspected of Jamming GPS on 140 Flights - cwibc.co.id",
+  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91cmhFUHo1eHJyRkphWVU2TUppNzdSdkVsdkd6bV8wWmN0a0ZfT3dJNzBnV3hQbUxpVHVUNEVTT2w2bUgyWE1RRlcybFJPZHBmbnhsTnpHSi1JdnV6cXdUX2dXbGZBbTZRQjV6RUlOSQ?oc=5",
+  "summary": "Russian Warship Suspected of Jamming GPS on 140 Flights cwibc.co.id",
+  "published": "2026-11-24T15:04:57Z",
+  "collected": "2026-11-25T03:47:55Z"
+ },
+ {
+  "id": "b4f1c88563a89b92",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "Russian Warship Suspected of Jamming GPS on 140 Flights - Demokratis.co.id",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQVEtFZGZCeGVXalN4a3hIOWcwd1VaM3JVVTBucno1R3A2X3Z6cUZfd0hNalRidjhRVVZwTjkzRklpVllXMjBZUml0b0xueEt6eHdGbGM1N1l1dFlWTTlZRVJnYmI2UFNtMThQQUl1OG4?oc=5",
+  "summary": "Russian Warship Suspected of Jamming GPS on 140 Flights Demokratis.co.id",
+  "published": "2026-11-24T14:58:57Z",
+  "collected": "2026-11-25T03:47:55Z"
+ },
+ {
+  "id": "ce9a2883ac9591be",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Luxair s'envole vers Riga dès mai 2027 - lequotidien",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd2FiQzIzLXVvMDVHRFJmckNUb1VRcnFVU2VhLWRDWWtwX2otbHRlSGpaWENueXFXNm1ZVklCR2lCQkVRb2JPWi1OU1BUYTdmbk9XYi1FOEFueHRMNm8yUko1MHpQamJhbEF1TTlwRkxDaVpVMkQ5MGFVblltRXBDd0xhSXdIcGtpMGxz?oc=5",
+  "summary": "Luxair s'envole vers Riga dès mai 2027 lequotidien",
+  "published": "2026-11-24T14:14:08Z",
+  "collected": "2026-11-25T03:47:55Z"
+ },
+ {
   "id": "3349cfbabea10de9",
   "source": "easa-press",
   "source_name": "EASA – Communiqués de presse",
@@ -250,6 +346,18 @@
   "summary": "EasyJet, Ryanair and BA planes among 140 ‘jammed by Russian warship’ off UK coast The i Paper",
   "published": "2026-11-23T15:36:58Z",
   "collected": "2026-11-24T03:47:48Z"
+ },
+ {
+  "id": "7601886e502d1cb7",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "EasyJet, Ryanair, and BA planes among 140 ‘jammed by Russian warship’ off UK coast - The i Paper",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQld1bTgtY1JUaEtNa1VNbFBycXktalpXczNjYVNXVVc1Tm0tZm9hMmp5SVNMS050cXVUMGxNU2g0bzVtcDZBXy00ak9oRnJ4b2xrU3FmczUyc2tQZ0MxY245LWVTdmtBLXhGQUhENzBycm55aS0wcWNmSDYzR05yRlY4Q2VGc1V5QXJsTQ?oc=5",
+  "summary": "EasyJet, Ryanair, and BA planes among 140 ‘jammed by Russian warship’ off UK coast The i Paper",
+  "published": "2026-11-23T15:36:58Z",
+  "collected": "2026-11-25T03:47:55Z"
  },
  {
   "id": "fb0fded395d12c8c",
@@ -1116,6 +1224,18 @@
   "collected": "2026-11-22T03:48:05Z"
  },
  {
+  "id": "7a0d6e74e0f833a9",
+  "source": "gn-govcert-circl",
+  "source_name": "Google News – GOVCERT.LU, CIRCL, cybersécurité au Luxembourg",
+  "category": "Menace",
+  "zone": "LU",
+  "title": "MISP : partager des IOC en 13 étapes, 90 min - shattered.io",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0VheklYNF9GUUdkUHVpejFoZzRCZXRxM2ZzcVM5VnpMQ0F2bUxpS3RfYTZVTm4tUHNDM1BNUEFVWDg2TXJnemZWVFlaZGtLY05lMU9ZZnZWUExQYmxNcnE0TVBmU1F4djVoY2N4VXlXejVxNW9qS2tlQXR3cXZpcWs0Y0V0WXQ1eGoxVjVqbFdNWUp5RjZr?oc=5",
+  "summary": "MISP : partager des IOC en 13 étapes, 90 min shattered.io",
+  "published": "2026-11-20T17:16:27Z",
+  "collected": "2026-11-25T03:47:55Z"
+ },
+ {
   "id": "0e8d4b576e3eb5a3",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
@@ -1762,6 +1882,30 @@
   "summary": "Thai Airways reports unauthorised access to passenger records The Straits Times",
   "published": "2026-11-10T08:00:00Z",
   "collected": "2026-11-24T03:47:48Z"
+ },
+ {
+  "id": "02d28fbc3372fdb3",
+  "source": "gn-govcert-circl",
+  "source_name": "Google News – GOVCERT.LU, CIRCL, cybersécurité au Luxembourg",
+  "category": "Menace",
+  "zone": "LU",
+  "title": "Après l’attaque des frigos connectés, le gouvernement fait le point - Virgule.lu",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFhzQl9rMXFxRVFORDRWcFRMQkFxNk54eDhQQzgzYmxUTnB5QlN3TDFDRWpJY1ZybFNRZnpBbjRqbXFycXlTQUhTbmt0bzdYSkl3YklwWXEyTGx5UUJZLXh3LThuVFVXUVpROE94Nk1jTVl2NTFQbW8weXhLS3hRSHc2aWw0Y1lCN2F4U3VzUy1rWmRkZldLQ1ZWNEpMR2tGbUpDcWpwZ0I5OHBINHZ0c0dNTFg?oc=5",
+  "summary": "Après l’attaque des frigos connectés, le gouvernement fait le point Virgule.lu",
+  "published": "2026-11-10T08:00:00Z",
+  "collected": "2026-11-25T03:47:55Z"
+ },
+ {
+  "id": "bc350f9c1d0ad58d",
+  "source": "gn-supply",
+  "source_name": "Google News – Fournisseurs critiques de l'aviation",
+  "category": "Fournisseur",
+  "zone": "INT",
+  "title": "Thai Airways Reveals Data Breach Affecting 60,529 Bookings - FTN news",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVgza0ZJaU9aY0tKT0VncHNXbVVPbTVZMnpGWXhIRFVVWkhVNXdXQmcxbDJGcVdMLUtIYjhQb2Z1YldGZ3c5LWNNSlB3S2xKQ0pVa0hVLWJ1WUhkUi1iTXczcGUtUVJ3SzBLNUhfX2huX1RzUWFFQ1lwOVZDUWZuMTRkR0ZpUUsx?oc=5",
+  "summary": "Thai Airways Reveals Data Breach Affecting 60,529 Bookings FTN news",
+  "published": "2026-11-10T08:00:00Z",
+  "collected": "2026-11-25T03:47:55Z"
  },
  {
   "id": "8cada7467f665e0b",
@@ -3252,6 +3396,18 @@
   "collected": "2026-11-24T03:47:48Z"
  },
  {
+  "id": "07a3abc4bb0e9342",
+  "source": "gn-govcert-circl",
+  "source_name": "Google News – GOVCERT.LU, CIRCL, cybersécurité au Luxembourg",
+  "category": "Menace",
+  "zone": "LU",
+  "title": "Le Portel : une Pink Party au Chaudron pour bouger au profit d’Octobre Rose - radio6.fr",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONThPNV9ZRGl4dGF0bUVoNkxDYVpyNHk1eTROMElTS0pXV1d6dGo1YWRxNkFDOXVHMHMxeENjYXNjVDNJb0xDUjZ0TlFUMllhcUJWb0hBb2hyZGxCaHY3alo1Tlp4ZGNkT2ZIb1BHM3pkZnlYNkRrdjV4SHk1YWFDdTlWODFPNkFwalVPdXNZblNSMDhpYUVyc2xQYTVmNWFET1ljckhLWndfWkVnbkxLZ2hySk3SAa8BQVVfeXFMUHlhVmtrb0lTeGlsVW1aTlVNb3VqT0tGaW9NQjlpeUJLY18wNk13M1pzZWxkMnN6ajRWeUgtZTJvNGxyQU8weThScVJFV0Flb1FCWWlTYXFVRXg0WnZHd1V6b1VqTTVxa09JNnBuajVtWEhlMWhHTGYzZUdCcFM1bGJ2aWhQSUpvd25yN1dvbzUwY2QzREVvVzFnM2xUc3pMUUtqRmR5TnM4TXpGZFNiZw?oc=5",
+  "summary": "Le Portel : une Pink Party au Chaudron pour bouger au profit d’Octobre Rose radio6.fr",
+  "published": "2026-10-07T07:00:00Z",
+  "collected": "2026-11-25T03:47:55Z"
+ },
+ {
   "id": "d542038389a9b72e",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
@@ -3960,6 +4116,18 @@
   "collected": "2026-11-21T03:48:10Z"
  },
  {
+  "id": "714e05774d7d1087",
+  "source": "gn-govcert-circl",
+  "source_name": "Google News – GOVCERT.LU, CIRCL, cybersécurité au Luxembourg",
+  "category": "Menace",
+  "zone": "LU",
+  "title": "Romillé. Une nouvelle saison se prépare chez les Volontaires - Ouest-France",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTGN6emRIdDF3TWZhSnNQRlFvT2gxUGU0UTBDZDRQZFhRMXg4NFBKcjZyRWVuQXNYTVo1bDlvbXFBQVdSVkZ3ZHkwaEEyczUwYV9pcEljcGlaUjJxNUZhMXcxQ1ZrdHZYNFlCcWlwS2IwSFh3eWppY29pa1ZGYnhkY3VNM2VaS1VRdGE4aUpuQVZrNmlwSGZBYjVvdXF5RkJlT1MtOEJDOUhnbFd1aGtEMXpZU3AyY1BoaFZZcjFwb1NBNGVOYkVoT3p2eWlJQTZiY2Y1Z01VLUppSnpqckZnVw?oc=5",
+  "summary": "Romillé. Une nouvelle saison se prépare chez les Volontaires Ouest-France",
+  "published": "2026-08-28T07:00:00Z",
+  "collected": "2026-11-25T03:47:55Z"
+ },
+ {
   "id": "623fe7c10e2bd963",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
@@ -4138,6 +4306,18 @@
   "summary": "A Medevac Plane Crashed Into the Side of a Mountain—Minutes After the U.S. Military Flipped a Switch Popular Mechanics",
   "published": "2026-08-07T07:00:00Z",
   "collected": "2026-11-24T03:47:48Z"
+ },
+ {
+  "id": "2d1602c6dcd2a667",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "Fatal air ambulance crash caused by GPS failure: report - New York Post",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeHdoN0Q1cEFtUTFDbkJuNFJLTUVtREppZTZVVV9CQm01QUNjQTNUcGF0MWhWUkIyQWk3Mzl3d2J1TUxkTFZiZjBDY2xEaDdrTG84R3NXNHhUNHRLaUZ2MVRoV1N4aHpINFdCYjhFbnNDM1lSVVoyTFJKZklTY0s1c3lyMjYzblBwUEJYSHFTNVppQmVneEFRMw?oc=5",
+  "summary": "Fatal air ambulance crash caused by GPS failure: report New York Post",
+  "published": "2026-08-07T07:00:00Z",
+  "collected": "2026-11-25T03:47:55Z"
  },
  {
   "id": "3e4cd7cd737bc1ec",
