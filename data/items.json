@@ -1,5 +1,101 @@
 [
  {
+  "id": "fdbe7fcc8ba3dc55",
+  "source": "easa-news",
+  "source_name": "EASA – Actualités",
+  "category": "Réglementation",
+  "zone": "EU",
+  "title": "A new EASA Pro homepage – discover the breadth of EASA’s work",
+  "link": "https://www.easa.europa.eu/en/newsroom-and-events/news/new-easa-pro-homepage-discover-breadth-easas-work",
+  "summary": "",
+  "published": "2026-11-25T11:37:45Z",
+  "collected": "2026-11-25T11:37:45Z"
+ },
+ {
+  "id": "7a2dcfd45b60fa61",
+  "source": "cnpd",
+  "source_name": "CNPD – Actualités",
+  "category": "Réglementation",
+  "zone": "LU",
+  "title": "La CNPD récompensée aux GPA Awards 2026 pour DAAZ, son outil d'accompagnement au RGPD",
+  "link": "https://cnpd.public.lu/fr/actualites/international/2026/11/daaz-gpa-award.html",
+  "summary": "",
+  "published": "2026-11-25T11:37:45Z",
+  "collected": "2026-11-25T11:37:45Z"
+ },
+ {
+  "id": "cc01711d17b437b9",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Luxair reliera Luxembourg à Riga pour la première fois à l’été 2027 - Air Journal",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTW51c3lsWk0tcVRLTnpKNTYwS2xUd214bEg1QXdjUUZfQmQzcWlDdjc4bjhqWXNZdEpVNmtxUUppX0d6TnNOdjVQcFd2N1RWb1d1Y0EtSXY4SWJYaDlpUE9JdTkzNzR0WnhqWGlTUlZGM19Famp0aG1fMlMyOFdQYjZaYi1SS0p2SlFUd01lVUZ4TVdzZ3FtTjJ4eGVjREFWbXZ5X1VIZW5nOUNhNkxiaDlEdW9OVU1u?oc=5",
+  "summary": "Luxair reliera Luxembourg à Riga pour la première fois à l’été 2027 Air Journal",
+  "published": "2026-11-25T09:00:01Z",
+  "collected": "2026-11-25T11:37:45Z"
+ },
+ {
+  "id": "4ebcf8c069ad60e0",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "Russian warship suspected of jamming GPS signals of 140 flights near UK - Hromadske",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1lVeU9wdlhlSWswUkdUdXJIcDZVQ3hUV3FkZkF1b2x2WTV2VXhqdl9vMS1UUko5dnRMRkxsTHZSS0RUNGxudThjSnplOUVURFc0NC05ZXVaSzdwQzNVX3BZOHU0X19OQXF1dldKUzg2ZUY1SGJnTWZtQ2ppWTRqampnakFiVjd5R0hndUg4MVdlZnlpMzZramR0ZE1IR1JnNmc4dFNtRkg2WG9QSEHSAbMBQVVfeXFMT2VkVkhnb2tzdFBCRWFTM0sydFBqMzBfTHBfMjhRYjZOQUhoNDhaMjR1REp4Y25ZSkRSZFlydTFrQ3h1ZWQySHh5WnFBVWxmUi1IWHBRclZFR05MTi1iV0JZRjZDNzNUbm00MDVHWlRlRzZKWWxNUUtvRG9GSF9nR1IxVzhOWXZUa2lxeVlhRTIwWGVVcTJnbW1zREJ4eHdPcHoyMTFyQnhKTFFvcy14cHMxQUk?oc=5",
+  "summary": "Russian warship suspected of jamming GPS signals of 140 flights near UK Hromadske",
+  "published": "2026-11-25T08:29:00Z",
+  "collected": "2026-11-25T11:37:45Z"
+ },
+ {
+  "id": "4475f784c4d3a8d2",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "Russian Frigate Suspected of Jamming GPS Signals Affecting 140 Flights - cwibc.co.id",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFZktqSVR2bjZoRTZ3MmQxbS1kUThxWTBpLTFkeUdOeDBuaHI4ZEN5U3ZIOXl5Sm5QMWdfc1BDeU5zNzR2Q1FqRHFuU01GVHpHclI1ajhTUjhYWWJHcEhqM2hyOVNMRzhBZXc?oc=5",
+  "summary": "Russian Frigate Suspected of Jamming GPS Signals Affecting 140 Flights cwibc.co.id",
+  "published": "2026-11-25T07:17:56Z",
+  "collected": "2026-11-25T11:37:45Z"
+ },
+ {
+  "id": "2f5b79628a160430",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Luxair : cette capitale européenne au charme médiéval sera bientôt accessible en vol direct - Actu.fr",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaG80d3QwTkR1LUp0TXEzdXRpSW9QRHFHcTlpd2ROcm5XQXM1ZEtzTk5KRkhGTF95N19WZ1VhbmxuN004U2ZLd2FqNnhSNy1xMUdPbklfUlJncE5lMXlxTnpoTVp4V0FUeVFCSk9vY1htTTcyTXVxOGtzRGlEOHBEeldHTHJuVlUzbEhZa3dfZC01aHV4eHVYUFh4SjB2MU1JZEEtZlJKQ3k2ejF6M1otLWVnM194VXVJdnAtVWZpcVBjNE1QeEE?oc=5",
+  "summary": "Luxair : cette capitale européenne au charme médiéval sera bientôt accessible en vol direct Actu.fr",
+  "published": "2026-11-25T06:02:01Z",
+  "collected": "2026-11-25T11:37:45Z"
+ },
+ {
+  "id": "652b7a2833f08a09",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Masterplan 2050: La mue à marche forcée du Findel - Reporter.lu",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWFJHdjJmaGw0ektIV25oR0tFZEpxMFRnUG5MYWZyczVac2lVbjhtWFp6bk9hX2dqalFiY3hHLVlNOFZodTg0U000Sk1TbUFBMmRaa3BidGpUVEVwbTVqVGVNVXZQVVNyYXBreGtGZ2R2VEpCNHdmVF82bkdFN0JZTHV5RHNVVmJUU0tZYloxX2VKLXlQZV9BY1VB?oc=5",
+  "summary": "Masterplan 2050: La mue à marche forcée du Findel Reporter.lu",
+  "published": "2026-11-25T04:01:00Z",
+  "collected": "2026-11-25T11:37:45Z"
+ },
+ {
+  "id": "cfc457cda20068d6",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "Russian Warship Accused of Jamming GPS on Dozens of Flights Off UK Coast - Times Now",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU3VDbGhJOFBSSThfcHFaVjNKd3hUZUE4M2RlZzNWNE9vN3VXYzZ6YXBHWE1Wc2pPV0tiRFRLNV9WSmRXSWJZc1lpNEZ5b0N2ZmFTNHppN0paT2M1cGVva0hGbnV6X1EwMV9PSzJ3SFJ1YlI2T1pXRm04VC1NcW93T3NDLUw2X2UzWDdEaVNWeWplRDVtakN0Y3dicHZ6SVZVemxjQ3hnRXkxSUZGUlVkY2tkb1FUVFFORHVLeEV2ZVg1cWPSAcgBQVVfeXFMUE1MWm5MWlVmd25Sa0JKenNobzJJb0dwV0ZEUDE1ODVhWkpZZU9icEpzMGwwUW5neWt3MVNmdlFYbW5zMEFSUjBSdTdhUjR4MlRuRktqVlk1ODNGSERUNkdlWmZvUEVRMkVhUEQxRE02d3pvUmw4WGE4YXM1YkZST0FHaDV2OG1zWnBxdDNVS3dKR2dHd0V5WkNTdGFqS2M2OEJoYzNmaVhfTGxNd0tGcmNpRTgwMkZ5dlJOelk3TFc2ZERWU1dXMVg?oc=5",
+  "summary": "Russian Warship Accused of Jamming GPS on Dozens of Flights Off UK Coast Times Now",
+  "published": "2026-11-24T23:40:52Z",
+  "collected": "2026-11-25T11:37:45Z"
+ },
+ {
   "id": "d31e943eef0bed9e",
   "source": "gn-gnss",
   "source_name": "Google News – Brouillage et spoofing GNSS",
@@ -46,6 +142,18 @@
   "summary": "GPS Jamming Linked to a Russian Ship Disrupted 140 Flights Over the United Kingdom and the North Sea Мілітарний",
   "published": "2026-11-24T18:29:56Z",
   "collected": "2026-11-25T03:47:55Z"
+ },
+ {
+  "id": "b4b70faab301f512",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "GPS Jamming Affects 140 Aircraft Near UK Coast, Including British Airways, easyJet and Ryanair Flights - Rus Tourism News",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc0RGNlAyTTlzZHNsQW9lVUxfS2Vob25aNmYyNUZXWDJ2SjVPcjBLajBaeG9xVWx1UUxBUkRyd2dmalJwd0I0Njhsd3RZWW53TXZYTFE1WkZFZjdNSnRUd2ROR2pYM3podU0xMUQ3bmRrZUxsMnp6ZjZ1QnR6RDFDV05lV083SEJMZHdZZlJ3SEZxZEZRZm5ROE10VFFiTXYtNmp4QllFQS16a3lUc2thN2FoSWxpbktWUHExc2dPWkk1NllBSmt4ZGRxcU5ZajFmc3FTdnFNbW51cjg?oc=5",
+  "summary": "GPS Jamming Affects 140 Aircraft Near UK Coast, Including British Airways, easyJet and Ryanair Flights Rus Tourism News",
+  "published": "2026-11-24T17:13:32Z",
+  "collected": "2026-11-25T11:37:45Z"
  },
  {
   "id": "b0d0564e4e00bbfa",
@@ -180,6 +288,18 @@
   "collected": "2026-11-24T12:50:28Z"
  },
  {
+  "id": "6d9c071ee929c592",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "Scots flights targeted by Russian warship as GPS jamming sparks disruption - Daily Record",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcm5hOXFSQlpNLXU1UTR6SWlOM2dlcnlLZVZYVERUMzlQU2c5RmVPSFZfLVlXLTVNQ3NWb25vMkRxZjVpSlNENG9XcFNVeFFvV0xRNERFSGFleVJWR2RrSWJ1d3hyeThhLWp5UENrdVR5TjdHdTNwbklrbnZraEpsS0FTZ2hfNWZoVHVzejRldXBpcEczMThhMjN5UdIBoAFBVV95cUxOYnNqYmlyemVfRTIyREhXWEYxUzBYY0M4Ti1lTlJra1N5MUMwSUZQclpCUEJUZ0lmVW5OWTNMbkNMTkhBM1o0TTdHcUdncjFFUEJ6Q0Y0UGxERHh6N1NiMm54ZGp6eDBRa1lSM1lGbjFYWGFCeXdkZmV5alNpU214NDUyZDQyLTF4VmRodUJvTHZ2WXpubkhMZVRhNG9VQVJ3?oc=5",
+  "summary": "Scots flights targeted by Russian warship as GPS jamming sparks disruption Daily Record",
+  "published": "2026-11-24T12:38:58Z",
+  "collected": "2026-11-25T11:37:45Z"
+ },
+ {
   "id": "833ad76bdcc2a0d6",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
@@ -202,6 +322,18 @@
   "summary": "Russian warship suspected of jamming GPS on 140 flights off UK coast amid hybrid warfare warning LBC",
   "published": "2026-11-24T11:59:22Z",
   "collected": "2026-11-24T12:50:28Z"
+ },
+ {
+  "id": "4b9cd3264d4cea61",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "Russian warship 'jammed GPS on 140 planes' including Ryanair and EasyJet off English coast - The Mirror",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbUtzTEw3UW44SEQxZlljMnVjbzA2d2RRS2VKV3RkY3JCX0paQ3FMekVERGs5dHN4UEVBVzBFT2VPbmNEQmlFc0lBWWJZYjN0U0l5NlFNeWUwRU4xYmpMMlJUQlBxenQ0NGh6UW1ZRWQwVDd1NWpMbmNWR3JKUWdUMmxfT056alnSAYwBQVVfeXFMTzd6VFp3c3hNWkVodnd5bXFmRzFMZDUzSU5FOFY3cGtHYzdKdVVld1hBaVJHVE5DVlQxUkZzanZkZWVQaFlHbEVZcHJzYUxsZG01cU9BS3pZQ2ZZZjYtTHN0QTlFSnhMYUxuYkpfcU1PYzBaS1BPdXR5TFpzejhxNENpeFVHMTlLMFRBYUI?oc=5",
+  "summary": "Russian warship 'jammed GPS on 140 planes' including Ryanair and EasyJet off English coast The Mirror",
+  "published": "2026-11-24T10:26:07Z",
+  "collected": "2026-11-25T11:37:45Z"
  },
  {
   "id": "05fe9c1daa935c9b",
@@ -228,6 +360,18 @@
   "collected": "2026-11-24T12:50:28Z"
  },
  {
+  "id": "bb8b179033fd34fd",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "Russian warship 'sparked chaos on Ryanair, Easyjet and BA flights by jamming GPS' - Daily Express",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM3JjQjZ5M29mdmFRUk1ZTVZGUC1qM29WakZfTUc2NDloc25odTVBQTdYWjJrVHF5M2MyeUdoSUZEWjc1OHNqc1FSdDV2dVBnZkRiOHRyUTZ3cnpXYWRiMW5jMmE0bnhzZWJxZTQ3OWR3NDdUX1pfTVJkQjV6blNuVENCTGxmc09iNWFheGlZRmHSAZYBQVVfeXFMTzdkUmNvM1RDWlZyQ0U0U0NYcGQ3Q01Uc1N1YmNkZHQ2dDU4eFZ6YVVLMmJKY3JKZnczTDJXRkxVbWtqNlVGeDlhQkJfaGI3cm5fZ1pWOGFJNTItTTd3MHY1VmM3eU01WFM4YWlabUFiSXUzMi16MVRqTzFTaDliaFk4amlpaTBlNG8tZEtCNkdGVG0tUmNn?oc=5",
+  "summary": "Russian warship 'sparked chaos on Ryanair, Easyjet and BA flights by jamming GPS' Daily Express",
+  "published": "2026-11-24T09:40:00Z",
+  "collected": "2026-11-25T11:37:45Z"
+ },
+ {
   "id": "7a0c2a14d08b9dba",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
@@ -238,6 +382,18 @@
   "summary": "Un suspect interpellé à Paris: Cambriolage de la Cité policière au Findel : l'enquête avance RTL Lëtzebuerg",
   "published": "2026-11-24T09:25:00Z",
   "collected": "2026-11-24T12:50:28Z"
+ },
+ {
+  "id": "ffad9e22b6f77528",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "Russian warship ‘jammed GPS’ on 140 planes off UK coast sparking mid-air panic - including BA & EasyJet flights - The Sun",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85MGI0a0NhOE5SNFVqemxDYXhNeWJKNW9ieDcyQ2lpSTB2WnNTXzlXSFZ4NnE2TEZpRlpaRHgtOHMxUHNBOHZRdEJpTEQxcHZHWVU4M2NrLThsUi1hY3o5WWhvY0FnT1lNNmd1Z0xyRGpYV2pBWVVwT0pkd056M2c?oc=5",
+  "summary": "Russian warship ‘jammed GPS’ on 140 planes off UK coast sparking mid-air panic - including BA & EasyJet flights The Sun",
+  "published": "2026-11-24T09:24:00Z",
+  "collected": "2026-11-25T11:37:45Z"
  },
  {
   "id": "5a606c60fae7f764",

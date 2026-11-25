@@ -10,12 +10,13 @@
 "https://www.easa.europa.eu/en/newsroom-and-events/news/easa-publishes-new-revision-easy-access-rules-aircrew",
 "https://www.easa.europa.eu/en/newsroom-and-events/news/easa-publishes-updated-easy-access-rules-cs-gen-mmel-issue-3",
 "https://www.easa.europa.eu/en/newsroom-and-events/news/easa-publishes-updated-easy-access-rules-cs-mmel-issue-4",
+"https://www.easa.europa.eu/en/newsroom-and-events/news/new-easa-pro-homepage-discover-breadth-easas-work",
 "https://www.easa.europa.eu/en/newsroom-and-events/news/new-vacancies-published-air-operations-expert-air-operations-expert-rotorcraft-and-human-factors",
 "https://www.easa.europa.eu/en/newsroom-and-events/news/sunny-swift-threat-and-error-management-part-1",
 "https://www.easa.europa.eu/en/newsroom-and-events/news/updated-guidance-organisations-using-easa-organisation-approval-tool"
 ],
-"raw_links": 1309,
-"matched": 11
+"raw_links": 1308,
+"matched": 12
 },
 "easa-press": {
 "seen": [
@@ -327,6 +328,7 @@
 "https://cnpd.public.lu/fr/actualites/international/2026/10/mou-cnpd-aepd.html",
 "https://cnpd.public.lu/fr/actualites/international/2026/10/rapport-cnpd-ico-cnil-finance.html",
 "https://cnpd.public.lu/fr/actualites/international/2026/11/cnpd-gpa-comite-executif.html",
+"https://cnpd.public.lu/fr/actualites/international/2026/11/daaz-gpa-award.html",
 "https://cnpd.public.lu/fr/actualites/international/2026/11/edpb-privacy-for-kids.html",
 "https://cnpd.public.lu/fr/actualites/national/2026/09/daprolab-17sept.html",
 "https://cnpd.public.lu/fr/actualites/national/2026/09/dpai-sep2026.html",
