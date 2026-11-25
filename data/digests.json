@@ -114,5 +114,31 @@
     "note": "Amadeus : 38 mois d'exposition, l'argument clé pour la surveillance des fournisseurs."
    }
   ]
+ },
+ "2026-11-25": {
+  "date": "2026-11-25",
+  "synthese": "Pas de nouveauté réglementaire Part-IS ou NIS2. L'épisode de brouillage attribué à un navire russe le 9 novembre (environ 140 vols près du Royaume-Uni) est largement repris, avec une analyse juridique : c'est le signal principal du jour. On sait désormais que l'incident signalé par le gouvernement luxembourgeois le 10 novembre visait des systèmes frigorifiques connectés, a priori sans lien avec l'aviation. À lire aussi : un article sur ce que le Cyber Resilience Act implique pour l'aviation.",
+  "une": [
+   {
+    "id": "ded066a30cf62d47",
+    "note": "Brouillage d'origine étatique en mer du Nord : à intégrer dans la note GNSS pour le CISO."
+   },
+   {
+    "id": "99e431f5c5bd895b",
+    "note": "Préparer l'articulation CRA / Part-IS pour les fournisseurs des entités supervisées."
+   },
+   {
+    "id": "ef1ec186843c96cc",
+    "note": "Point clos : l'attaque visait des systèmes frigorifiques ; garder seulement un œil sur d'éventuelles victimes aéroportuaires."
+   },
+   {
+    "id": "7a0d6e74e0f833a9",
+    "note": "Piste : MISP comme outil de partage d'informations entre la DAC et les entités."
+   },
+   {
+    "id": "d6fa8453289b8de6",
+    "note": "Toujours ouvert : la qualification des détections de drones de septembre."
+   }
+  ]
  }
 }

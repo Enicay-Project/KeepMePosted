@@ -125,7 +125,7 @@ sources:
   - id: gn-govcert-circl
     name: Google News – GOVCERT.LU, CIRCL, cybersécurité au Luxembourg
     type: rss
-    url: https://news.google.com/rss/search?q=GOVCERT.LU+OR+CIRCL+OR+%22cybers%C3%A9curit%C3%A9+Luxembourg%22+OR+%22cyberattaque+Luxembourg%22&hl=fr&gl=LU&ceid=LU:fr
+    url: https://news.google.com/rss/search?q=GOVCERT.LU+OR+%22CIRCL+Luxembourg%22+OR+%22cybers%C3%A9curit%C3%A9+Luxembourg%22+OR+%22cyberattaque+Luxembourg%22&hl=fr&gl=LU&ceid=LU:fr
     category: Menace
     zone: LU
 

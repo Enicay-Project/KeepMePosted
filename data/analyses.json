@@ -4718,5 +4718,496 @@
   "action": "Rien",
   "pourquoi": "Hors sujet.",
   "analysed_at": "2026-11-24T03:49:19Z"
+ },
+ "d31e943eef0bed9e": {
+  "resume": "Un navire de guerre russe est soupçonné d'avoir brouillé le GPS d'environ 140 vols au large du Royaume-Uni.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 62,
+  "action": "Rien",
+  "pourquoi": "Même épisode de brouillage en mer du Nord.",
+  "doublon_de": "ded066a30cf62d47",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "2dd1d7d95cca39bc": {
+  "resume": "Un navire de guerre russe est soupçonné d'avoir brouillé le GPS d'environ 140 vols au large du Royaume-Uni.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 62,
+  "action": "Rien",
+  "pourquoi": "Même épisode de brouillage en mer du Nord.",
+  "doublon_de": "ded066a30cf62d47",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "b0fc13eb83c46325": {
+  "resume": "Un navire de guerre russe est soupçonné d'avoir brouillé le GPS d'environ 140 vols au large du Royaume-Uni.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 62,
+  "action": "Rien",
+  "pourquoi": "Même épisode de brouillage en mer du Nord.",
+  "doublon_de": "ded066a30cf62d47",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "b0d0564e4e00bbfa": {
+  "resume": "Un navire de guerre russe est soupçonné d'avoir brouillé le GPS d'environ 140 vols au large du Royaume-Uni.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 62,
+  "action": "Rien",
+  "pourquoi": "Même épisode de brouillage en mer du Nord.",
+  "doublon_de": "ded066a30cf62d47",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "e8ce377a54c5d7f3": {
+  "resume": "Un navire de guerre russe est soupçonné d'avoir brouillé le GPS d'environ 140 vols au large du Royaume-Uni.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 62,
+  "action": "Rien",
+  "pourquoi": "Même épisode de brouillage en mer du Nord.",
+  "doublon_de": "ded066a30cf62d47",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "b4f1c88563a89b92": {
+  "resume": "Un navire de guerre russe est soupçonné d'avoir brouillé le GPS d'environ 140 vols au large du Royaume-Uni.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 62,
+  "action": "Rien",
+  "pourquoi": "Même épisode de brouillage en mer du Nord.",
+  "doublon_de": "ded066a30cf62d47",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "ffa7fcda4dd8a075": {
+  "resume": "Un navire de guerre russe est soupçonné d'avoir brouillé le GPS d'environ 140 vols au large du Royaume-Uni.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 62,
+  "action": "Rien",
+  "pourquoi": "Même épisode de brouillage en mer du Nord.",
+  "doublon_de": "ded066a30cf62d47",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "deef7c274543380b": {
+  "resume": "Un navire de guerre russe est soupçonné d'avoir brouillé le GPS d'environ 140 vols au large du Royaume-Uni.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 62,
+  "action": "Rien",
+  "pourquoi": "Même épisode de brouillage en mer du Nord.",
+  "doublon_de": "ded066a30cf62d47",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "5a606c60fae7f764": {
+  "resume": "Un navire de guerre russe est soupçonné d'avoir brouillé le GPS d'environ 140 vols au large du Royaume-Uni.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 62,
+  "action": "Rien",
+  "pourquoi": "Même épisode de brouillage en mer du Nord.",
+  "doublon_de": "ded066a30cf62d47",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "7601886e502d1cb7": {
+  "resume": "Un navire de guerre russe est soupçonné d'avoir brouillé le GPS d'environ 140 vols au large du Royaume-Uni.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 62,
+  "action": "Rien",
+  "pourquoi": "Même épisode de brouillage en mer du Nord.",
+  "doublon_de": "ded066a30cf62d47",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "05fe9c1daa935c9b": {
+  "resume": "Ce que l'on sait de l'épisode du 9 novembre : brouillage GPS attribué à un navire russe sur des vols easyJet, Ryanair et BA.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 62,
+  "action": "Rien",
+  "pourquoi": "Même épisode ; précise la date du 9 novembre.",
+  "doublon_de": "ded066a30cf62d47",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "e7548f7228916ec7": {
+  "resume": "Analyse juridique : le brouillage attribué à un navire russe au regard du droit international.",
+  "tags": [
+   "GNSS",
+   "Gouvernance"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 55,
+  "action": "Lire",
+  "pourquoi": "Éclaire les recours possibles des États ; complément au sujet principal.",
+  "doublon_de": "ded066a30cf62d47",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "2d1602c6dcd2a667": {
+  "resume": "Couverture du crash de l'avion médicalisé au Nouveau-Mexique lié au brouillage militaire.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Même affaire.",
+  "doublon_de": "2861df8395330024",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "2253049c3c6f2b40": {
+  "resume": "Couverture du crash de l'avion médicalisé au Nouveau-Mexique lié au brouillage militaire.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Même affaire.",
+  "doublon_de": "2861df8395330024",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "542860add9a17872": {
+  "resume": "Couverture du crash de l'avion médicalisé au Nouveau-Mexique lié au brouillage militaire.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Même affaire.",
+  "doublon_de": "2861df8395330024",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "4a2b721b70495c8e": {
+  "resume": "Couverture du crash de l'avion médicalisé au Nouveau-Mexique lié au brouillage militaire.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Même affaire.",
+  "doublon_de": "2861df8395330024",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "9332d0bc98914de9": {
+  "resume": "Couverture du crash de l'avion médicalisé au Nouveau-Mexique lié au brouillage militaire.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Même affaire.",
+  "doublon_de": "2861df8395330024",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "a046a24dd0d7e62f": {
+  "resume": "Couverture du crash de l'avion médicalisé au Nouveau-Mexique lié au brouillage militaire.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Même affaire.",
+  "doublon_de": "2861df8395330024",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "320a427d655d3956": {
+  "resume": "Plan d'action commun EASA–EUROCONTROL sur les interférences GNSS (nouvelle URL du communiqué).",
+  "tags": [
+   "GNSS",
+   "Réglementation"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 80,
+  "action": "Rien",
+  "pourquoi": "Déjà à la une.",
+  "doublon_de": "281915022ccafb48",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "3349cfbabea10de9": {
+  "resume": "Rapport de l'EASA au titre de l'article 89 (nouvelle URL).",
+  "tags": [
+   "Réglementation"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 20,
+  "action": "Rien",
+  "pourquoi": "Déjà collecté.",
+  "doublon_de": "a1f176b37723e906",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "7b08f49e8ae772f3": {
+  "resume": "La conférence annuelle de sécurité de l'EASA voit dans la complaisance une menace et plaide pour une simplification des règles.",
+  "tags": [
+   "Réglementation",
+   "Gouvernance"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Le thème de la simplification pourrait toucher Part-IS à terme ; à surveiller.",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "4b954b04518f8f3f": {
+  "resume": "L'EASA et l'IATA collaborent sur le calcul des émissions.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Environnement.",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "e14345a2a594565d": {
+  "resume": "EUROPEAN ROTORS met en avant le rôle des hélicoptères.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "ff4bf1db8a4b57e1": {
+  "resume": "L'autorité norvégienne et l'EASA réunies à ZERAC25 sur l'aviation zéro émission.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "99e431f5c5bd895b": {
+  "resume": "Ce que le Cyber Resilience Act implique pour l'industrie aéronautique (Airport Industry-News).",
+  "tags": [
+   "Réglementation",
+   "Supply chain"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 58,
+  "action": "Lire",
+  "pourquoi": "Le CRA s'applique aux produits numériques des fournisseurs des entités supervisées : utile pour articuler CRA et Part-IS.",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "02d28fbc3372fdb3": {
+  "resume": "Le gouvernement fait le point après une attaque visant des réfrigérateurs et systèmes frigorifiques connectés.",
+  "tags": [
+   "Incident",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 55,
+  "action": "Suivre",
+  "pourquoi": "Éclaire l'incident du 10 novembre : il s'agit de l'attaque sur les systèmes de réfrigération (cf. déclaration ENISA), a priori sans lien avec l'aviation.",
+  "doublon_de": "ef1ec186843c96cc",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "7a0d6e74e0f833a9": {
+  "resume": "Tutoriel pour partager des indicateurs de compromission dans MISP, la plateforme développée au Luxembourg par le CIRCL.",
+  "tags": [
+   "Gouvernance"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 40,
+  "action": "Lire",
+  "pourquoi": "MISP pourrait servir au partage d'informations entre la DAC et les entités supervisées.",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "7a0c2a14d08b9dba": {
+  "resume": "Un suspect interpellé à Paris dans l'enquête sur le cambriolage de la Cité policière au Findel.",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors aviation.",
+  "doublon_de": "f4ed5a956a82ed6a",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "2b4bb2ce7b0d52b6": {
+  "resume": "Le site de MeteoLux est refait.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "84972de8bf4f1e4f": {
+  "resume": "Page drones de gouvernement.lu.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Page institutionnelle.",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "ce9a2883ac9591be": {
+  "resume": "Luxair ouvrira une liaison vers Riga à partir de mai 2027.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "39825da808888060": {
+  "resume": "Nouvelle liaison Luxair vers Riga en 2027.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Même annonce.",
+  "doublon_de": "ce9a2883ac9591be",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "833ad76bdcc2a0d6": {
+  "resume": "Nouvelle liaison Luxair vers Riga en 2027.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Même annonce.",
+  "doublon_de": "ce9a2883ac9591be",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "bc350f9c1d0ad58d": {
+  "resume": "Thai Airways : 60 529 réservations touchées par la fuite Amadeus.",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "07a3abc4bb0e9342": {
+  "resume": "Fête caritative au Portel (faux positif de la recherche GOVCERT/CIRCL).",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 0,
+  "action": "Rien",
+  "pourquoi": "Hors sujet ; requête corrigée.",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "714e05774d7d1087": {
+  "resume": "Association de volontaires à Romillé (faux positif).",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 0,
+  "action": "Rien",
+  "pourquoi": "Hors sujet ; requête corrigée.",
+  "analysed_at": "2026-11-25T03:49:02Z"
+ },
+ "5cf404a9525dab0b": {
+  "resume": "Une équipe de Waterloo gagne le concours Airbus « Fly Your Ideas ».",
+  "tags": [
+   "Contexte"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 0,
+  "action": "Rien",
+  "pourquoi": "Hors sujet ; requête corrigée.",
+  "analysed_at": "2026-11-25T03:49:02Z"
  }
 }
