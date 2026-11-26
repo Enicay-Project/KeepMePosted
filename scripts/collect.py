@@ -49,7 +49,17 @@ def item_id(link: str, title: str = "") -> str:
     return hashlib.sha1(key.encode("utf-8")).hexdigest()[:16]
 
 
+_last_gn = [0.0]
+
+
 def fetch(url: str) -> str:
+    # Google News renvoie 429 si les requêtes s'enchaînent : on les espace.
+    if "news.google.com" in url:
+        import time
+        wait = 8 - (time.monotonic() - _last_gn[0])
+        if wait > 0:
+            time.sleep(wait)
+        _last_gn[0] = time.monotonic()
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "fr,en;q=0.8"})
     with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
         raw = r.read()

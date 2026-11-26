@@ -140,5 +140,31 @@
     "note": "Toujours ouvert : la qualification des détections de drones de septembre."
    }
   ]
+ },
+ "2026-11-26": {
+  "date": "2026-11-26",
+  "synthese": "Pas de nouveauté réglementaire Part-IS ou NIS2. Le brouillage attribué à une frégate russe au large du Royaume-Uni reste très repris : il domine l'actualité, sans fait nouveau. À noter, une cyberattaque chez Quantum Systems, fabricant allemand de drones, et un rappel des délais de signalement NIS2 (24 h puis 72 h), à comparer avec Part-IS. Trois recherches Google News ont été refusées pour excès de requêtes : j'ai espacé les appels pour la prochaine collecte.",
+  "une": [
+   {
+    "id": "49ee7a1e9374e587",
+    "note": "Fabricant de drones visé : à suivre pour les obligations de notification et le volet U-space."
+   },
+   {
+    "id": "fb76d960e7884942",
+    "note": "Préparer un tableau comparatif des délais de notification NIS2 et Part-IS."
+   },
+   {
+    "id": "ded066a30cf62d47",
+    "note": "Toujours d'actualité : brouillage étatique en mer du Nord."
+   },
+   {
+    "id": "de0f1f7415aedbc5",
+    "note": "Retour d'expérience belge sur NIS2, utile pour anticiper au Luxembourg."
+   },
+   {
+    "id": "c930fffd675f9e5e",
+    "note": "Nouvelle tour de contrôle : un projet à suivre côté sécurité des systèmes de l'ANA."
+   }
+  ]
  }
 }
