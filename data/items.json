@@ -1,5 +1,29 @@
 [
  {
+  "id": "c297cb564296200b",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Le matériel antidrones est régulièrement testé - L'essentiel",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSWVqcFBwSUdrd09HY0kxUm9fbjg5RUxFR3JFa3NxcllpOV9OZ1NCWTBlODM5cEtkV2hDUG9ZSk5ocl9TSnNMdFE1WmRpN3dxOVhzRjdKYy02X3lLUURwZjhUcThGVHIzMlhxVkk5T25OMjdZY09mYXdlTjA2YTV0UTFKX2FBcHJSbGZ1NWktN2UzLXpnbklnY3N1NjlmMXl0Q2dmRzJmR0pRZm1EV1ZnTG8zWW4?oc=5",
+  "summary": "Le matériel antidrones est régulièrement testé L'essentiel",
+  "published": "2026-11-26T07:24:27Z",
+  "collected": "2026-11-26T11:22:54Z"
+ },
+ {
+  "id": "ce58c555a6ba2d69",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Direction la Lettonie depuis le Luxembourg ! - LOR'FM",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80eTZUQlJ5QlJoNUZ1X1o2MmpGRkxQNDUzTmVBb29GZlFsVnN1dFAyYnU3b21hZ3RvY0dmQ1lqVERYUG91VU1CSE5XNFVwa0QyaE9KM0pXSkF5TDJIRWxPM19HN2o1Q0xxY2lxYTJrSXI0dw?oc=5",
+  "summary": "Direction la Lettonie depuis le Luxembourg ! LOR'FM",
+  "published": "2026-11-26T05:24:18Z",
+  "collected": "2026-11-26T11:22:54Z"
+ },
+ {
   "id": "404a2403320ee4dc",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
@@ -106,6 +130,18 @@
   "summary": "",
   "published": "2026-11-25T11:37:45Z",
   "collected": "2026-11-25T11:37:45Z"
+ },
+ {
+  "id": "be566830d97f0f5f",
+  "source": "gn-supply",
+  "source_name": "Google News – Fournisseurs critiques de l'aviation",
+  "category": "Fournisseur",
+  "zone": "INT",
+  "title": "Cathay Pacific Shares: Record Profit, Fuel Pressure and a Data Breach - The Aviation Hub",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOWJ4MkhndDBTeFhvNllZRmF6YWkyeDZCaHZYWVpmc0FYT2ZteG5nZEZ6cjk2ajNXVWlXMTFyMDFtMFQ5RDZOdVc4ODVlTzhkZFExUE5SNkJmNTEwLVBDSmp3LTZuTlpnWm9zT0xtTGtlRXBkdVFtOXNFamhSRXpNVlAxRURWSF9kTXdJZFdtWFhKcy1pUUJyNTdwVURZZw?oc=5",
+  "summary": "Cathay Pacific Shares: Record Profit, Fuel Pressure and a Data Breach The Aviation Hub",
+  "published": "2026-11-25T11:00:00Z",
+  "collected": "2026-11-26T11:22:54Z"
  },
  {
   "id": "cc01711d17b437b9",
@@ -3624,6 +3660,18 @@
   "collected": "2026-11-26T03:47:46Z"
  },
  {
+  "id": "9c1b667ec1ff095a",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "Skyband Systems begins production of M100 avionics - GPS World",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQmp0M2lGV1M4c2piYTlhUkpFSE9TVmdGbGNnQjNIVEkza1g3RWowQ19ibDN4SU9JOGQxRkF1YU9HNDFrZVZxN05lMG1IdXVFcHFXNUZ0S0lGWjMxOFhjY3lXS0hsclNrUXI2ZHBSOWhNbzFIODM2b3VxaE01M09PdVhB?oc=5",
+  "summary": "Skyband Systems begins production of M100 avionics GPS World",
+  "published": "2026-10-19T07:00:00Z",
+  "collected": "2026-11-26T11:22:54Z"
+ },
+ {
   "id": "b8143a55a507aec7",
   "source": "gn-gnss",
   "source_name": "Google News – Brouillage et spoofing GNSS",
@@ -4906,17 +4954,5 @@
   "summary": "A Civilian Plane Crashed in New Mexico. Was Military GPS Jamming To Blame? Gadget Review",
   "published": "2026-07-30T07:00:00Z",
   "collected": "2026-11-24T12:50:28Z"
- },
- {
-  "id": "aa298dd59eae1793",
-  "source": "gn-lu-acteurs",
-  "source_name": "Google News – Acteurs aviation luxembourgeois",
-  "category": "Acteurs",
-  "zone": "LU",
-  "title": "Votum Klima détourne le tableau des départs du Findel à la veille du Jour du dépassement - Greenpeace",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3ZEZzlYS0UyLVFFRXRvdVU1RlVUYW5NNUJFdDdiODJGcGxhYjBhQjF3VFhBQ0Zuc0tmcDZSNDhQTkhOWXg0NXZyZUJoWTY5WU5LR1N4Y3pJT0dYdE9kcGxmVXRoaTJJVmtkNHBRZV9idDR0QjlESGRfR2ZTaGllY18zRWR2al9MZXd1Z1ltQmUtenhTS1NjZm52Rl8waFViVmEtdnlZS2RCUkNrWVhtcg?oc=5",
-  "summary": "Votum Klima détourne le tableau des départs du Findel à la veille du Jour du dépassement Greenpeace",
-  "published": "2026-07-29T07:00:00Z",
-  "collected": "2026-11-21T03:48:10Z"
  }
 ]
