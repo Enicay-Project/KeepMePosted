@@ -166,5 +166,27 @@
     "note": "Nouvelle tour de contrôle : un projet à suivre côté sécurité des systèmes de l'ANA."
    }
   ]
+ },
+ "2026-11-27": {
+  "date": "2026-11-27",
+  "synthese": "Journée calme. Un fait luxembourgeois : le dispositif antidrones du Findel sera renforcé, après les incidents de septembre et les doutes sur la réalité des survols. Ces nouveaux systèmes de détection chez lux-Airport et l'ANA entreront dans le périmètre de leur appréciation des risques Part-IS. Rien de nouveau sur Part-IS ou NIS2. Le brouillage en mer du Nord continue d'être repris sans fait nouveau.",
+  "une": [
+   {
+    "id": "ab13319aa824f95b",
+    "note": "Demander comment les nouveaux capteurs antidrones s'intègrent aux systèmes de l'aéroport et de l'ANA, et qui en gère les données."
+   },
+   {
+    "id": "d6fa8453289b8de6",
+    "note": "Contexte : le gouvernement n'a pas pu confirmer les survols de septembre."
+   },
+   {
+    "id": "49ee7a1e9374e587",
+    "note": "Fabricant de drones visé par une cyberattaque : à suivre."
+   },
+   {
+    "id": "fb76d960e7884942",
+    "note": "Comparatif des délais de notification NIS2 et Part-IS à préparer."
+   }
+  ]
  }
 }

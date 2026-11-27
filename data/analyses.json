@@ -5661,5 +5661,115 @@
   "action": "Rien",
   "pourquoi": "Hors sujet.",
   "analysed_at": "2026-11-26T03:48:50Z"
+ },
+ "ab13319aa824f95b": {
+  "resume": "Le dispositif de lutte antidrones sera renforcé au Findel, après les incidents de septembre et les doutes sur la réalité des survols.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [
+   "IS.I.OR.205",
+   "IS.I.OR.220"
+  ],
+  "perimetre": "Entités",
+  "score": 70,
+  "action": "Suivre",
+  "pourquoi": "Nouveaux systèmes de détection chez lux-Airport et l'ANA : leur intégration, leurs données et leur fiabilité relèvent de l'appréciation des risques Part-IS.",
+  "analysed_at": "2026-11-27T03:49:22Z"
+ },
+ "c297cb564296200b": {
+  "resume": "Le matériel antidrones du Findel est régulièrement testé, selon L'essentiel.",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Entités",
+  "score": 62,
+  "action": "Rien",
+  "pourquoi": "Même sujet que le renforcement du dispositif.",
+  "doublon_de": "ab13319aa824f95b",
+  "analysed_at": "2026-11-27T03:49:22Z"
+ },
+ "4896205f77310765": {
+  "resume": "Brouillage GPS de 140 vols au large du Royaume-Uni, un navire russe soupçonné.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 58,
+  "action": "Rien",
+  "pourquoi": "Même épisode.",
+  "doublon_de": "ded066a30cf62d47",
+  "analysed_at": "2026-11-27T03:49:22Z"
+ },
+ "c2943e833466b2bc": {
+  "resume": "Des experts craignent un incident comparable au MH17 après le brouillage attribué à la Russie.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 45,
+  "action": "Rien",
+  "pourquoi": "Même épisode, sous l'angle du risque d'accident.",
+  "doublon_de": "ded066a30cf62d47",
+  "analysed_at": "2026-11-27T03:49:22Z"
+ },
+ "be566830d97f0f5f": {
+  "resume": "Cathay Pacific : bénéfice record, pression sur le carburant et fuite de données Amadeus.",
+  "tags": [
+   "Fournisseur"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Article financier qui mentionne la fuite Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-27T03:49:22Z"
+ },
+ "9c1b667ec1ff095a": {
+  "resume": "Skyband lance la production de son boîtier avionique M100 contre le brouillage.",
+  "tags": [
+   "GNSS"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 15,
+  "action": "Rien",
+  "pourquoi": "Même annonce produit.",
+  "doublon_de": "bcc813aada3a463a",
+  "analysed_at": "2026-11-27T03:49:22Z"
+ },
+ "ce58c555a6ba2d69": {
+  "resume": "Nouvelle liaison Luxembourg–Riga.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Même annonce.",
+  "doublon_de": "ce9a2883ac9591be",
+  "analysed_at": "2026-11-27T03:49:22Z"
+ },
+ "2af8f0e654789afe": {
+  "resume": "Luxair modernise sa flotte avec ses premiers Boeing 737 MAX 8.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 15,
+  "action": "Rien",
+  "pourquoi": "Même sujet que la livraison des 737-8.",
+  "doublon_de": "844640c6a6a3444c",
+  "analysed_at": "2026-11-27T03:49:22Z"
  }
 }
