@@ -1,5 +1,41 @@
 [
  {
+  "id": "ab13319aa824f95b",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Le dispositif antidrones sera renforcé au Findel - Lequotidien",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY0xwSmxkT0FsOHNrQXc1cWt4U2tzOENkb3kxMGZ4S3hBT25MamxEZjlJVlk1MGV4U3JoVDJSX1k3QUJXU2pvQ3VYU0VJa1lXR0U2VTRMOWt1cmIwWUtHR25sWkVQamZQbmQ4WklaLWUxUmN2U1lVXzllNEhBZlRFZ01uMENMa0x1UURoLXlUQkQ0cjk3X1BwWmhfWWt1YU92OEM0?oc=5",
+  "summary": "Le dispositif antidrones sera renforcé au Findel Lequotidien",
+  "published": "2026-11-26T17:43:29Z",
+  "collected": "2026-11-27T03:47:50Z"
+ },
+ {
+  "id": "4896205f77310765",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "GPS jamming hit 140 flights off UK coast, Russian ship suspected - Inshorts",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPczE2X1FVNFZXc0x0RUg4S3RfV1laOTNfeXRmZGRmdkdWc2hzdThUOXViMVFsS3pRSER5X0lmTVc2ZzlIWEJ3aTU1OTZxZ3VFd012emh3STAtMmp3YXNEYmVtanhUd1FOUllRY1JpNnd3YnhNUGFhVnVoQjV0VkVlMjBUX2V1RzB3d0FRUzlTOUNOeEEtTVAtb0pleFlzemdzaDhRN2FNbGFseTg?oc=5",
+  "summary": "GPS jamming hit 140 flights off UK coast, Russian ship suspected Inshorts",
+  "published": "2026-11-26T14:31:41Z",
+  "collected": "2026-11-27T03:47:50Z"
+ },
+ {
+  "id": "c2943e833466b2bc",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "Experts fear MH17-like incident after Russia reportedly jams GPS signals - شبكة تواصل الإخبارية",
+  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pMjdTTDB5a3pqdVNHNFBLUEpoQndEZXJtUjl5MEtaaTBpQ3VkRFl4dmJXY2dHNnJmcTR4WjdpTml6Rmx6ZXVvRUJjbmlETTRwSTQw?oc=5",
+  "summary": "Experts fear MH17-like incident after Russia reportedly jams GPS signals شبكة تواصل الإخبارية",
+  "published": "2026-11-26T10:44:58Z",
+  "collected": "2026-11-27T03:47:50Z"
+ },
+ {
   "id": "c297cb564296200b",
   "source": "gn-lu-acteurs",
   "source_name": "Google News – Acteurs aviation luxembourgeois",
@@ -4522,6 +4558,18 @@
   "summary": "Vu du ciel : Delta Air Lines, Aeromexico, Luxair, Alaska Airlines, United, American Airlines, Ryanair, Lufthansa, etc. LaQuotidienne.fr",
   "published": "2026-08-31T07:00:00Z",
   "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "2af8f0e654789afe",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Luxair modernise sa flotte : après les Embraer E2, deux premiers Boeing 737 MAX-8 livrés au Findel - Air Journal",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNktVbDBQVC1tQ1I4VVIzQ0hXckJyX0FOTGJMMHZZVld6YndJTVo3QjhLVDFMMkpPMng5VGZKOXg1VkpQR29Neld2ZE1DSktLZERlQjM2X0VMSk11aVZiM1h0Nm56OWtuampGNGY3NFlFeHdvcnkxcDlzZzVSU0xhRlRBYjd0TGlFUVVoRXpLRFFhRk82TlRJSDNOWkNDR3E3T2FNR25PNWxCblBzVG00TGNHRkM5R1Y4V1k5VzBVZDFRZ1NjTXg5YmwzdzhPRmt5cjNZcFhMUFk4Ukx4ZGNV?oc=5",
+  "summary": "Luxair modernise sa flotte : après les Embraer E2, deux premiers Boeing 737 MAX-8 livrés au Findel Air Journal",
+  "published": "2026-08-30T07:00:00Z",
+  "collected": "2026-11-27T03:47:50Z"
  },
  {
   "id": "5bd754d00d16c13a",
