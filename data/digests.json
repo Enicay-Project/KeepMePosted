@@ -188,5 +188,27 @@
     "note": "Comparatif des délais de notification NIS2 et Part-IS à préparer."
    }
   ]
+ },
+ "2026-11-28": {
+  "date": "2026-11-28",
+  "synthese": "Le brouillage GNSS attribué à des navires russes se répète : après l'épisode du 9 novembre au large du Royaume-Uni, des dizaines de vols ont perdu le GPS au large de la Suède. C'est le signal principal, à transmettre au CISO. Autre point utile : la Thaïlande renforce par la réglementation la cybersécurité de son aviation après les fuites Amadeus, un parallèle direct avec le rôle de la DAC. Amadeus annonce avoir corrigé la vulnérabilité exploitée. Rien de nouveau sur Part-IS ou NIS2.",
+  "une": [
+   {
+    "id": "4ef89d3b2d9549e7",
+    "note": "Deuxième épisode en trois semaines : compléter la note GNSS pour le CISO et les opérateurs."
+   },
+   {
+    "id": "b05ce4a7c072cf40",
+    "note": "Parallèle utile : comment une autorité répond par la réglementation à un incident fournisseur."
+   },
+   {
+    "id": "19e61fbf932a1f85",
+    "note": "Amadeus a corrigé la faille : vérifier que les entités dépendantes ont reçu l'information."
+   },
+   {
+    "id": "ab13319aa824f95b",
+    "note": "Renforcement antidrones au Findel : à suivre."
+   }
+  ]
  }
 }

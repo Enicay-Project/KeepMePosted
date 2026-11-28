@@ -5771,5 +5771,290 @@
   "pourquoi": "Même sujet que la livraison des 737-8.",
   "doublon_de": "844640c6a6a3444c",
   "analysed_at": "2026-11-27T03:49:22Z"
+ },
+ "4ef89d3b2d9549e7": {
+  "resume": "Des dizaines de vols perdent le GPS au large de la Suède lors d'un brouillage présumé ; un navire russe est à nouveau soupçonné.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [
+   "IS.I.OR.205",
+   "IS.AR.205"
+  ],
+  "perimetre": "Les deux",
+  "score": 72,
+  "action": "Informer le CISO",
+  "pourquoi": "Deuxième épisode attribué à un navire russe en moins de trois semaines : le brouillage maritime devient récurrent sur les routes d'Europe du Nord.",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "776b4a9bfa10932d": {
+  "resume": "De nouveaux vols britanniques auraient été brouillés depuis un navire russe au large de la Suède.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 65,
+  "action": "Rien",
+  "pourquoi": "Même épisode suédois.",
+  "doublon_de": "4ef89d3b2d9549e7",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "b05ce4a7c072cf40": {
+  "resume": "La Thaïlande impose un renforcement de la cybersécurité de l'aviation après les fuites de données en Asie (Amadeus).",
+  "tags": [
+   "Gouvernance",
+   "Réglementation",
+   "Incident"
+  ],
+  "exigences": [
+   "IS.AR.200"
+  ],
+  "perimetre": "DAC",
+  "score": 62,
+  "action": "Lire",
+  "pourquoi": "Exemple d'une autorité qui réagit par la réglementation à un incident fournisseur : parallèle direct avec le rôle de la DAC.",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "19e61fbf932a1f85": {
+  "resume": "Amadeus corrige la vulnérabilité de son système de réservation exploitée lors de la fuite.",
+  "tags": [
+   "Incident",
+   "Fournisseur",
+   "Vulnérabilité"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 60,
+  "action": "Lire",
+  "pourquoi": "Première information sur la remédiation côté fournisseur.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "41f51db34d223f11": {
+  "resume": "Couverture de la fuite Amadeus : « Caribbean Airlines among at least 8 airlines affected in data breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "01d00e6bd0e3ed5e": {
+  "resume": "Couverture de la fuite Amadeus : « Warning for Qantas passengers as global airline booking giant suffers data breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "c109dd77d176f5eb": {
+  "resume": "Couverture de la fuite Amadeus : « Singapore Airlines says 46,000 booking records affected by Amadeus breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "a523a7e5c4ce5ae1": {
+  "resume": "Couverture de la fuite Amadeus : « Qantas, major airlines hit in cyber breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "261465519af7b65d": {
+  "resume": "Couverture de la fuite Amadeus : « Cathay Pacific Joins Growing List of Airlines Hit by Data Breach ».",
+  "tags": [
+   "Incident",
+   "Fournisseur"
+  ],
+  "exigences": [
+   "IS.I.OR.235"
+  ],
+  "perimetre": "Entités",
+  "score": 55,
+  "action": "Rien",
+  "pourquoi": "Même incident Amadeus.",
+  "doublon_de": "904dfc7e6eeb2285",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "a689f49eb9a74bbc": {
+  "resume": "IEEE Spectrum : la FAA prend au sérieux la protection des fréquences aéronautiques.",
+  "tags": [
+   "GNSS",
+   "Réglementation"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 40,
+  "action": "Lire",
+  "pourquoi": "Contexte réglementaire américain sur le spectre et le brouillage.",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "bebe90dc17b628de": {
+  "resume": "OpsGroup fait le point sur la situation opérationnelle dans l'espace aérien du Moyen-Orient.",
+  "tags": [
+   "GNSS",
+   "Menace"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 35,
+  "action": "Lire",
+  "pourquoi": "Utile pour les opérateurs luxembourgeois qui volent dans la région (Cargolux, aviation d'affaires).",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "55af283980136878": {
+  "resume": "La plateforme d'offres d'emploi de l'ADEM fermée par mesure de sécurité (octobre).",
+  "tags": [
+   "Incident",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 35,
+  "action": "Rien",
+  "pourquoi": "Incident dans l'administration luxembourgeoise, sans lien avec l'aviation.",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "6d4145fc574cfff8": {
+  "resume": "À quoi ressemblera le Findel en 2050.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 30,
+  "action": "Rien",
+  "pourquoi": "Même sujet que le Masterplan 2050.",
+  "doublon_de": "652b7a2833f08a09",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "502aa1309cabfef8": {
+  "resume": "Nouvelle destination Luxair pour 2027.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Même annonce.",
+  "doublon_de": "ce9a2883ac9591be",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "bd7ff198d8bafb88": {
+  "resume": "Luxair prévoit des perturbations sur ses vols vers l'Espagne et le Portugal.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 10,
+  "action": "Rien",
+  "pourquoi": "Exploitation.",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "5a65510576e2095a": {
+  "resume": "Un panneau à l'aéroport fait réagir.",
+  "tags": [
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Hors sujet.",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "af8dd76c222db899": {
+  "resume": "17 vols déroutés après des survols de drones au Findel (septembre).",
+  "tags": [
+   "Drones",
+   "Acteur LU"
+  ],
+  "exigences": [],
+  "perimetre": "Les deux",
+  "score": 60,
+  "action": "Rien",
+  "pourquoi": "Même série d'incidents.",
+  "doublon_de": "c31d3ff2d7bd94c3",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "9f100ac776419daa": {
+  "resume": "Page sur la formation des télépilotes (gouvernement.lu).",
+  "tags": [
+   "Drones"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Page institutionnelle.",
+  "doublon_de": "810f10c65aa0dc37",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "b7b9ce071842c1e0": {
+  "resume": "Page sur l'enregistrement des exploitants de drones.",
+  "tags": [
+   "Drones"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Page institutionnelle.",
+  "doublon_de": "c670ef24ff58a32d",
+  "analysed_at": "2026-11-28T03:50:32Z"
+ },
+ "c2c30097af0fe38f": {
+  "resume": "Page sur la catégorie spécifique des drones.",
+  "tags": [
+   "Drones"
+  ],
+  "exigences": [],
+  "perimetre": "Contexte",
+  "score": 5,
+  "action": "Rien",
+  "pourquoi": "Page institutionnelle.",
+  "doublon_de": "372e0df6ae3fc7f1",
+  "analysed_at": "2026-11-28T03:50:32Z"
  }
 }
