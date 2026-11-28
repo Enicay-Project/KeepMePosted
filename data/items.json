@@ -3336,6 +3336,18 @@
   "collected": "2026-11-24T03:47:48Z"
  },
  {
+  "id": "19e61fbf932a1f85",
+  "source": "gn-supply",
+  "source_name": "Google News – Fournisseurs critiques de l'aviation",
+  "category": "Fournisseur",
+  "zone": "INT",
+  "title": "Amadeus fixes booking system vulnerability amid airline data breaches - NST Online",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM0tPSHNSVko2dzNERl9xY1psV3ZZVEZHcHdaT1o3c3V5SnJtU1plbUttLTJvblo1aTM0WTd2NkVEY0RlTFFMU0VlTnBTMEN2WTFDSmljM2Y4RHEzZGVSS0k2WTdSMThyS01CZWwxTDFLNE50THpzVEk3QjRIbTE5NXE5T1R6RnUxM1V3YTBOUk5GOWUwYmdQSDNDNDNCYVF4dUR2SFZZd3QzWjI2MzRXMUNnZmRIQ0xUSkHSAb8BQVVfeXFMUFJmczhiODBhUkMxeWZiMldodUdlZ0ptM05xTTZtWUxjbVNXWEdnby1hNWFsOGhiM3ZHV21hOHpSS0ZyT1pSTFZZYTUyMTZ4ZnNhT19LVE9JUVlncmxNQTNlMEx3UUl0LUFhVlVjc21sT21wN1ZHTjlENHNqc3ZDUm00ODVxQm1kU0FMQ2hWSDNmejhzV0lTN1UyRE9zOHpYcUF2SURDUzNmekpoa21MNFBWRVpsZDYwLWVZNVZqUE0?oc=5",
+  "summary": "Amadeus fixes booking system vulnerability amid airline data breaches NST Online",
+  "published": "2026-11-01T07:00:00Z",
+  "collected": "2026-11-28T03:48:38Z"
+ },
+ {
   "id": "1b7764ed9c5ae724",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
@@ -3540,6 +3552,18 @@
   "collected": "2026-11-24T03:47:48Z"
  },
  {
+  "id": "261465519af7b65d",
+  "source": "gn-supply",
+  "source_name": "Google News – Fournisseurs critiques de l'aviation",
+  "category": "Fournisseur",
+  "zone": "INT",
+  "title": "Cathay Pacific Joins Growing List of Airlines Hit by Data Breach - Bloomberg",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnlCdHhJMUNGc0xtMFJwcDhPODZJRnhxT1NSaU15NjlURGdNdVYwbzZXWnRXR3lHY0lmWFp4cXBHdTBrVXB2UlFzSVJvUy1ncm1wQjBjcFkxQlo1TWVGWHBZZjBhQ3F4a0hIMnVlcWlUU2Y1aEZuREVXTDU2bHQ4LXFoTXVKRWtlT0VvUncyUG05YklNUWVZTm1lN2lJdXN2YXphelRveGlyemhBbUhaQUd5LWJPZw?oc=5",
+  "summary": "Cathay Pacific Joins Growing List of Airlines Hit by Data Breach Bloomberg",
+  "published": "2026-10-30T07:00:00Z",
+  "collected": "2026-11-28T03:48:38Z"
+ },
+ {
   "id": "a4f2d515325ad341",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
@@ -3586,6 +3610,18 @@
   "summary": "Amadeus cyberattack puts passenger data at risk at four airlines Escudo Digital",
   "published": "2026-10-29T07:00:00Z",
   "collected": "2026-11-24T03:47:48Z"
+ },
+ {
+  "id": "a689f49eb9a74bbc",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "FAA Gets Serious About Aviation Airwaves - IEEE Spectrum",
+  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tQk94VEY5RWJXTEYzbUdOQkJSc3poazlObXNMeHo0OVJiMFRhRVdGcTB4MHJSb24yQTQ3RzdBU1Eya1dtYnlPSUpHN0wxWGJJdk1HczAyVXZYMXM?oc=5",
+  "summary": "FAA Gets Serious About Aviation Airwaves IEEE Spectrum",
+  "published": "2026-10-28T08:01:58Z",
+  "collected": "2026-11-28T03:48:38Z"
  },
  {
   "id": "30b82d2d20bc592b",
@@ -3874,6 +3910,18 @@
   "summary": "Une famille de pilotes: père et fille chez Cargolux, mère et fils chez Luxair Virgule.lu",
   "published": "2026-10-17T07:00:00Z",
   "collected": "2026-11-21T03:48:10Z"
+ },
+ {
+  "id": "55af283980136878",
+  "source": "gn-govcert-circl",
+  "source_name": "Google News – GOVCERT.LU, CIRCL, cybersécurité au Luxembourg",
+  "category": "Menace",
+  "zone": "LU",
+  "title": "La plateforme d’offres d’emploi de l’Adem fermée par mesure de sécurité - Virgule.lu",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcmdPcE9ObTZrOC1jZjV3RzJtdVRrOGdSWlNWNkhpQlJsM3pkeEZvLWJmUWowa1hOX1RBY2d4a2lia2pPTk45UTJKdl9mOGh2X3BQT2tnQW0yYUtSMFFyMEJDOTVCS21LWERqLUE4Z1FNcFAzRzk2ejVXRDRZUFdSY0haai1DR1pFMkppUDd1bGMzODcyejZfU1c2RFhBWFJzQ2JkSHZkbUVqWmg2VUIxOVY0RTJiejI0?oc=5",
+  "summary": "La plateforme d’offres d’emploi de l’Adem fermée par mesure de sécurité Virgule.lu",
+  "published": "2026-10-16T07:00:00Z",
+  "collected": "2026-11-28T03:48:38Z"
  },
  {
   "id": "f5d4a7f6b23890a4",
@@ -4272,6 +4320,18 @@
   "collected": "2026-11-26T03:47:46Z"
  },
  {
+  "id": "af8dd76c222db899",
+  "source": "gn-lu-acteurs",
+  "source_name": "Google News – Acteurs aviation luxembourgeois",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "17 vols déroutés après des survols de drones à l’aéroport de Luxembourg - Moselle TV",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbW54RzBldVVibVdaUGRtcXVRNG1RWnVOMVl2Z1ctWHlQaWMybVd3b0FpSlZkVndEN3hKdGhJR0U1c3dhREpTeXJjRHVPdUVOdVJqdjF3aXRJeDFLLWw0NmpLVXJsUHI3V0NBc09YelhEN0JXS25mTHcwc3ExbmlvN3VlVk9LUzVkUWdHNUhkVUYwU1dW?oc=5",
+  "summary": "17 vols déroutés après des survols de drones à l’aéroport de Luxembourg Moselle TV",
+  "published": "2026-09-21T07:00:00Z",
+  "collected": "2026-11-28T03:48:38Z"
+ },
+ {
   "id": "9d154eaa5c972319",
   "source": "gn-gnss",
   "source_name": "Google News – Brouillage et spoofing GNSS",
@@ -4666,6 +4726,18 @@
   "summary": "Où et quand dois-je m'enregistrer? Le gouvernement luxembourgeois",
   "published": "2026-09-04T07:00:00Z",
   "collected": "2026-11-27T11:15:59Z"
+ },
+ {
+  "id": "c2c30097af0fe38f",
+  "source": "gn-gouv-lu-aviation",
+  "source_name": "Google News – gouvernement.lu (DAC, aviation)",
+  "category": "Acteurs",
+  "zone": "LU",
+  "title": "Catégorie Spécifique - Le gouvernement luxembourgeois",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQXhfNHVnMmstS2VCZGdrajJwY1VXc1FXc093WWJCSUd5Z3VzLUUya2pQQTZpM3NUXzlreVQtVjVhWXc2Mmw3THJ3cXpJNXE2WjZGYkFaTW5obWtIREdzX0FuaENTbEgxbUM2bE91WDRFZ2JXVURpOUc5a2V0LWI2MHlYdG9fRlE3?oc=5",
+  "summary": "Catégorie Spécifique Le gouvernement luxembourgeois",
+  "published": "2026-09-04T07:00:00Z",
+  "collected": "2026-11-28T03:48:38Z"
  },
  {
   "id": "85a7e7754fb67178",
