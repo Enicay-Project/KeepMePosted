@@ -1,5 +1,17 @@
 [
  {
+  "id": "3a642bc47744fd3a",
+  "source": "gn-gnss",
+  "source_name": "Google News – Brouillage et spoofing GNSS",
+  "category": "Menace",
+  "zone": "INT",
+  "title": "The impact of GPS jamming on flights – and when it can be dangerous - The i Paper",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUlA5NHV4bHRRZFY2SkVLZGQxb2oyX3Q3VEpOck9jZjFTTzlrX21JQW9QV2ZicFpJWklfTlV2T1BkaHVPRFp1X2E1aUpucnc1ei1DRW1GNVRVNmVJS0dPN1BTRDI0cDhhZEE3amlRM1YtN0ZTU1A4RmRFYTdVU1Q4WDNoZFBYNG8?oc=5",
+  "summary": "The impact of GPS jamming on flights – and when it can be dangerous The i Paper",
+  "published": "2026-11-28T09:22:28Z",
+  "collected": "2026-11-28T10:46:37Z"
+ },
+ {
   "id": "4ef89d3b2d9549e7",
   "source": "gn-gnss",
   "source_name": "Google News – Brouillage et spoofing GNSS",
@@ -2928,6 +2940,18 @@
   "collected": "2026-11-24T03:47:48Z"
  },
  {
+  "id": "06c0cee95eeb61fe",
+  "source": "gn-supply",
+  "source_name": "Google News – Fournisseurs critiques de l'aviation",
+  "category": "Fournisseur",
+  "zone": "INT",
+  "title": "SIA Data Breach: 46,000 Booking Records Accessed Through Amadeus, No Card Data Exposed. What to Do Now - https://www.misslobang.com/",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOHlrazI0cjFsSHBsaHBHdHNZdlNFQTRLVUcwaVdHSk1OdGFPSFpGcDBtMXZjcjM5VkVMNDUzTkprNmRPaUFaUDN1cUQ4M215NmRiaktSTV9HcGhkblhVb0RtazVPUzhPUDdtX3hvQ3lxR01UMUIwN3JtZm5ueHNVTnppRmhlSkZDNUpPODg3cnhBNVU?oc=5",
+  "summary": "SIA Data Breach: 46,000 Booking Records Accessed Through Amadeus, No Card Data Exposed. What to Do Now https://www.misslobang.com/",
+  "published": "2026-11-03T08:00:00Z",
+  "collected": "2026-11-28T10:46:37Z"
+ },
+ {
   "id": "f17ab9289758a5aa",
   "source": "gn-supply",
   "source_name": "Google News – Fournisseurs critiques de l'aviation",
@@ -5181,18 +5205,6 @@
   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWdhaFdYeGRONFhJSkFiWTRVNGo2OGNpakc3Z2N4R25IdEYwNGVOQ2h3ajUyYlNiczc1Ty1FUldodE1jUDRXLXhpZFIxS01TZ0lIcnpiY3RNWjFjV1FLNlFHRDFIVUVlZURzZXdhamYtWThEQzd6N3JwV3Y2Z04zaDR1bE5taFNi?oc=5",
   "summary": "It Appears That the US Military Accidentally Killed Everybody on Board a Civilian Medevac Flight in New Mexico Futurism",
   "published": "2026-08-03T07:00:00Z",
-  "collected": "2026-11-24T03:47:48Z"
- },
- {
-  "id": "e9d4ed7d1c4129a4",
-  "source": "gn-gnss",
-  "source_name": "Google News – Brouillage et spoofing GNSS",
-  "category": "Menace",
-  "zone": "INT",
-  "title": "White Sands Was Jamming GPS When a Medevac Crew Flew Into a Mountain - DroneXL",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHRDS1pYMlZlVWF4aGhYVVI1ZHlFdV9vSDh1dkdJQW9PeFZxeG9pdTJRTkFaSFcyZnVlTWtUYUljd2wyd3QtOW8ybjlsM1V4TjdTUzFnY2FkY0JSbk5VS2ZTa1MzYlNzNUV0UU41d1Zya0dXQUNHV0hmMC1oZ3FzRWRRam1Wd28?oc=5",
-  "summary": "White Sands Was Jamming GPS When a Medevac Crew Flew Into a Mountain DroneXL",
-  "published": "2026-07-31T07:00:00Z",
   "collected": "2026-11-24T03:47:48Z"
  }
 ]

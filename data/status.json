@@ -5,9 +5,9 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z",
-  "links": "12/1309"
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z",
+  "links": "12/1308"
  },
  "easa-press": {
   "name": "EASA – Communiqués de presse",
@@ -15,8 +15,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z",
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z",
   "links": "12/1310"
  },
  "easa-npa": {
@@ -25,8 +25,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z",
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z",
   "links": "50/1558"
  },
  "easa-decisions": {
@@ -35,8 +35,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z",
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z",
   "links": "49/1479"
  },
  "easa-cyber": {
@@ -45,8 +45,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z"
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z"
  },
  "icao-news": {
   "name": "ICAO – Actualités",
@@ -54,8 +54,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z",
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z",
   "links": "10/243"
  },
  "ec-nis2": {
@@ -64,8 +64,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z"
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z"
  },
  "enisa-news": {
   "name": "ENISA – Actualités",
@@ -73,8 +73,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z",
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z",
   "links": "14/189"
  },
  "certeu-advisories": {
@@ -83,8 +83,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z",
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z",
   "links": "22/182"
  },
  "chd-8364": {
@@ -93,8 +93,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z"
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z"
  },
  "circl": {
   "name": "CIRCL – Publications",
@@ -102,8 +102,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z",
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z",
   "links": "110/223"
  },
  "cnpd": {
@@ -112,18 +112,18 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z",
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z",
   "links": "20/105"
  },
  "gn-lu-acteurs": {
   "name": "Google News – Acteurs aviation luxembourgeois",
   "url": "https://news.google.com/rss/search?q=Cargolux+OR+Luxair+OR+lux-Airport+OR+%22Findel%22+OR+Luxaviation+OR+Jetfly+OR+%22Global+Jet+Luxembourg%22&hl=fr&gl=LU&ceid=LU:fr",
   "ok": true,
-  "new": 47,
+  "new": 37,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z"
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z"
  },
  "gn-lu-ana-dac": {
   "name": "Google News – ANA, DAC, aviation au Luxembourg",
@@ -131,35 +131,35 @@
   "ok": true,
   "new": 38,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z"
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z"
  },
  "gn-nis2-lu": {
   "name": "Google News – NIS2 au Luxembourg",
   "url": "https://news.google.com/rss/search?q=NIS2+Luxembourg+OR+ILR+NIS2+OR+%22projet+de+loi+8364%22&hl=fr&gl=LU&ceid=LU:fr",
   "ok": true,
-  "new": 9,
+  "new": 32,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z"
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z"
  },
  "gn-partis": {
   "name": "Google News – Part-IS et cybersécurité aviation",
   "url": "https://news.google.com/rss/search?q=%22Part-IS%22+EASA+OR+%22aviation+cybersecurity%22+OR+%22airport+cyberattack%22&hl=en&gl=US&ceid=US:en",
   "ok": true,
-  "new": 24,
+  "new": 9,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z"
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z"
  },
  "gn-gnss": {
   "name": "Google News – Brouillage et spoofing GNSS",
   "url": "https://news.google.com/rss/search?q=GNSS+OR+GPS+jamming+OR+spoofing+aviation+OR+flights&hl=en&gl=US&ceid=US:en",
   "ok": true,
-  "new": 22,
+  "new": 29,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z"
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z"
  },
  "gn-supply": {
   "name": "Google News – Fournisseurs critiques de l'aviation",
@@ -167,8 +167,8 @@
   "ok": true,
   "new": 9,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z"
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z"
  },
  "cisa-ics": {
   "name": "CISA – Avis ICS",
@@ -176,8 +176,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z"
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z"
  },
  "cisa-all": {
   "name": "CISA – Tous les avis",
@@ -185,8 +185,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z"
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z"
  },
  "therecord": {
   "name": "The Record",
@@ -194,8 +194,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z"
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z"
  },
  "bleeping": {
   "name": "BleepingComputer",
@@ -203,8 +203,8 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z"
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z"
  },
  "securityweek": {
   "name": "SecurityWeek",
@@ -212,34 +212,34 @@
   "ok": true,
   "new": 0,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z"
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z"
  },
  "gn-eurocontrol-icao": {
   "name": "Google News – EUROCONTROL et ICAO (cybersécurité, ATM)",
   "url": "https://news.google.com/rss/search?q=EUROCONTROL+OR+ICAO+%28cyber+OR+cybersecurity+OR+%22information+security%22+OR+GNSS%29&hl=en&gl=US&ceid=US:en",
   "ok": true,
-  "new": 31,
+  "new": 32,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z"
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z"
  },
  "gn-gouv-lu-aviation": {
   "name": "Google News – gouvernement.lu (DAC, aviation)",
   "url": "https://news.google.com/rss/search?q=site:gouvernement.lu+%28aviation+OR+a%C3%A9roport+OR+Findel+OR+%22aviation+civile%22+OR+drone%29&hl=fr&gl=LU&ceid=LU:fr",
   "ok": true,
-  "new": 39,
+  "new": 38,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z"
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z"
  },
  "gn-govcert-circl": {
   "name": "Google News – GOVCERT.LU, CIRCL, cybersécurité au Luxembourg",
   "url": "https://news.google.com/rss/search?q=GOVCERT.LU+OR+%22CIRCL+Luxembourg%22+OR+%22cybers%C3%A9curit%C3%A9+Luxembourg%22+OR+%22cyberattaque+Luxembourg%22&hl=fr&gl=LU&ceid=LU:fr",
   "ok": true,
-  "new": 4,
+  "new": 3,
   "error": null,
-  "last_ok": "2026-11-28T03:48:38Z",
-  "checked": "2026-11-28T03:48:38Z"
+  "last_ok": "2026-11-28T10:46:37Z",
+  "checked": "2026-11-28T10:46:37Z"
  }
 }
